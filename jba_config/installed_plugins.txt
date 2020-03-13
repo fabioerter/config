@@ -1,0 +1,6 @@
+de.espend.idea.php.annotation
+in.thekalinga.snippet.intellij
+org.jetbrains.plugins.rest
+de.espend.idea.php.toolbox
+fr.adrienbrault.idea.symfony2plugin
+BashSupport

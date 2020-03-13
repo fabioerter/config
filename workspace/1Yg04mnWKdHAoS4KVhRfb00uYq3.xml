@@ -1,0 +1,451 @@
+<project version="4">
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Views/templates/template.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-3502">
+              <caret line="131" column="25" selection-start-line="131" selection-start-column="25" selection-end-line="131" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Views/templates/getGallery.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Views/templates/templateFiles/portfolio/portfolio.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-355">
+              <caret line="26" column="20" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Views/templates/404.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="385" column="8" lean-forward="true" selection-start-line="385" selection-start-column="8" selection-end-line="385" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Views/templates/blank.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="280">
+              <caret line="14" column="14" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/sb-admin-2.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>masthead</find>
+      <find>\&quot;</find>
+      <find>Fabio</find>
+      <find>img-portifolio</find>
+      <find>css</find>
+      <find>das</find>
+      <find>charts</find>
+      <find>js</find>
+      <find>busines</find>
+      <find>busi</find>
+      <find>scroll</find>
+      <find>page-top</find>
+      <find>bus</find>
+      <find>bt-business</find>
+      <find>all temp</find>
+      <find>business</find>
+      <find>utilities</find>
+      <find>portifolio</find>
+      <find>sb-admin-2</find>
+      <find>template</find>
+      <find>all template</find>
+      <find>portfolio</find>
+      <find>php</find>
+      <find>business1</find>
+      <find>\</find>
+      <find>all tem</find>
+      <find>dash</find>
+      <find>ally the utility classes</find>
+      <find>src=&quot;</find>
+      <find>href=&quot;</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>&quot;</replace>
+      <replace>Fábio</replace>
+      <replace>src=&quot;../../</replace>
+      <replace>href=&quot;../../</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Commons/Menu.php" />
+        <option value="$PROJECT_DIR$/css/stylish-portfolio.css" />
+        <option value="$PROJECT_DIR$/Commons/footer.php" />
+        <option value="$PROJECT_DIR$/Views/Templates/Templates.php" />
+        <option value="$PROJECT_DIR$/Views/Templates.php" />
+        <option value="$PROJECT_DIR$/Views/templates/classes/template.php" />
+        <option value="$PROJECT_DIR$/Views/templates/classes/Template.php" />
+        <option value="$PROJECT_DIR$/Views/templates/templateFiles/Portifolio/index.php" />
+        <option value="$PROJECT_DIR$/Views/templates/classes/TemplateList.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/css/sb-admin-2.css" />
+        <option value="$PROJECT_DIR$/Views/templates/template.html" />
+        <option value="$PROJECT_DIR$/Views/templates/templateFiles/portfolio/portfolio.php" />
+        <option value="$PROJECT_DIR$/Views/templates/getGallery.php" />
+        <option value="$PROJECT_DIR$/js/sb-admin-2.js" />
+        <option value="$PROJECT_DIR$/Views/templates/template.php" />
+        <option value="$PROJECT_DIR$/Views/templates/404.html" />
+        <option value="$PROJECT_DIR$/Views/templates/blank.html" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" x="-8" y="-8" width="1456" height="886" extendedState="6" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1" />
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="fabioscalzer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fabioscalzer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fabioscalzer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fabioscalzer" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fabioscalzer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fabioscalzer" type="462c0819:PsiDirectoryNode" />
+              <item name="Views" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fabioscalzer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fabioscalzer" type="462c0819:PsiDirectoryNode" />
+              <item name="Views" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fabioscalzer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fabioscalzer" type="462c0819:PsiDirectoryNode" />
+              <item name="Views" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="tempImg" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fabioscalzer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fabioscalzer" type="462c0819:PsiDirectoryNode" />
+              <item name="Views" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="tempImg" type="462c0819:PsiDirectoryNode" />
+              <item name="portfolio" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fabioscalzer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fabioscalzer" type="462c0819:PsiDirectoryNode" />
+              <item name="Views" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="templateFiles" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fabioscalzer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fabioscalzer" type="462c0819:PsiDirectoryNode" />
+              <item name="Views" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="templateFiles" type="462c0819:PsiDirectoryNode" />
+              <item name="portfolio" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fabioscalzer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="bcb0276e:PhpExternalLibrariesNodePatcher$PatchedExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="fabioscalzer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="bcb0276e:PhpExternalLibrariesNodePatcher$PatchedExternalLibrariesNode" />
+              <item name="PHP" type="5114b859:PhpExternalLibrariesNodePatcher$PatchedLibraryNode" />
+            </path>
+            <path>
+              <item name="fabioscalzer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="bcb0276e:PhpExternalLibrariesNodePatcher$PatchedExternalLibrariesNode" />
+              <item name="PHP" type="5114b859:PhpExternalLibrariesNodePatcher$PatchedLibraryNode" />
+              <item name="fabioscalzer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fabioscalzer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="bcb0276e:PhpExternalLibrariesNodePatcher$PatchedExternalLibrariesNode" />
+              <item name="PHP" type="5114b859:PhpExternalLibrariesNodePatcher$PatchedLibraryNode" />
+              <item name="fabioscalzer" type="462c0819:PsiDirectoryNode" />
+              <item name="Views" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fabioscalzer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="bcb0276e:PhpExternalLibrariesNodePatcher$PatchedExternalLibrariesNode" />
+              <item name="PHP" type="5114b859:PhpExternalLibrariesNodePatcher$PatchedLibraryNode" />
+              <item name="fabioscalzer" type="462c0819:PsiDirectoryNode" />
+              <item name="Views" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fabioscalzer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="bcb0276e:PhpExternalLibrariesNodePatcher$PatchedExternalLibrariesNode" />
+              <item name="PHP" type="5114b859:PhpExternalLibrariesNodePatcher$PatchedLibraryNode" />
+              <item name="fabioscalzer" type="462c0819:PsiDirectoryNode" />
+              <item name="Views" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="templateFiles" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fabioscalzer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="bcb0276e:PhpExternalLibrariesNodePatcher$PatchedExternalLibrariesNode" />
+              <item name="PHP" type="5114b859:PhpExternalLibrariesNodePatcher$PatchedLibraryNode" />
+              <item name="fabioscalzer" type="462c0819:PsiDirectoryNode" />
+              <item name="Views" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="templateFiles" type="462c0819:PsiDirectoryNode" />
+              <item name="portfolio" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="C:\Users\fabio.degasperi\PhpstormProjects\fabioScalzer\fabioscalzer\" commandHistoryFileName="history-29" />
+    </option>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="71735000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1456" height="886" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.5337662" visible="true" weight="0.28346458" />
+      <window_info id="Structure" order="1" sideWeight="0.46623376" side_tool="true" weight="0.27916965" />
+      <window_info id="Gulp" order="2" side_tool="true" weight="0.27916965" />
+      <window_info id="npm" order="3" side_tool="true" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" weight="0.32987013" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32987013" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4996421" weight="0.22207792" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32987013" />
+      <window_info anchor="bottom" id="Services" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32987013" />
+      <window_info anchor="bottom" id="Internal Method Tracing" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32987013" />
+      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.5003579" side_tool="true" weight="0.32987013" />
+      <window_info active="true" anchor="bottom" id="Duplicates" order="13" sideWeight="0.4996421" visible="true" weight="0.32987013" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" weight="0.16607015" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SECOND">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.travis.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contents/BG-Tech.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/stylish-portfolio.min.css" />
+    <entry file="file://$PROJECT_DIR$/Commons/Menu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/bg-callout.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/bootstrap/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="480" column="14" selection-start-line="480" selection-start-column="10" selection-end-line="480" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/portfolio-1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/portfolio-2.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Views/Templates.php" />
+    <entry file="file://$PROJECT_DIR$/Commons/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Views/templates/buttons.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-158" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/sb-admin-2.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="119890" selection-start-line="9" selection-start-column="119890" selection-end-line="9" selection-end-column="119890" />
+          <folding>
+            <element signature="e#22861#23095#2" expanded="true" />
+            <element signature="e#23900#24053#1" expanded="true" />
+            <element signature="e#24093#24327#1" expanded="true" />
+            <element signature="e#27336#27612#2" expanded="true" />
+            <element signature="e#28444#28597#1" expanded="true" />
+            <element signature="e#28637#28913#1" expanded="true" />
+            <element signature="e#57447#57634#2" expanded="true" />
+            <element signature="e#57863#57999#2" expanded="true" />
+            <element signature="e#58404#58537#2" expanded="true" />
+            <element signature="e#59681#59834#1" expanded="true" />
+            <element signature="e#70706#70936#2" expanded="true" />
+            <element signature="e#71803#72039#2" expanded="true" />
+            <element signature="e#100080#100257#2" expanded="true" />
+            <element signature="e#100303#100480#2" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Views/templates/classes/Template.php" />
+    <entry file="file://$PROJECT_DIR$/js/stylish-portfolio.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/stylish-portfolio.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="366" selection-start-line="366" selection-end-line="366" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/fontawesome-free/css/all.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="9074" selection-start-line="4" selection-start-column="9074" selection-end-line="4" selection-end-column="9074" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/jquery/jquery.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="7636" column="4" selection-start-line="7636" selection-start-column="4" selection-end-line="7636" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Views/templates/tempImg/business/Business.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/3f0a23e3-8604-4d14-b5b1-f46f4dcf251a/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/sb-admin-2.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="10980" column="19" lean-forward="true" selection-start-line="10980" selection-start-column="19" selection-end-line="10980" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1991">
+          <caret line="27" column="34" selection-start-line="27" selection-start-column="34" selection-end-line="27" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Views/templates/classes/TemplateList.php" />
+    <entry file="file://$PROJECT_DIR$/Views/templates/templateFiles/portfolio/portfolio.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-355">
+          <caret line="26" column="20" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/sb-admin-2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Views/templates/getGallery.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Views/templates/template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3502">
+          <caret line="131" column="25" selection-start-line="131" selection-start-column="25" selection-end-line="131" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Views/templates/404.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="385" column="8" lean-forward="true" selection-start-line="385" selection-start-column="8" selection-end-line="385" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Views/templates/blank.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="14" column="14" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
