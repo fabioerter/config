@@ -1,0 +1,11 @@
+{"app":"mockoon-desktop","level":"info","message":"[RENDERER][COMPONENT][APP] Initializing application","timestamp":"2024-10-01T16:30:12.475Z"}
+{"app":"mockoon-desktop","level":"info","message":"[RENDERER][SERVICE][ENVIRONMENTS] First load, creating demo environment","timestamp":"2024-10-01T16:30:12.539Z"}
+{"app":"mockoon-desktop","level":"info","message":"[MAIN][UPDATE] Error while checking for update: fetch failed","timestamp":"2024-10-01T16:30:13.286Z"}
+{"app":"mockoon-server","environmentName":"Demo API","environmentUUID":"8c749211-b0ba-42cd-8cca-8bc304ffe673","level":"info","message":"Server started on port 3000","timestamp":"2024-10-01T16:50:21.056Z"}
+{"app":"mockoon-server","environmentName":"Demo API","environmentUUID":"8c749211-b0ba-42cd-8cca-8bc304ffe673","level":"info","message":"Transaction recorded","requestMethod":"GET","requestPath":"/users","requestProxied":false,"responseStatus":200,"timestamp":"2024-10-01T16:50:31.131Z"}
+{"app":"mockoon-server","environmentName":"Demo API","environmentUUID":"8c749211-b0ba-42cd-8cca-8bc304ffe673","level":"info","message":"Server stopped","timestamp":"2024-10-01T16:50:40.280Z"}
+{"app":"mockoon-server","environmentName":"Demo API","environmentUUID":"8c749211-b0ba-42cd-8cca-8bc304ffe673","level":"info","message":"Server started on port 3000","timestamp":"2024-10-01T16:51:41.369Z"}
+{"app":"mockoon-server","environmentName":"Demo API","environmentUUID":"8c749211-b0ba-42cd-8cca-8bc304ffe673","level":"info","message":"Transaction recorded","requestMethod":"GET","requestPath":"/users","requestProxied":false,"responseStatus":200,"timestamp":"2024-10-01T16:51:41.723Z"}
+{"app":"mockoon-server","environmentName":"Demo API","environmentUUID":"8c749211-b0ba-42cd-8cca-8bc304ffe673","level":"info","message":"Server stopped","timestamp":"2024-10-01T16:53:19.546Z"}
+{"app":"mockoon-desktop","level":"info","message":"[RENDERER][COMPONENT][APP] Initializing application","timestamp":"2024-10-01T17:08:44.267Z"}
+{"app":"mockoon-desktop","level":"info","message":"[MAIN][UPDATE] Error while checking for update: fetch failed","timestamp":"2024-10-01T17:08:46.062Z"}

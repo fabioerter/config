@@ -1,0 +1,38 @@
+{
+  "welcomeShown": true,
+  "bannerDismissed": [],
+  "maxLogsPerEnvironment": 100,
+  "truncateRouteName": true,
+  "mainMenuSize": 283,
+  "secondaryMenuSize": 200,
+  "fakerLocale": "en",
+  "fakerSeed": null,
+  "lastChangelog": "8.4.0",
+  "environments": [
+    {
+      "uuid": "8c749211-b0ba-42cd-8cca-8bc304ffe673",
+      "path": "/home/fabioscalzer/.config/mockoon/storage/demo.json",
+      "cloud": false,
+      "lastServerHash": null
+    }
+  ],
+  "disabledRoutes": {},
+  "collapsedFolders": {},
+  "enableTelemetry": true,
+  "storagePrettyPrint": true,
+  "fileWatcherEnabled": "disabled",
+  "dialogWorkingDir": "",
+  "startEnvironmentsOnLoad": false,
+  "logTransactions": false,
+  "environmentsCategoriesOrder": [
+    "local",
+    "cloud"
+  ],
+  "environmentsCategoriesCollapsed": {
+    "local": false,
+    "cloud": false
+  },
+  "envVarsPrefix": "MOCKOON_",
+  "activeEnvironmentUuid": "8c749211-b0ba-42cd-8cca-8bc304ffe673",
+  "enableRandomLatency": false
+}

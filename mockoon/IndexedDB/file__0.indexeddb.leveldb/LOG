@@ -1,0 +1,7 @@
+2024/10/01-14:08:44.251 44cd Reusing MANIFEST /home/fabioscalzer/.config/mockoon/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2024/10/01-14:08:44.251 44cd Recovering log #4
+2024/10/01-14:08:44.251 44cd Reusing old log /home/fabioscalzer/.config/mockoon/IndexedDB/file__0.indexeddb.leveldb/000004.log 
+2024/10/01-14:08:44.441 44cf Level-0 table #8: started
+2024/10/01-14:08:44.445 44cf Level-0 table #8: 1941 bytes OK
+2024/10/01-14:08:44.450 44cf Delete type=0 #4
+2024/10/01-14:08:44.450 44cf Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)
