@@ -1,0 +1,72 @@
+[09:09:34] [Info] こんにちは！ Booting Zettlr at Fri Sep 22 2023 09:09:34 GMT-0300 (Brasilia Standard Time).
+[09:09:34] [Info] Registering custom protocol safe-file
+[09:09:35] [Warning] [Assets Provider] Found outdated filter links.lua; copying ...
+[09:09:35] [Warning] [Assets Provider] Found outdated filter tags.lua; copying ...
+[09:09:35] [Info] [Citeproc Provider] Loading CSL locale file at /usr/lib/zettlr/resources/app.asar/.webpack/main/assets/csl-locales/locales-en-US.xml ...
+[09:09:35] [Info] [Update Provider] Checking for application updates ...
+[09:09:35] [Info] [Updater] Checking https://zettlr.com/api/releases/latest for updates ...
+[09:09:35] [Info] [FSAL] Loaded all files and workspaces in 0.06 seconds
+[09:09:35] [Info] [Window Manager] Window Manager started.
+[09:09:35] [Info] [Document Manager] Restored 1 open windows.
+[09:09:35] [Info] [AppServiceContainer] Boot successful!
+[09:09:35] [Info] [Application] Added /usr/lib/zettlr/resources to PATH.
+[09:09:35] [Info] [Application] The bundled pandoc executable is now in PATH. If you do not want to use the bundled pandoc, uncheck the corresponding setting and reboot the app.
+[09:09:35] [Info] [Update Provider] New update available! Please update to v3.0.1 soon!
+[09:09:36] [Info] [Update Provider] Found SHA256 checksum for Zettlr-3.0.1-x64.exe
+[09:09:36] [Info] [Update Provider] Found SHA256 checksum for Zettlr-3.0.1-x64.dmg
+[09:09:36] [Info] [Update Provider] Found SHA256 checksum for Zettlr-3.0.1-arm64.dmg
+[09:09:36] [Info] [Update Provider] Found SHA256 checksum for Zettlr-3.0.1-x86_64.AppImage
+[09:09:36] [Info] [Update Provider] Found SHA256 checksum for Zettlr-3.0.1-arm64.AppImage
+[09:09:36] [Info] [Update Provider] Found SHA256 checksum for Zettlr-3.0.1-amd64.deb
+[09:09:36] [Info] [Update Provider] Found SHA256 checksum for Zettlr-3.0.1-arm64.deb
+[09:09:36] [Info] [Update Provider] Found SHA256 checksum for Zettlr-3.0.1-x86_64.rpm
+[09:09:36] [Info] [Update Provider] Found SHA256 checksum for Zettlr-3.0.1-aarch64.rpm
+[09:09:36] [Info] Update available: v3.0.1
+[09:09:45] [Info] さようなら！ Shutting down at Fri Sep 22 2023 09:09:45 GMT-0300 (Brasilia Standard Time)
+[09:09:45] [Info] Application uptime was: 0 minutes, and 11.411 seconds.
+[09:09:45] [Info] [FSAL Cache] Cleaned up cache: Removed 3 remnants.
+[09:10:02] [Info] こんにちは！ Booting Zettlr at Fri Sep 22 2023 09:10:02 GMT-0300 (Brasilia Standard Time).
+[09:10:02] [Info] Registering custom protocol safe-file
+[09:10:03] [Warning] [Assets Provider] Found outdated filter links.lua; copying ...
+[09:10:03] [Warning] [Assets Provider] Found outdated filter tags.lua; copying ...
+[09:10:03] [Info] [Citeproc Provider] Loading CSL locale file at /usr/lib/zettlr/resources/app.asar/.webpack/main/assets/csl-locales/locales-en-US.xml ...
+[09:10:03] [Info] [Update Provider] Checking for application updates ...
+[09:10:03] [Info] [Updater] Checking https://zettlr.com/api/releases/latest for updates ...
+[09:10:03] [Info] [FSAL] Loaded all files and workspaces in 0.03 seconds
+[09:10:03] [Info] [Window Manager] Window Manager started.
+[09:10:03] [Info] [Document Manager] Restored 1 open windows.
+[09:10:03] [Info] [AppServiceContainer] Boot successful!
+[09:10:03] [Info] [Application] Added /usr/lib/zettlr/resources to PATH.
+[09:10:03] [Info] [Application] The bundled pandoc executable is now in PATH. If you do not want to use the bundled pandoc, uncheck the corresponding setting and reboot the app.
+[09:10:03] [Info] [Update Provider] New update available! Please update to v3.0.1 soon!
+[09:10:04] [Info] [Update Provider] Found SHA256 checksum for Zettlr-3.0.1-x64.exe
+[09:10:04] [Info] [Update Provider] Found SHA256 checksum for Zettlr-3.0.1-x64.dmg
+[09:10:04] [Info] [Update Provider] Found SHA256 checksum for Zettlr-3.0.1-arm64.dmg
+[09:10:04] [Info] [Update Provider] Found SHA256 checksum for Zettlr-3.0.1-x86_64.AppImage
+[09:10:04] [Info] [Update Provider] Found SHA256 checksum for Zettlr-3.0.1-arm64.AppImage
+[09:10:04] [Info] [Update Provider] Found SHA256 checksum for Zettlr-3.0.1-amd64.deb
+[09:10:04] [Info] [Update Provider] Found SHA256 checksum for Zettlr-3.0.1-arm64.deb
+[09:10:04] [Info] [Update Provider] Found SHA256 checksum for Zettlr-3.0.1-x86_64.rpm
+[09:10:04] [Info] [Update Provider] Found SHA256 checksum for Zettlr-3.0.1-aarch64.rpm
+[09:10:04] [Info] Update available: v3.0.1
+[10:18:45] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md
+[10:18:45] [Info] [DocumentManager] Processing change for /home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md
+[10:18:45] [Info] [DocumentManager] File /home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md saved.
+[10:18:54] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md
+[10:18:54] [Info] [DocumentManager] Processing change for /home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md
+[10:18:54] [Info] [DocumentManager] File /home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md saved.
+[10:47:09] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md
+[10:47:09] [Info] [DocumentManager] Processing change for /home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md
+[10:47:09] [Info] [DocumentManager] File /home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md saved.
+[10:47:38] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md
+[10:47:38] [Info] [DocumentManager] Processing change for /home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md
+[10:47:38] [Info] [DocumentManager] File /home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md saved.
+[10:52:16] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md
+[10:52:16] [Info] [DocumentManager] Processing change for /home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md
+[10:52:16] [Info] [DocumentManager] File /home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md saved.
+[10:52:30] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md
+[10:52:30] [Info] [DocumentManager] Processing change for /home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md
+[10:52:30] [Info] [DocumentManager] File /home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md saved.
+[19:04:15] [Info] さようなら！ Shutting down at Fri Sep 22 2023 19:04:15 GMT-0300 (Brasilia Standard Time)
+[19:04:15] [Info] Application uptime was: 9 hours, 54 minutes, and 13.524 seconds.
+[19:04:15] [Info] [FSAL Cache] Cleaned up cache: Removed 0 remnants.

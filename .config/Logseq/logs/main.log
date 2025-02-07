@@ -1,0 +1,206 @@
+[2023-10-03 13:44:40.339] [info] Logseq App(0.9.18) Starting... 
+[2023-10-03 13:44:40.348] [info] restore proxy settings {:type "system"}
+[2023-10-03 13:44:40.349] [info] set proxy to {:type "system"}
+[2023-10-03 13:44:43.052] [debug] :electron.handler/watch-dir {:path "/home/fabioscalzer/.logseq/config"}
+[2023-10-03 13:45:37.834] [info] :electron.handler/open-dir open folder selection dialog
+[2023-10-03 13:46:12.723] [debug] :electron.handler/open-dir {:path "/home/fabioscalzer/projetos/documentação/documentacao"}
+[2023-10-03 13:46:15.717] [debug] :electron.handler/watch-dir {:path "/home/fabioscalzer/projetos/documentação/documentacao"}
+[2023-10-03 13:46:46.995] [debug] :electron.handler/watch-dir {:path "/home/fabioscalzer/projetos/documentação/documentacao"}
+[2023-10-03 13:47:32.562] [debug] :electron.handler/watch-dir {:path "/home/fabioscalzer/projetos/documentação/documentacao"}
+[2023-10-03 13:47:42.172] [debug] :electron.handler/watch-dir {:path "/home/fabioscalzer/projetos/documentação/documentacao"}
+[2023-10-03 13:51:06.117] [warn] :electron.fs-watcher/on-unlink-dir {:path "/home/fabioscalzer/projetos/documentação/documentacao/Senhas.kdbx.tmp"}
+[2023-10-03 13:52:31.373] [debug] :electron.handler/get-files {:path "/home/fabioscalzer/projetos/documentação/documentacao"}
+[2023-10-03 13:52:33.498] [debug] :electron.handler/watch-dir {:path "/home/fabioscalzer/projetos/documentação/documentacao"}
+[2023-10-03 13:52:45.244] [debug] window-all-closed Quitting...
+[2023-10-03 13:57:17.352] [info] Logseq App(0.9.18) Starting... 
+[2023-10-03 13:57:17.359] [info] restore proxy settings {:type "system"}
+[2023-10-03 13:57:17.359] [info] set proxy to {:type "system"}
+[2023-10-03 13:57:20.216] [debug] :electron.handler/watch-dir {:path "/home/fabioscalzer/.logseq/config"}
+[2023-10-03 13:57:20.231] [debug] :electron.handler/unwatch-dir {:path "/home/fabioscalzer/projetos/documentação/documentacao"}
+[2023-10-03 13:57:20.232] [debug] :electron.handler/watch-dir {:path "/home/fabioscalzer/projetos/documentação/documentacao"}
+[2023-10-03 13:57:20.404] [error] IPC error:  {:event #object[Object [object Object]], :args #js ["readdir" "/home/fabioscalzer/projetos/documentação/documentacao"]} Error: ENOENT: no such file or directory, scandir '/home/fabioscalzer/projetos/documentação/documentacao'
+    at Object.readdirSync (node:fs:1451:3)
+    at t.readdirSync (node:electron/js2c/asar_bundle:2:10837)
+    at /tmp/.mount_LogseqEarTc5/resources/app/electron.js:13829:64
+    at /tmp/.mount_LogseqEarTc5/resources/app/electron.js:4994:275
+    at $JSCompiler_StaticMethods_sval$$ (/tmp/.mount_LogseqEarTc5/resources/app/electron.js:3246:301)
+    at $JSCompiler_prototypeAlias$$.$cljs$core$ISeqable$_seq$arity$1$ (/tmp/.mount_LogseqEarTc5/resources/app/electron.js:3320:3)
+    at $cljs$core$seq$$ (/tmp/.mount_LogseqEarTc5/resources/app/electron.js:1524:40)
+    at /tmp/.mount_LogseqEarTc5/resources/app/electron.js:4965:54
+    at $JSCompiler_StaticMethods_sval$$ (/tmp/.mount_LogseqEarTc5/resources/app/electron.js:3246:301)
+    at $JSCompiler_prototypeAlias$$.$cljs$core$ISeqable$_seq$arity$1$ (/tmp/.mount_LogseqEarTc5/resources/app/electron.js:3320:3)
+[2023-10-03 13:57:33.335] [info] Delete search indice:  /home/fabioscalzer/.config/Logseq/search/logseq_local__home_fabioscalzer_projetos_documentação_documentacao
+[2023-10-03 13:57:34.519] [info] :electron.handler/open-dir open folder selection dialog
+[2023-10-03 13:57:46.982] [debug] :electron.handler/open-dir {:path "/home/fabioscalzer/projetos/documentacao/documentacao"}
+[2023-10-03 13:57:49.346] [debug] :electron.handler/watch-dir {:path "/home/fabioscalzer/projetos/documentacao/documentacao"}
+[2023-10-03 13:57:54.706] [info] Delete search indice:  /home/fabioscalzer/.config/Logseq/search/logseq_local__home_fabioscalzer_projetos_documentacao_documentacao
+[2023-10-03 13:59:53.827] [warn] :electron.fs-watcher/on-unlink-dir {:path "/home/fabioscalzer/projetos/documentacao/documentacao/comercio/scoreFraude"}
+[2023-10-03 13:59:53.927] [debug] :electron.fs-watcher/on-unlink {:path "/home/fabioscalzer/projetos/documentacao/documentacao/comercio/scoreFraude/scoreFraude.md"}
+[2023-10-03 14:00:01.348] [info] :electron.handler/open-dir open folder selection dialog
+[2023-10-03 14:00:07.517] [debug] :electron.handler/open-dir {:path "/home/fabioscalzer/projetos/documentacao/documentacao"}
+[2023-10-03 14:00:09.866] [debug] :electron.handler/watch-dir {:path "/home/fabioscalzer/projetos/documentacao/documentacao"}
+[2023-10-03 14:06:36.290] [info] :electron.handler/backup backup db file logseq/config.edn
+[2023-10-03 14:06:39.595] [info] :electron.handler/backup backup db file logseq/config.edn
+[2023-10-03 14:06:41.445] [info] :electron.handler/backup backup db file logseq/config.edn
+[2023-10-03 14:06:42.620] [info] :electron.handler/backup backup db file logseq/config.edn
+[2023-10-03 14:07:15.864] [info] new-window https://docs.logseq.com/#/page/Flashcards
+[2023-10-03 14:09:54.596] [debug] window-all-closed Quitting...
+[2023-10-03 14:10:03.438] [info] Logseq App(0.9.18) Starting... 
+[2023-10-03 14:10:03.445] [info] restore proxy settings {:type "system"}
+[2023-10-03 14:10:03.446] [info] set proxy to {:type "system"}
+[2023-10-03 14:10:06.156] [debug] :electron.handler/watch-dir {:path "/home/fabioscalzer/.logseq/config"}
+[2023-10-03 14:10:06.176] [debug] :electron.handler/unwatch-dir {:path "/home/fabioscalzer/projetos/documentacao/documentacao"}
+[2023-10-03 14:10:06.177] [debug] :electron.handler/watch-dir {:path "/home/fabioscalzer/projetos/documentacao/documentacao"}
+[2023-10-03 14:13:56.184] [info] new-window https://git-scm.com/
+[2023-10-03 14:15:18.643] [info] :electron.handler/unlink {:path "/home/fabioscalzer/projetos/documentacao/documentacao/pages/TarefasTeste.md"}
+[2023-10-03 14:15:18.644] [debug] :electron.handler/unlink recycle to /home/fabioscalzer/projetos/documentacao/documentacao/logseq/.recycle/pages_TarefasTeste.md
+[2023-10-03 14:15:18.763] [debug] :electron.fs-watcher/on-unlink {:path "/home/fabioscalzer/projetos/documentacao/documentacao/pages/TarefasTeste.md"}
+[2023-10-03 14:20:24.611] [info] :electron.handler/unlink {:path "/home/fabioscalzer/projetos/documentacao/documentacao/whiteboards/651c4d0f-0d72-44e6-b010-84048eaa67c7.edn"}
+[2023-10-03 14:20:24.612] [debug] :electron.handler/unlink recycle to /home/fabioscalzer/projetos/documentacao/documentacao/logseq/.recycle/whiteboards_651c4d0f-0d72-44e6-b010-84048eaa67c7.edn
+[2023-10-03 14:38:00.064] [debug] :electron.handler/watch-dir {:path "/home/fabioscalzer/projetos/documentacao/documentacao"}
+[2023-10-03 16:25:59.307] [info] :electron.handler/backup backup db file logseq/srs-of-matrix.edn
+[2023-10-03 17:30:06.285] [info] :electron.handler/open-dir open folder selection dialog
+[2023-10-03 17:30:09.103] [debug] :electron.handler/open-dir {:path nil}
+[2023-10-03 17:50:07.112] [error] [Git] /tmp/.mount_LogseqW3gkDk/resources/app/node_modules/dugite/git/bin/git: /lib/x86_64-linux-gnu/libc.so.6: version `GLIBC_2.32' not found (required by /tmp/.mount_LogseqW3gkDk/resources/app/node_modules/dugite/git/bin/git)
+/tmp/.mount_LogseqW3gkDk/resources/app/node_modules/dugite/git/bin/git: /lib/x86_64-linux-gnu/libc.so.6: version `GLIBC_2.33' not found (required by /tmp/.mount_LogseqW3gkDk/resources/app/node_modules/dugite/git/bin/git)
+/tmp/.mount_LogseqW3gkDk/resources/app/node_modules/dugite/git/bin/git: /lib/x86_64-linux-gnu/libc.so.6: version `GLIBC_2.34' not found (required by /tmp/.mount_LogseqW3gkDk/resources/app/node_modules/dugite/git/bin/git)
+
+[2023-10-03 17:50:28.223] [error] [Git] /tmp/.mount_LogseqW3gkDk/resources/app/node_modules/dugite/git/bin/git: /lib/x86_64-linux-gnu/libc.so.6: version `GLIBC_2.32' not found (required by /tmp/.mount_LogseqW3gkDk/resources/app/node_modules/dugite/git/bin/git)
+/tmp/.mount_LogseqW3gkDk/resources/app/node_modules/dugite/git/bin/git: /lib/x86_64-linux-gnu/libc.so.6: version `GLIBC_2.33' not found (required by /tmp/.mount_LogseqW3gkDk/resources/app/node_modules/dugite/git/bin/git)
+/tmp/.mount_LogseqW3gkDk/resources/app/node_modules/dugite/git/bin/git: /lib/x86_64-linux-gnu/libc.so.6: version `GLIBC_2.34' not found (required by /tmp/.mount_LogseqW3gkDk/resources/app/node_modules/dugite/git/bin/git)
+
+[2023-10-03 17:51:05.242] [error] [Git] /tmp/.mount_LogseqW3gkDk/resources/app/node_modules/dugite/git/bin/git: /lib/x86_64-linux-gnu/libc.so.6: version `GLIBC_2.32' not found (required by /tmp/.mount_LogseqW3gkDk/resources/app/node_modules/dugite/git/bin/git)
+/tmp/.mount_LogseqW3gkDk/resources/app/node_modules/dugite/git/bin/git: /lib/x86_64-linux-gnu/libc.so.6: version `GLIBC_2.33' not found (required by /tmp/.mount_LogseqW3gkDk/resources/app/node_modules/dugite/git/bin/git)
+/tmp/.mount_LogseqW3gkDk/resources/app/node_modules/dugite/git/bin/git: /lib/x86_64-linux-gnu/libc.so.6: version `GLIBC_2.34' not found (required by /tmp/.mount_LogseqW3gkDk/resources/app/node_modules/dugite/git/bin/git)
+
+[2023-10-03 17:51:23.544] [debug] window-all-closed Quitting...
+[2023-10-03 17:52:09.425] [info] Logseq App(0.9.18) Starting... 
+[2023-10-03 17:52:09.435] [info] restore proxy settings {:type "system"}
+[2023-10-03 17:52:09.435] [info] set proxy to {:type "system"}
+[2023-10-03 17:52:12.184] [debug] :electron.handler/watch-dir {:path "/home/fabioscalzer/.logseq/config"}
+[2023-10-03 17:52:12.204] [debug] :electron.handler/unwatch-dir {:path "/home/fabioscalzer/projetos/documentacao/documentacao"}
+[2023-10-03 17:52:12.205] [debug] :electron.handler/watch-dir {:path "/home/fabioscalzer/projetos/documentacao/documentacao"}
+[2023-10-03 17:52:14.143] [error] [Git] /tmp/.mount_Logseq3FumeA/resources/app/node_modules/dugite/git/bin/git: /lib/x86_64-linux-gnu/libc.so.6: version `GLIBC_2.32' not found (required by /tmp/.mount_Logseq3FumeA/resources/app/node_modules/dugite/git/bin/git)
+/tmp/.mount_Logseq3FumeA/resources/app/node_modules/dugite/git/bin/git: /lib/x86_64-linux-gnu/libc.so.6: version `GLIBC_2.33' not found (required by /tmp/.mount_Logseq3FumeA/resources/app/node_modules/dugite/git/bin/git)
+/tmp/.mount_Logseq3FumeA/resources/app/node_modules/dugite/git/bin/git: /lib/x86_64-linux-gnu/libc.so.6: version `GLIBC_2.34' not found (required by /tmp/.mount_Logseq3FumeA/resources/app/node_modules/dugite/git/bin/git)
+
+[2023-10-03 17:52:43.735] [error] [Git] /tmp/.mount_Logseq3FumeA/resources/app/node_modules/dugite/git/bin/git: /lib/x86_64-linux-gnu/libc.so.6: version `GLIBC_2.32' not found (required by /tmp/.mount_Logseq3FumeA/resources/app/node_modules/dugite/git/bin/git)
+/tmp/.mount_Logseq3FumeA/resources/app/node_modules/dugite/git/bin/git: /lib/x86_64-linux-gnu/libc.so.6: version `GLIBC_2.33' not found (required by /tmp/.mount_Logseq3FumeA/resources/app/node_modules/dugite/git/bin/git)
+/tmp/.mount_Logseq3FumeA/resources/app/node_modules/dugite/git/bin/git: /lib/x86_64-linux-gnu/libc.so.6: version `GLIBC_2.34' not found (required by /tmp/.mount_Logseq3FumeA/resources/app/node_modules/dugite/git/bin/git)
+
+[2023-10-03 17:54:28.846] [error] [Git] /tmp/.mount_Logseq3FumeA/resources/app/node_modules/dugite/git/bin/git: /lib/x86_64-linux-gnu/libc.so.6: version `GLIBC_2.32' not found (required by /tmp/.mount_Logseq3FumeA/resources/app/node_modules/dugite/git/bin/git)
+/tmp/.mount_Logseq3FumeA/resources/app/node_modules/dugite/git/bin/git: /lib/x86_64-linux-gnu/libc.so.6: version `GLIBC_2.33' not found (required by /tmp/.mount_Logseq3FumeA/resources/app/node_modules/dugite/git/bin/git)
+/tmp/.mount_Logseq3FumeA/resources/app/node_modules/dugite/git/bin/git: /lib/x86_64-linux-gnu/libc.so.6: version `GLIBC_2.34' not found (required by /tmp/.mount_Logseq3FumeA/resources/app/node_modules/dugite/git/bin/git)
+
+[2023-10-03 17:54:28.888] [error] [Git] /tmp/.mount_Logseq3FumeA/resources/app/node_modules/dugite/git/bin/git: /lib/x86_64-linux-gnu/libc.so.6: version `GLIBC_2.32' not found (required by /tmp/.mount_Logseq3FumeA/resources/app/node_modules/dugite/git/bin/git)
+/tmp/.mount_Logseq3FumeA/resources/app/node_modules/dugite/git/bin/git: /lib/x86_64-linux-gnu/libc.so.6: version `GLIBC_2.33' not found (required by /tmp/.mount_Logseq3FumeA/resources/app/node_modules/dugite/git/bin/git)
+/tmp/.mount_Logseq3FumeA/resources/app/node_modules/dugite/git/bin/git: /lib/x86_64-linux-gnu/libc.so.6: version `GLIBC_2.34' not found (required by /tmp/.mount_Logseq3FumeA/resources/app/node_modules/dugite/git/bin/git)
+
+[2023-10-03 18:08:26.987] [error] [Git] /tmp/.mount_Logseq3FumeA/resources/app/node_modules/dugite/git/bin/git: /lib/x86_64-linux-gnu/libc.so.6: version `GLIBC_2.32' not found (required by /tmp/.mount_Logseq3FumeA/resources/app/node_modules/dugite/git/bin/git)
+/tmp/.mount_Logseq3FumeA/resources/app/node_modules/dugite/git/bin/git: /lib/x86_64-linux-gnu/libc.so.6: version `GLIBC_2.33' not found (required by /tmp/.mount_Logseq3FumeA/resources/app/node_modules/dugite/git/bin/git)
+/tmp/.mount_Logseq3FumeA/resources/app/node_modules/dugite/git/bin/git: /lib/x86_64-linux-gnu/libc.so.6: version `GLIBC_2.34' not found (required by /tmp/.mount_Logseq3FumeA/resources/app/node_modules/dugite/git/bin/git)
+
+[2023-10-03 18:08:44.110] [error] [Git] /tmp/.mount_Logseq3FumeA/resources/app/node_modules/dugite/git/bin/git: /lib/x86_64-linux-gnu/libc.so.6: version `GLIBC_2.32' not found (required by /tmp/.mount_Logseq3FumeA/resources/app/node_modules/dugite/git/bin/git)
+/tmp/.mount_Logseq3FumeA/resources/app/node_modules/dugite/git/bin/git: /lib/x86_64-linux-gnu/libc.so.6: version `GLIBC_2.33' not found (required by /tmp/.mount_Logseq3FumeA/resources/app/node_modules/dugite/git/bin/git)
+/tmp/.mount_Logseq3FumeA/resources/app/node_modules/dugite/git/bin/git: /lib/x86_64-linux-gnu/libc.so.6: version `GLIBC_2.34' not found (required by /tmp/.mount_Logseq3FumeA/resources/app/node_modules/dugite/git/bin/git)
+
+[2023-10-03 18:08:49.826] [error] [Git] /tmp/.mount_Logseq3FumeA/resources/app/node_modules/dugite/git/bin/git: /lib/x86_64-linux-gnu/libc.so.6: version `GLIBC_2.32' not found (required by /tmp/.mount_Logseq3FumeA/resources/app/node_modules/dugite/git/bin/git)
+/tmp/.mount_Logseq3FumeA/resources/app/node_modules/dugite/git/bin/git: /lib/x86_64-linux-gnu/libc.so.6: version `GLIBC_2.33' not found (required by /tmp/.mount_Logseq3FumeA/resources/app/node_modules/dugite/git/bin/git)
+/tmp/.mount_Logseq3FumeA/resources/app/node_modules/dugite/git/bin/git: /lib/x86_64-linux-gnu/libc.so.6: version `GLIBC_2.34' not found (required by /tmp/.mount_Logseq3FumeA/resources/app/node_modules/dugite/git/bin/git)
+
+[2023-10-03 18:08:49.838] [error] [Git] /tmp/.mount_Logseq3FumeA/resources/app/node_modules/dugite/git/bin/git: /lib/x86_64-linux-gnu/libc.so.6: version `GLIBC_2.32' not found (required by /tmp/.mount_Logseq3FumeA/resources/app/node_modules/dugite/git/bin/git)
+/tmp/.mount_Logseq3FumeA/resources/app/node_modules/dugite/git/bin/git: /lib/x86_64-linux-gnu/libc.so.6: version `GLIBC_2.33' not found (required by /tmp/.mount_Logseq3FumeA/resources/app/node_modules/dugite/git/bin/git)
+/tmp/.mount_Logseq3FumeA/resources/app/node_modules/dugite/git/bin/git: /lib/x86_64-linux-gnu/libc.so.6: version `GLIBC_2.34' not found (required by /tmp/.mount_Logseq3FumeA/resources/app/node_modules/dugite/git/bin/git)
+
+[2023-10-03 18:26:29.436] [debug] window-all-closed Quitting...
+[2023-10-04 08:41:11.871] [info] Logseq App(0.9.18) Starting... 
+[2023-10-04 08:41:11.881] [info] restore proxy settings {:type "system"}
+[2023-10-04 08:41:11.881] [info] set proxy to {:type "system"}
+[2023-10-04 08:41:14.876] [debug] :electron.handler/watch-dir {:path "/home/fabioscalzer/.logseq/config"}
+[2023-10-04 08:41:14.895] [debug] :electron.handler/unwatch-dir {:path "/home/fabioscalzer/projetos/documentacao/documentacao"}
+[2023-10-04 08:41:14.896] [debug] :electron.handler/watch-dir {:path "/home/fabioscalzer/projetos/documentacao/documentacao"}
+[2023-10-04 08:41:17.340] [error] [Git] /tmp/.mount_Logseq3akSiO/resources/app/node_modules/dugite/git/bin/git: /lib/x86_64-linux-gnu/libc.so.6: version `GLIBC_2.32' not found (required by /tmp/.mount_Logseq3akSiO/resources/app/node_modules/dugite/git/bin/git)
+/tmp/.mount_Logseq3akSiO/resources/app/node_modules/dugite/git/bin/git: /lib/x86_64-linux-gnu/libc.so.6: version `GLIBC_2.33' not found (required by /tmp/.mount_Logseq3akSiO/resources/app/node_modules/dugite/git/bin/git)
+/tmp/.mount_Logseq3akSiO/resources/app/node_modules/dugite/git/bin/git: /lib/x86_64-linux-gnu/libc.so.6: version `GLIBC_2.34' not found (required by /tmp/.mount_Logseq3akSiO/resources/app/node_modules/dugite/git/bin/git)
+
+[2023-10-04 08:43:47.011] [debug] [Marketplace] === Installing: pengx17/logseq-plugin-tabs ===
+[2023-10-04 08:43:47.661] [debug] [Marketplace] INFO: use github api -  https://plugins.logseq.io/github/api
+[2023-10-04 08:43:48.021] [debug] [Marketplace] Release latest: https://plugins.logseq.io/github/api/repos/pengx17/logseq-plugin-tabs/releases/latest :status 200
+[2023-10-04 08:43:48.023] [debug] [Marketplace] Release latest: v1.19.3  from https://api.github.com/repos/pengx17/logseq-plugin-tabs/releases/assets/128085027
+[2023-10-04 08:43:49.056] [debug] [Marketplace] [Updated DONE] v1.19.3
+[2023-10-04 08:43:50.280] [debug] [Marketplace] === Installing: xyhp915/logseq-journals-calendar ===
+[2023-10-04 08:43:50.817] [debug] [Marketplace] Release latest: https://plugins.logseq.io/github/api/repos/xyhp915/logseq-journals-calendar/releases/latest :status 200
+[2023-10-04 08:43:50.819] [debug] [Marketplace] Release latest: v0.10.10  from https://api.github.com/repos/xyhp915/logseq-journals-calendar/releases/assets/107493748
+[2023-10-04 08:43:52.702] [debug] [Marketplace] [Updated DONE] v0.10.10
+[2023-10-04 08:43:56.054] [debug] [Marketplace] === Installing: gidongkwon/logseq-plugin-tags ===
+[2023-10-04 08:43:56.473] [debug] [Marketplace] Release latest: https://plugins.logseq.io/github/api/repos/gidongkwon/logseq-plugin-tags/releases/latest :status 200
+[2023-10-04 08:43:56.477] [debug] [Marketplace] Release latest: v0.1.2  from https://api.github.com/repos/gidongkwon/logseq-plugin-tags/releases/assets/54122137
+[2023-10-04 08:43:57.965] [debug] [Marketplace] [Updated DONE] v0.1.2
+[2023-10-04 08:44:09.246] [debug] [Marketplace] === Installing: ahonn/logseq-plugin-todo ===
+[2023-10-04 08:44:09.892] [debug] [Marketplace] Release latest: https://plugins.logseq.io/github/api/repos/ahonn/logseq-plugin-todo/releases/latest :status 200
+[2023-10-04 08:44:09.894] [debug] [Marketplace] Release latest: v1.19.0  from https://api.github.com/repos/ahonn/logseq-plugin-todo/releases/assets/104919172
+[2023-10-04 08:44:10.968] [debug] [Marketplace] [Updated DONE] v1.19.0
+[2023-10-04 08:45:22.161] [error] [Git] /tmp/.mount_Logseq3akSiO/resources/app/node_modules/dugite/git/bin/git: /lib/x86_64-linux-gnu/libc.so.6: version `GLIBC_2.32' not found (required by /tmp/.mount_Logseq3akSiO/resources/app/node_modules/dugite/git/bin/git)
+/tmp/.mount_Logseq3akSiO/resources/app/node_modules/dugite/git/bin/git: /lib/x86_64-linux-gnu/libc.so.6: version `GLIBC_2.33' not found (required by /tmp/.mount_Logseq3akSiO/resources/app/node_modules/dugite/git/bin/git)
+/tmp/.mount_Logseq3akSiO/resources/app/node_modules/dugite/git/bin/git: /lib/x86_64-linux-gnu/libc.so.6: version `GLIBC_2.34' not found (required by /tmp/.mount_Logseq3akSiO/resources/app/node_modules/dugite/git/bin/git)
+
+[2023-10-04 08:45:23.189] [error] [Git] /tmp/.mount_Logseq3akSiO/resources/app/node_modules/dugite/git/bin/git: /lib/x86_64-linux-gnu/libc.so.6: version `GLIBC_2.32' not found (required by /tmp/.mount_Logseq3akSiO/resources/app/node_modules/dugite/git/bin/git)
+/tmp/.mount_Logseq3akSiO/resources/app/node_modules/dugite/git/bin/git: /lib/x86_64-linux-gnu/libc.so.6: version `GLIBC_2.33' not found (required by /tmp/.mount_Logseq3akSiO/resources/app/node_modules/dugite/git/bin/git)
+/tmp/.mount_Logseq3akSiO/resources/app/node_modules/dugite/git/bin/git: /lib/x86_64-linux-gnu/libc.so.6: version `GLIBC_2.34' not found (required by /tmp/.mount_Logseq3akSiO/resources/app/node_modules/dugite/git/bin/git)
+
+[2023-10-04 08:46:08.777] [error] [Git] /tmp/.mount_Logseq3akSiO/resources/app/node_modules/dugite/git/bin/git: /lib/x86_64-linux-gnu/libc.so.6: version `GLIBC_2.32' not found (required by /tmp/.mount_Logseq3akSiO/resources/app/node_modules/dugite/git/bin/git)
+/tmp/.mount_Logseq3akSiO/resources/app/node_modules/dugite/git/bin/git: /lib/x86_64-linux-gnu/libc.so.6: version `GLIBC_2.33' not found (required by /tmp/.mount_Logseq3akSiO/resources/app/node_modules/dugite/git/bin/git)
+/tmp/.mount_Logseq3akSiO/resources/app/node_modules/dugite/git/bin/git: /lib/x86_64-linux-gnu/libc.so.6: version `GLIBC_2.34' not found (required by /tmp/.mount_Logseq3akSiO/resources/app/node_modules/dugite/git/bin/git)
+
+[2023-10-04 08:46:53.002] [error] [Git] /tmp/.mount_Logseq3akSiO/resources/app/node_modules/dugite/git/bin/git: /lib/x86_64-linux-gnu/libc.so.6: version `GLIBC_2.32' not found (required by /tmp/.mount_Logseq3akSiO/resources/app/node_modules/dugite/git/bin/git)
+/tmp/.mount_Logseq3akSiO/resources/app/node_modules/dugite/git/bin/git: /lib/x86_64-linux-gnu/libc.so.6: version `GLIBC_2.33' not found (required by /tmp/.mount_Logseq3akSiO/resources/app/node_modules/dugite/git/bin/git)
+/tmp/.mount_Logseq3akSiO/resources/app/node_modules/dugite/git/bin/git: /lib/x86_64-linux-gnu/libc.so.6: version `GLIBC_2.34' not found (required by /tmp/.mount_Logseq3akSiO/resources/app/node_modules/dugite/git/bin/git)
+
+[2023-10-04 08:47:04.102] [error] [Git] /tmp/.mount_Logseq3akSiO/resources/app/node_modules/dugite/git/bin/git: /lib/x86_64-linux-gnu/libc.so.6: version `GLIBC_2.32' not found (required by /tmp/.mount_Logseq3akSiO/resources/app/node_modules/dugite/git/bin/git)
+/tmp/.mount_Logseq3akSiO/resources/app/node_modules/dugite/git/bin/git: /lib/x86_64-linux-gnu/libc.so.6: version `GLIBC_2.33' not found (required by /tmp/.mount_Logseq3akSiO/resources/app/node_modules/dugite/git/bin/git)
+/tmp/.mount_Logseq3akSiO/resources/app/node_modules/dugite/git/bin/git: /lib/x86_64-linux-gnu/libc.so.6: version `GLIBC_2.34' not found (required by /tmp/.mount_Logseq3akSiO/resources/app/node_modules/dugite/git/bin/git)
+
+[2023-10-04 08:47:10.321] [error] [Git] /tmp/.mount_Logseq3akSiO/resources/app/node_modules/dugite/git/bin/git: /lib/x86_64-linux-gnu/libc.so.6: version `GLIBC_2.32' not found (required by /tmp/.mount_Logseq3akSiO/resources/app/node_modules/dugite/git/bin/git)
+/tmp/.mount_Logseq3akSiO/resources/app/node_modules/dugite/git/bin/git: /lib/x86_64-linux-gnu/libc.so.6: version `GLIBC_2.33' not found (required by /tmp/.mount_Logseq3akSiO/resources/app/node_modules/dugite/git/bin/git)
+/tmp/.mount_Logseq3akSiO/resources/app/node_modules/dugite/git/bin/git: /lib/x86_64-linux-gnu/libc.so.6: version `GLIBC_2.34' not found (required by /tmp/.mount_Logseq3akSiO/resources/app/node_modules/dugite/git/bin/git)
+
+[2023-10-04 08:47:10.322] [error] [Git] /tmp/.mount_Logseq3akSiO/resources/app/node_modules/dugite/git/bin/git: /lib/x86_64-linux-gnu/libc.so.6: version `GLIBC_2.32' not found (required by /tmp/.mount_Logseq3akSiO/resources/app/node_modules/dugite/git/bin/git)
+/tmp/.mount_Logseq3akSiO/resources/app/node_modules/dugite/git/bin/git: /lib/x86_64-linux-gnu/libc.so.6: version `GLIBC_2.33' not found (required by /tmp/.mount_Logseq3akSiO/resources/app/node_modules/dugite/git/bin/git)
+/tmp/.mount_Logseq3akSiO/resources/app/node_modules/dugite/git/bin/git: /lib/x86_64-linux-gnu/libc.so.6: version `GLIBC_2.34' not found (required by /tmp/.mount_Logseq3akSiO/resources/app/node_modules/dugite/git/bin/git)
+
+[2023-10-04 08:52:06.241] [error] [Git] /tmp/.mount_Logseq3akSiO/resources/app/node_modules/dugite/git/bin/git: /lib/x86_64-linux-gnu/libc.so.6: version `GLIBC_2.32' not found (required by /tmp/.mount_Logseq3akSiO/resources/app/node_modules/dugite/git/bin/git)
+/tmp/.mount_Logseq3akSiO/resources/app/node_modules/dugite/git/bin/git: /lib/x86_64-linux-gnu/libc.so.6: version `GLIBC_2.33' not found (required by /tmp/.mount_Logseq3akSiO/resources/app/node_modules/dugite/git/bin/git)
+/tmp/.mount_Logseq3akSiO/resources/app/node_modules/dugite/git/bin/git: /lib/x86_64-linux-gnu/libc.so.6: version `GLIBC_2.34' not found (required by /tmp/.mount_Logseq3akSiO/resources/app/node_modules/dugite/git/bin/git)
+
+[2023-10-04 08:52:06.259] [error] [Git] /tmp/.mount_Logseq3akSiO/resources/app/node_modules/dugite/git/bin/git: /lib/x86_64-linux-gnu/libc.so.6: version `GLIBC_2.32' not found (required by /tmp/.mount_Logseq3akSiO/resources/app/node_modules/dugite/git/bin/git)
+/tmp/.mount_Logseq3akSiO/resources/app/node_modules/dugite/git/bin/git: /lib/x86_64-linux-gnu/libc.so.6: version `GLIBC_2.33' not found (required by /tmp/.mount_Logseq3akSiO/resources/app/node_modules/dugite/git/bin/git)
+/tmp/.mount_Logseq3akSiO/resources/app/node_modules/dugite/git/bin/git: /lib/x86_64-linux-gnu/libc.so.6: version `GLIBC_2.34' not found (required by /tmp/.mount_Logseq3akSiO/resources/app/node_modules/dugite/git/bin/git)
+
+[2023-10-04 08:54:25.178] [debug] window-all-closed Quitting...
+[2023-10-04 08:55:04.037] [info] Logseq App(0.9.18) Starting... 
+[2023-10-04 08:55:04.048] [info] restore proxy settings {:type "system"}
+[2023-10-04 08:55:04.048] [info] set proxy to {:type "system"}
+[2023-10-04 08:55:07.636] [debug] :electron.handler/watch-dir {:path "/home/fabioscalzer/.logseq/config"}
+[2023-10-04 08:55:07.688] [debug] :electron.handler/unwatch-dir {:path "/home/fabioscalzer/projetos/documentacao/documentacao"}
+[2023-10-04 08:55:07.689] [debug] :electron.handler/watch-dir {:path "/home/fabioscalzer/projetos/documentacao/documentacao"}
+[2023-10-04 08:55:09.492] [error] [Git] /tmp/.mount_Logseq8ZarEB/resources/app/node_modules/dugite/git/bin/git: /lib/x86_64-linux-gnu/libc.so.6: version `GLIBC_2.32' not found (required by /tmp/.mount_Logseq8ZarEB/resources/app/node_modules/dugite/git/bin/git)
+/tmp/.mount_Logseq8ZarEB/resources/app/node_modules/dugite/git/bin/git: /lib/x86_64-linux-gnu/libc.so.6: version `GLIBC_2.33' not found (required by /tmp/.mount_Logseq8ZarEB/resources/app/node_modules/dugite/git/bin/git)
+/tmp/.mount_Logseq8ZarEB/resources/app/node_modules/dugite/git/bin/git: /lib/x86_64-linux-gnu/libc.so.6: version `GLIBC_2.34' not found (required by /tmp/.mount_Logseq8ZarEB/resources/app/node_modules/dugite/git/bin/git)
+
+[2023-10-04 08:57:21.692] [error] [Git] /tmp/.mount_Logseq8ZarEB/resources/app/node_modules/dugite/git/bin/git: /lib/x86_64-linux-gnu/libc.so.6: version `GLIBC_2.32' not found (required by /tmp/.mount_Logseq8ZarEB/resources/app/node_modules/dugite/git/bin/git)
+/tmp/.mount_Logseq8ZarEB/resources/app/node_modules/dugite/git/bin/git: /lib/x86_64-linux-gnu/libc.so.6: version `GLIBC_2.33' not found (required by /tmp/.mount_Logseq8ZarEB/resources/app/node_modules/dugite/git/bin/git)
+/tmp/.mount_Logseq8ZarEB/resources/app/node_modules/dugite/git/bin/git: /lib/x86_64-linux-gnu/libc.so.6: version `GLIBC_2.34' not found (required by /tmp/.mount_Logseq8ZarEB/resources/app/node_modules/dugite/git/bin/git)
+
+[2023-10-04 08:57:26.701] [error] [Git] /tmp/.mount_Logseq8ZarEB/resources/app/node_modules/dugite/git/bin/git: /lib/x86_64-linux-gnu/libc.so.6: version `GLIBC_2.32' not found (required by /tmp/.mount_Logseq8ZarEB/resources/app/node_modules/dugite/git/bin/git)
+/tmp/.mount_Logseq8ZarEB/resources/app/node_modules/dugite/git/bin/git: /lib/x86_64-linux-gnu/libc.so.6: version `GLIBC_2.33' not found (required by /tmp/.mount_Logseq8ZarEB/resources/app/node_modules/dugite/git/bin/git)
+/tmp/.mount_Logseq8ZarEB/resources/app/node_modules/dugite/git/bin/git: /lib/x86_64-linux-gnu/libc.so.6: version `GLIBC_2.34' not found (required by /tmp/.mount_Logseq8ZarEB/resources/app/node_modules/dugite/git/bin/git)
+
+[2023-10-04 08:57:54.013] [error] [Git] /tmp/.mount_Logseq8ZarEB/resources/app/node_modules/dugite/git/bin/git: /lib/x86_64-linux-gnu/libc.so.6: version `GLIBC_2.32' not found (required by /tmp/.mount_Logseq8ZarEB/resources/app/node_modules/dugite/git/bin/git)
+/tmp/.mount_Logseq8ZarEB/resources/app/node_modules/dugite/git/bin/git: /lib/x86_64-linux-gnu/libc.so.6: version `GLIBC_2.33' not found (required by /tmp/.mount_Logseq8ZarEB/resources/app/node_modules/dugite/git/bin/git)
+/tmp/.mount_Logseq8ZarEB/resources/app/node_modules/dugite/git/bin/git: /lib/x86_64-linux-gnu/libc.so.6: version `GLIBC_2.34' not found (required by /tmp/.mount_Logseq8ZarEB/resources/app/node_modules/dugite/git/bin/git)
+
+[2023-10-04 08:57:58.565] [error] [Git] /tmp/.mount_Logseq8ZarEB/resources/app/node_modules/dugite/git/bin/git: /lib/x86_64-linux-gnu/libc.so.6: version `GLIBC_2.32' not found (required by /tmp/.mount_Logseq8ZarEB/resources/app/node_modules/dugite/git/bin/git)
+/tmp/.mount_Logseq8ZarEB/resources/app/node_modules/dugite/git/bin/git: /lib/x86_64-linux-gnu/libc.so.6: version `GLIBC_2.33' not found (required by /tmp/.mount_Logseq8ZarEB/resources/app/node_modules/dugite/git/bin/git)
+/tmp/.mount_Logseq8ZarEB/resources/app/node_modules/dugite/git/bin/git: /lib/x86_64-linux-gnu/libc.so.6: version `GLIBC_2.34' not found (required by /tmp/.mount_Logseq8ZarEB/resources/app/node_modules/dugite/git/bin/git)
+
+[2023-10-04 08:58:00.576] [debug] window-all-closed Quitting...

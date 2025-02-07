@@ -1,0 +1,143 @@
+[08:50:08] [Info] こんにちは！ Booting Zettlr at Tue Sep 12 2023 08:50:08 GMT-0300 (Brasilia Standard Time).
+[08:50:08] [Info] Registering custom protocol safe-file
+[08:50:08] [Warning] [Assets Provider] Found outdated filter links.lua; copying ...
+[08:50:08] [Warning] [Assets Provider] Found outdated filter tags.lua; copying ...
+[08:50:08] [Info] [Citeproc Provider] Loading CSL locale file at /usr/lib/zettlr/resources/app.asar/.webpack/main/assets/csl-locales/locales-en-US.xml ...
+[08:50:08] [Info] [Update Provider] Checking for application updates ...
+[08:50:08] [Info] [Updater] Checking https://zettlr.com/api/releases/latest for updates ...
+[08:50:09] [Warning] [FSAL Directory] Path /home/fabioscalzer/projetos/documentação/documentacao took 124.46020299999509ms to load.
+[08:50:09] [Info] [FSAL] Loaded all files and workspaces in 0.12 seconds
+[08:50:09] [Info] [Window Manager] Window Manager started.
+[08:50:09] [Info] [Document Manager] Restored 1 open windows.
+[08:50:09] [Info] [AppServiceContainer] Boot successful!
+[08:50:09] [Info] [Application] Added /usr/lib/zettlr/resources to PATH.
+[08:50:09] [Info] [Application] The bundled pandoc executable is now in PATH. If you do not want to use the bundled pandoc, uncheck the corresponding setting and reboot the app.
+[08:50:10] [Info] [Update Provider] No new update available. Current version is v3.0.0.
+[08:50:24] [Info] さようなら！ Shutting down at Tue Sep 12 2023 08:50:24 GMT-0300 (Brasilia Standard Time)
+[08:50:24] [Info] Application uptime was: 0 minutes, and 17.139 seconds.
+[08:50:24] [Info] [FSAL Cache] Cleaned up cache: Removed 4 remnants.
+[08:50:34] [Info] こんにちは！ Booting Zettlr at Tue Sep 12 2023 08:50:34 GMT-0300 (Brasilia Standard Time).
+[08:50:34] [Info] Registering custom protocol safe-file
+[08:50:34] [Warning] [Assets Provider] Found outdated filter links.lua; copying ...
+[08:50:34] [Warning] [Assets Provider] Found outdated filter tags.lua; copying ...
+[08:50:34] [Info] [Citeproc Provider] Loading CSL locale file at /usr/lib/zettlr/resources/app.asar/.webpack/main/assets/csl-locales/locales-en-US.xml ...
+[08:50:34] [Info] [Update Provider] Checking for application updates ...
+[08:50:34] [Info] [Updater] Checking https://zettlr.com/api/releases/latest for updates ...
+[08:50:34] [Info] [FSAL] Loaded all files and workspaces in 0.03 seconds
+[08:50:34] [Info] [Window Manager] Window Manager started.
+[08:50:34] [Info] [Document Manager] Restored 1 open windows.
+[08:50:34] [Info] [AppServiceContainer] Boot successful!
+[08:50:34] [Info] [Application] Added /usr/lib/zettlr/resources to PATH.
+[08:50:34] [Info] [Application] The bundled pandoc executable is now in PATH. If you do not want to use the bundled pandoc, uncheck the corresponding setting and reboot the app.
+[08:50:35] [Info] [Update Provider] No new update available. Current version is v3.0.0.
+[08:51:04] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md
+[08:51:04] [Info] [DocumentManager] Processing change for /home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md
+[08:51:04] [Info] [DocumentManager] File /home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md saved.
+[08:51:22] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md
+[08:51:22] [Info] [DocumentManager] Processing change for /home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md
+[08:51:22] [Info] [DocumentManager] File /home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md saved.
+[08:51:38] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md
+[08:51:38] [Info] [DocumentManager] Processing change for /home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md
+[08:51:38] [Info] [DocumentManager] File /home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md saved.
+[08:52:57] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md
+[08:52:57] [Info] [DocumentManager] Processing change for /home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md
+[08:52:57] [Info] [DocumentManager] File /home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md saved.
+[10:56:48] [Info] [WATCHDOG] Emitting event: add:/home/fabioscalzer/projetos/documentação/documentacao/comercio/coletaInteligente/coletaInteligente.html
+[10:56:48] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/comercio/coletaInteligente/coletaInteligente.html
+[10:56:48] [Info] Successfully exported file to /home/fabioscalzer/projetos/documentação/documentacao/comercio/coletaInteligente/coletaInteligente.html
+[10:56:50] [Error] Could not open exported file: A required tool could not be found | Native Error: Error; Could not open exported file: A required tool could not be found Stack Trace: Error: Could not open exported file: A required tool could not be found -->     at p.run (/usr/lib/zettlr/resources/app.asar/.webpack/main/index.js:2:1903642) -->     at async W.run (/usr/lib/zettlr/resources/app.asar/.webpack/main/index.js:2:1931563) -->     at async /usr/lib/zettlr/resources/app.asar/.webpack/main/index.js:2:1930239 -->     at async WebContents.<anonymous> (node:electron/js2c/browser_init:2:88876)
+[10:56:50] [Warning] [R] [Main Window (619fcd54-5f5e-48cf-b84a-d1e74893f878)] FSAL event had an outdated timestamp (7, current: 7) -- skipping (change:/home/fabioscalzer/projetos/documentação/documentacao/comercio/coletaInteligente/coletaInteligente.html) (index.js:2)
+[10:57:14] [Error] [R] [Print Window] Ignored call to 'print()'. The document is sandboxed, and the 'allow-modals' keyword is not set. (index.js:2)
+[10:57:15] [Error] [R] [Print Window] Ignored call to 'print()'. The document is sandboxed, and the 'allow-modals' keyword is not set. (index.js:2)
+[10:57:43] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/comercio/coletaInteligente/coletaInteligente.md
+[10:57:43] [Info] [DocumentManager] Processing change for /home/fabioscalzer/projetos/documentação/documentacao/comercio/coletaInteligente/coletaInteligente.md
+[10:57:43] [Info] [DocumentManager] File /home/fabioscalzer/projetos/documentação/documentacao/comercio/coletaInteligente/coletaInteligente.md saved.
+[10:57:53] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/comercio/coletaInteligente/coletaInteligente.md
+[10:57:53] [Info] [DocumentManager] Processing change for /home/fabioscalzer/projetos/documentação/documentacao/comercio/coletaInteligente/coletaInteligente.md
+[10:57:53] [Info] [DocumentManager] File /home/fabioscalzer/projetos/documentação/documentacao/comercio/coletaInteligente/coletaInteligente.md saved.
+[10:58:21] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/comercio/coletaInteligente/coletaInteligente.md
+[10:58:21] [Info] [DocumentManager] Processing change for /home/fabioscalzer/projetos/documentação/documentacao/comercio/coletaInteligente/coletaInteligente.md
+[10:58:21] [Info] [DocumentManager] File /home/fabioscalzer/projetos/documentação/documentacao/comercio/coletaInteligente/coletaInteligente.md saved.
+[10:58:34] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/comercio/coletaInteligente/coletaInteligente.md
+[10:58:34] [Info] [DocumentManager] Processing change for /home/fabioscalzer/projetos/documentação/documentacao/comercio/coletaInteligente/coletaInteligente.md
+[10:58:34] [Info] [DocumentManager] File /home/fabioscalzer/projetos/documentação/documentacao/comercio/coletaInteligente/coletaInteligente.md saved.
+[10:58:38] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/comercio/coletaInteligente/coletaInteligente.md
+[10:58:38] [Info] [DocumentManager] Processing change for /home/fabioscalzer/projetos/documentação/documentacao/comercio/coletaInteligente/coletaInteligente.md
+[10:58:38] [Info] [DocumentManager] File /home/fabioscalzer/projetos/documentação/documentacao/comercio/coletaInteligente/coletaInteligente.md saved.
+[10:58:46] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/comercio/coletaInteligente/coletaInteligente.md
+[10:58:46] [Info] [DocumentManager] Processing change for /home/fabioscalzer/projetos/documentação/documentacao/comercio/coletaInteligente/coletaInteligente.md
+[10:58:46] [Info] [DocumentManager] File /home/fabioscalzer/projetos/documentação/documentacao/comercio/coletaInteligente/coletaInteligente.md saved.
+[11:03:22] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/comercio/coletaInteligente/coletaInteligente.md
+[11:03:22] [Info] [DocumentManager] Processing change for /home/fabioscalzer/projetos/documentação/documentacao/comercio/coletaInteligente/coletaInteligente.md
+[11:03:22] [Info] [DocumentManager] File /home/fabioscalzer/projetos/documentação/documentacao/comercio/coletaInteligente/coletaInteligente.md saved.
+[11:13:20] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md
+[11:13:20] [Info] [DocumentManager] Processing change for /home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md
+[11:13:20] [Info] [DocumentManager] File /home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md saved.
+[11:13:34] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md
+[11:13:34] [Info] [DocumentManager] Processing change for /home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md
+[11:13:35] [Info] [DocumentManager] File /home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md saved.
+[14:08:03] [Info] [WATCHDOG] Emitting event: add:/home/fabioscalzer/projetos/documentação/documentacao/Tarefas.txt
+[14:08:03] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/Tarefas.txt
+[14:08:03] [Info] Successfully exported file to /home/fabioscalzer/projetos/documentação/documentacao/Tarefas.txt
+[14:08:03] [Error] Could not open exported file: The action failed | Native Error: Error; Could not open exported file: The action failed Stack Trace: Error: Could not open exported file: The action failed -->     at p.run (/usr/lib/zettlr/resources/app.asar/.webpack/main/index.js:2:1903642) -->     at async W.run (/usr/lib/zettlr/resources/app.asar/.webpack/main/index.js:2:1931563) -->     at async /usr/lib/zettlr/resources/app.asar/.webpack/main/index.js:2:1930239 -->     at async WebContents.<anonymous> (node:electron/js2c/browser_init:2:88876)
+[14:08:28] [Info] Removed file Tarefas.txt.
+[14:08:28] [Info] [WATCHDOG] Ignore event: unlink:/home/fabioscalzer/projetos/documentação/documentacao/Tarefas.txt
+[14:08:48] [Info] [WATCHDOG] Emitting event: add:/home/fabioscalzer/projetos/documentação/documentacao/comercio/coletaInteligente/coletaInteligente.undefined
+[14:08:48] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/comercio/coletaInteligente/coletaInteligente.undefined
+[14:08:48] [Info] Successfully exported file to /home/fabioscalzer/projetos/documentação/documentacao/comercio/coletaInteligente/coletaInteligente.undefined
+[14:08:48] [Error] Could not open exported file: The action failed | Native Error: Error; Could not open exported file: The action failed Stack Trace: Error: Could not open exported file: The action failed -->     at p.run (/usr/lib/zettlr/resources/app.asar/.webpack/main/index.js:2:1903642) -->     at async W.run (/usr/lib/zettlr/resources/app.asar/.webpack/main/index.js:2:1931563) -->     at async /usr/lib/zettlr/resources/app.asar/.webpack/main/index.js:2:1930239 -->     at async WebContents.<anonymous> (node:electron/js2c/browser_init:2:88876)
+[14:09:06] [Info] [WATCHDOG] Emitting event: add:/home/fabioscalzer/projetos/documentação/documentacao/comercio/coletaInteligente/coletaInteligente (2).md
+[14:09:06] [Info] [WATCHDOG] Emitting event: unlink:/home/fabioscalzer/projetos/documentação/documentacao/comercio/coletaInteligente/coletaInteligente.undefined
+[17:16:10] [Info] さようなら！ Shutting down at Tue Sep 12 2023 17:16:10 GMT-0300 (Brasilia Standard Time)
+[17:16:10] [Info] Application uptime was: 8 hours, 25 minutes, and 37.153 seconds.
+[17:16:10] [Info] [FSAL Cache] Cleaned up cache: Removed 0 remnants.
+[17:16:14] [Info] こんにちは！ Booting Zettlr at Tue Sep 12 2023 17:16:14 GMT-0300 (Brasilia Standard Time).
+[17:16:14] [Info] Registering custom protocol safe-file
+[17:16:14] [Warning] [Assets Provider] Found outdated filter links.lua; copying ...
+[17:16:14] [Warning] [Assets Provider] Found outdated filter tags.lua; copying ...
+[17:16:14] [Info] [Citeproc Provider] Loading CSL locale file at /usr/lib/zettlr/resources/app.asar/.webpack/main/assets/csl-locales/locales-en-US.xml ...
+[17:16:14] [Info] [Update Provider] Checking for application updates ...
+[17:16:14] [Info] [Updater] Checking https://zettlr.com/api/releases/latest for updates ...
+[17:16:14] [Info] [FSAL] Loaded all files and workspaces in 0.04 seconds
+[17:16:14] [Info] [Window Manager] Window Manager started.
+[17:16:14] [Info] [Document Manager] Restored 1 open windows.
+[17:16:14] [Info] [AppServiceContainer] Boot successful!
+[17:16:14] [Info] [Application] Added /usr/lib/zettlr/resources to PATH.
+[17:16:14] [Info] [Application] The bundled pandoc executable is now in PATH. If you do not want to use the bundled pandoc, uncheck the corresponding setting and reboot the app.
+[17:16:16] [Info] [Update Provider] No new update available. Current version is v3.0.0.
+[17:16:33] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md
+[17:16:33] [Info] [DocumentManager] Processing change for /home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md
+[17:16:33] [Info] [DocumentManager] File /home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md saved.
+[17:17:16] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md
+[17:17:16] [Info] [DocumentManager] Processing change for /home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md
+[17:17:16] [Info] [DocumentManager] File /home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md saved.
+[17:23:29] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md
+[17:23:29] [Info] [DocumentManager] Processing change for /home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md
+[17:23:30] [Info] [DocumentManager] File /home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md saved.
+[17:23:46] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md
+[17:23:46] [Info] [DocumentManager] Processing change for /home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md
+[17:23:46] [Info] [DocumentManager] File /home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md saved.
+[17:58:17] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md
+[17:58:17] [Info] [DocumentManager] Processing change for /home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md
+[17:58:17] [Info] [DocumentManager] File /home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md saved.
+[17:58:39] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md
+[17:58:39] [Info] [DocumentManager] Processing change for /home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md
+[17:58:39] [Info] [DocumentManager] File /home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md saved.
+[17:59:30] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md
+[17:59:30] [Info] [DocumentManager] Processing change for /home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md
+[17:59:30] [Info] [DocumentManager] File /home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md saved.
+[18:00:09] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md
+[18:00:09] [Info] [DocumentManager] Processing change for /home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md
+[18:00:09] [Info] [DocumentManager] File /home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md saved.
+[18:00:12] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md
+[18:00:12] [Info] [DocumentManager] Processing change for /home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md
+[18:00:12] [Info] [DocumentManager] File /home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md saved.
+[18:02:28] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md
+[18:02:28] [Info] [DocumentManager] Processing change for /home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md
+[18:02:28] [Info] [DocumentManager] File /home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md saved.
+[18:02:31] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md
+[18:02:31] [Info] [DocumentManager] Processing change for /home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md
+[18:02:31] [Info] [DocumentManager] File /home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md saved.
+[18:02:45] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md
+[18:02:45] [Info] [DocumentManager] Processing change for /home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md
+[18:02:45] [Info] [DocumentManager] File /home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md saved.

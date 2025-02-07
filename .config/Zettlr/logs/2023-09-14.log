@@ -1,0 +1,415 @@
+[08:37:06] [Info] こんにちは！ Booting Zettlr at Thu Sep 14 2023 08:37:06 GMT-0300 (Brasilia Standard Time).
+[08:37:06] [Info] Registering custom protocol safe-file
+[08:37:06] [Warning] [Assets Provider] Found outdated filter links.lua; copying ...
+[08:37:06] [Warning] [Assets Provider] Found outdated filter tags.lua; copying ...
+[08:37:06] [Info] [Citeproc Provider] Loading CSL locale file at /usr/lib/zettlr/resources/app.asar/.webpack/main/assets/csl-locales/locales-en-US.xml ...
+[08:37:06] [Info] [Update Provider] Checking for application updates ...
+[08:37:06] [Info] [Updater] Checking https://zettlr.com/api/releases/latest for updates ...
+[08:37:07] [Info] [FSAL] Loaded all files and workspaces in 0.1 seconds
+[08:37:07] [Info] [Window Manager] Window Manager started.
+[08:37:07] [Info] [Document Manager] Restored 1 open windows.
+[08:37:07] [Info] [AppServiceContainer] Boot successful!
+[08:37:07] [Info] [Application] Added /usr/lib/zettlr/resources to PATH.
+[08:37:07] [Info] [Application] The bundled pandoc executable is now in PATH. If you do not want to use the bundled pandoc, uncheck the corresponding setting and reboot the app.
+[08:37:08] [Error] [Update Provider] UNABLE_TO_GET_ISSUER_CERT_LOCALLY: Could not check for updates. RequestError: unable to get local issuer certificate
+[08:39:00] [Info] さようなら！ Shutting down at Thu Sep 14 2023 08:39:00 GMT-0300 (Brasilia Standard Time)
+[08:39:00] [Info] Application uptime was: 1 minutes, and 55.26 seconds.
+[08:39:00] [Info] [FSAL Cache] Cleaned up cache: Removed 2 remnants.
+[08:39:04] [Info] こんにちは！ Booting Zettlr at Thu Sep 14 2023 08:39:04 GMT-0300 (Brasilia Standard Time).
+[08:39:04] [Info] Registering custom protocol safe-file
+[08:39:04] [Warning] [Assets Provider] Found outdated filter links.lua; copying ...
+[08:39:04] [Warning] [Assets Provider] Found outdated filter tags.lua; copying ...
+[08:39:04] [Info] [Citeproc Provider] Loading CSL locale file at /usr/lib/zettlr/resources/app.asar/.webpack/main/assets/csl-locales/locales-en-US.xml ...
+[08:39:04] [Info] [Update Provider] Checking for application updates ...
+[08:39:04] [Info] [Updater] Checking https://zettlr.com/api/releases/latest for updates ...
+[08:39:04] [Info] [FSAL] Loaded all files and workspaces in 0.03 seconds
+[08:39:04] [Info] [Window Manager] Window Manager started.
+[08:39:04] [Info] [Document Manager] Restored 1 open windows.
+[08:39:04] [Info] [AppServiceContainer] Boot successful!
+[08:39:04] [Info] [Application] Added /usr/lib/zettlr/resources to PATH.
+[08:39:04] [Info] [Application] The bundled pandoc executable is now in PATH. If you do not want to use the bundled pandoc, uncheck the corresponding setting and reboot the app.
+[08:39:04] [Error] [Update Provider] UNABLE_TO_GET_ISSUER_CERT_LOCALLY: Could not check for updates. RequestError: unable to get local issuer certificate
+[08:49:02] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md
+[08:49:02] [Info] [DocumentManager] Processing change for /home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md
+[08:49:02] [Info] [DocumentManager] File /home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md saved.
+[08:49:04] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md
+[08:49:04] [Info] [DocumentManager] Processing change for /home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md
+[08:49:04] [Info] [DocumentManager] File /home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md saved.
+[08:56:30] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md
+[08:56:30] [Info] [DocumentManager] Processing change for /home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md
+[08:56:30] [Info] [DocumentManager] File /home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md saved.
+[10:32:23] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md
+[10:32:23] [Info] [DocumentManager] Processing change for /home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md
+[10:32:23] [Info] [DocumentManager] File /home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md saved.
+[10:32:28] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md
+[10:32:28] [Info] [DocumentManager] Processing change for /home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md
+[10:32:28] [Info] [DocumentManager] File /home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md saved.
+[10:32:45] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md
+[10:32:45] [Info] [DocumentManager] Processing change for /home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md
+[10:32:45] [Info] [DocumentManager] File /home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md saved.
+[12:54:43] [Info] [WATCHDOG] Emitting event: add:/home/fabioscalzer/projetos/documentação/documentacao/corporativo/verify/ArqReferenciaVerifyv2.drawio
+[12:55:22] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/comercio/integracaoVenda/assets/Localiza_Arquetura_Referencia.drawio
+[12:57:04] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/corporativo/verify/ArqReferenciaVerifyv2.drawio
+[12:59:34] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md
+[12:59:34] [Info] [DocumentManager] Processing change for /home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md
+[12:59:34] [Info] [DocumentManager] File /home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md saved.
+[13:00:06] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md
+[13:00:06] [Info] [DocumentManager] Processing change for /home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md
+[13:00:06] [Info] [DocumentManager] File /home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md saved.
+[14:03:32] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/754529021164/comercio-reajuste-agregado-aplicacao.fifo: Response code 404 (Not Found)
+[14:03:32] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/754529021164/comercio-alteracao-preco-temporario.fifo: Response code 404 (Not Found)
+[14:03:32] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/754529021164/comercio-promocao-produto-importacao-erro.fifo: Response code 404 (Not Found)
+[14:03:32] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/754529021164/comercio-reajuste-oportunidade-temporario-erro.fifo: Response code 404 (Not Found)
+[14:03:32] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/754529021164/comercio-reajuste-oportunidade-aplicacao.fifo: Response code 404 (Not Found)
+[14:03:32] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/754529021164/comercio-reajuste-agregado-temporario-erro.fifo: Response code 404 (Not Found)
+[14:03:32] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/754529021164/comercio-reajuste-oportunidade-temporario.fifo: Response code 404 (Not Found)
+[14:03:32] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/754529021164/comercio-promocao-produto-importacao.fifo: Response code 404 (Not Found)
+[14:03:32] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/754529021164/comercio-reajuste-agregado-aplicacao-erro.fifo: Response code 404 (Not Found)
+[14:03:32] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/754529021164/comercio-reajuste-agregado-temporario.fifo: Response code 404 (Not Found)
+[14:03:32] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/754529021164/comercio-reajuste-oportunidade-aplicacao-erro.fifo: Response code 404 (Not Found)
+[14:03:32] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/754529021164/comercio-alteracao-preco-temporario-erro.fifo: Response code 404 (Not Found)
+[14:03:33] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/754529021164/comercio-alteracao-preco-aplicacao.fifo: Response code 404 (Not Found)
+[14:03:33] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/754529021164/comercio-alteracao-preco-aplicacao-erro.fifo: Response code 404 (Not Found)
+[14:03:33] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/973580931382/comercio-reajuste-oportunidade-temporario-erro.fifo: Response code 404 (Not Found)
+[14:03:33] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/973580931382/comercio-reajuste-oportunidade-temporario.fifo: Response code 404 (Not Found)
+[14:03:33] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/973580931382/comercio-reajuste-oportunidade-aplicacao-erro.fifo: Response code 404 (Not Found)
+[14:03:33] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/973580931382/comercio-reajuste-agregado-temporario-erro.fifo: Response code 404 (Not Found)
+[14:03:33] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/973580931382/comercio-promocao-produto-importacao-erro.fifo: Response code 404 (Not Found)
+[14:03:33] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/973580931382/comercio-reajuste-agregado-temporario.fifo: Response code 404 (Not Found)
+[14:03:33] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/973580931382/comercio-reajuste-agregado-aplicacao.fifo: Response code 404 (Not Found)
+[14:03:33] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/973580931382/comercio-alteracao-preco-temporario.fifo: Response code 404 (Not Found)
+[14:03:33] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/973580931382/comercio-promocao-produto-importacao.fifo: Response code 404 (Not Found)
+[14:03:33] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/973580931382/comercio-reajuste-oportunidade-aplicacao.fifo: Response code 404 (Not Found)
+[14:03:33] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/973580931382/comercio-alteracao-preco-temporario-erro.fifo: Response code 404 (Not Found)
+[14:03:33] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/973580931382/comercio-reajuste-agregado-aplicacao-erro.fifo: Response code 404 (Not Found)
+[14:03:33] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/973580931382/comercio-alteracao-preco-aplicacao-erro.fifo: Response code 404 (Not Found)
+[14:03:33] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/069216277836/comercio-reajuste-oportunidade-aplicacao.fifo: Response code 404 (Not Found)
+[14:03:33] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/069216277836/comercio-reajuste-oportunidade-aplicacao-erro.fifo: Response code 404 (Not Found)
+[14:03:33] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/069216277836/comercio-reajuste-oportunidade-temporario-erro.fifo: Response code 404 (Not Found)
+[14:03:33] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/069216277836/comercio-reajuste-oportunidade-temporario.fifo: Response code 404 (Not Found)
+[14:03:33] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/973580931382/comercio-alteracao-preco-aplicacao.fifo: Response code 404 (Not Found)
+[14:03:33] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/069216277836/comercio-alteracao-preco-temporario-erro.fifo: Response code 404 (Not Found)
+[14:03:33] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/069216277836/comercio-reajuste-agregado-aplicacao-erro.fifo: Response code 404 (Not Found)
+[14:03:33] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/069216277836/comercio-promocao-produto-importacao-erro.fifo: Response code 404 (Not Found)
+[14:03:33] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/069216277836/comercio-alteracao-preco-temporario.fifo: Response code 404 (Not Found)
+[14:03:33] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/069216277836/comercio-reajuste-agregado-aplicacao.fifo: Response code 404 (Not Found)
+[14:03:33] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/069216277836/comercio-promocao-produto-importacao.fifo: Response code 404 (Not Found)
+[14:03:33] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/069216277836/comercio-reajuste-agregado-temporario-erro.fifo: Response code 404 (Not Found)
+[14:03:33] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/069216277836/comercio-reajuste-agregado-temporario.fifo: Response code 404 (Not Found)
+[14:03:33] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/069216277836/comercio-alteracao-preco-aplicacao-erro.fifo: Response code 404 (Not Found)
+[14:03:33] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/069216277836/comercio-alteracao-preco-aplicacao.fifo: Response code 404 (Not Found)
+[14:03:33] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/973580931382/comercio-reajuste-oportunidade-temporario-erro.fifo: Response code 404 (Not Found)
+[14:03:33] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/973580931382/comercio-reajuste-oportunidade-temporario.fifo: Response code 404 (Not Found)
+[14:03:33] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/973580931382/comercio-reajuste-agregado-temporario-erro.fifo: Response code 404 (Not Found)
+[14:03:33] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/973580931382/comercio-reajuste-oportunidade-aplicacao.fifo: Response code 404 (Not Found)
+[14:03:33] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/973580931382/comercio-reajuste-oportunidade-aplicacao-erro.fifo: Response code 404 (Not Found)
+[14:03:33] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/973580931382/comercio-reajuste-agregado-aplicacao-erro.fifo: Response code 404 (Not Found)
+[14:03:33] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/973580931382/comercio-reajuste-agregado-aplicacao.fifo: Response code 404 (Not Found)
+[14:03:33] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/973580931382/comercio-reajuste-agregado-temporario.fifo: Response code 404 (Not Found)
+[14:03:33] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/973580931382/comercio-promocao-produto-importacao-erro.fifo: Response code 404 (Not Found)
+[14:03:33] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/754529021164/comercio-promocao-produto-importacao.fifo: Response code 404 (Not Found)
+[14:03:33] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/754529021164/comercio-reajuste-agregado-temporario-erro.fifo: Response code 404 (Not Found)
+[14:03:33] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/754529021164/comercio-reajuste-agregado-aplicacao.fifo: Response code 404 (Not Found)
+[14:03:33] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/754529021164/comercio-promocao-produto-importacao-erro.fifo: Response code 404 (Not Found)
+[14:03:33] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/754529021164/comercio-reajuste-oportunidade-temporario-erro.fifo: Response code 404 (Not Found)
+[14:03:33] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/754529021164/comercio-reajuste-oportunidade-aplicacao-erro.fifo: Response code 404 (Not Found)
+[14:03:33] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/754529021164/comercio-reajuste-oportunidade-temporario.fifo: Response code 404 (Not Found)
+[14:03:33] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/754529021164/comercio-reajuste-agregado-temporario.fifo: Response code 404 (Not Found)
+[14:03:33] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/754529021164/comercio-reajuste-agregado-aplicacao-erro.fifo: Response code 404 (Not Found)
+[14:03:33] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/754529021164/comercio-alteracao-preco-aplicacao-erro.fifo: Response code 404 (Not Found)
+[14:03:33] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/754529021164/comercio-alteracao-preco-aplicacao.fifo: Response code 404 (Not Found)
+[14:03:33] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/754529021164/comercio-reajuste-oportunidade-aplicacao.fifo: Response code 404 (Not Found)
+[14:03:33] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/754529021164/comercio-alteracao-preco-temporario-erro.fifo: Response code 404 (Not Found)
+[14:03:33] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/754529021164/comercio-alteracao-preco-temporario.fifo: Response code 404 (Not Found)
+[14:03:53] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/754529021164/comercio-reajuste-oportunidade-temporario.fifo: Response code 404 (Not Found)
+[14:03:53] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/754529021164/comercio-reajuste-agregado-aplicacao-erro.fifo: Response code 404 (Not Found)
+[14:03:53] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/754529021164/comercio-reajuste-oportunidade-aplicacao.fifo: Response code 404 (Not Found)
+[14:03:53] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/754529021164/comercio-promocao-produto-importacao-erro.fifo: Response code 404 (Not Found)
+[14:03:53] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/754529021164/comercio-reajuste-oportunidade-aplicacao-erro.fifo: Response code 404 (Not Found)
+[14:03:53] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/754529021164/comercio-reajuste-agregado-temporario-erro.fifo: Response code 404 (Not Found)
+[14:03:53] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/754529021164/comercio-reajuste-oportunidade-temporario-erro.fifo: Response code 404 (Not Found)
+[14:03:53] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/754529021164/comercio-alteracao-preco-temporario.fifo: Response code 404 (Not Found)
+[14:03:53] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/754529021164/comercio-reajuste-agregado-temporario.fifo: Response code 404 (Not Found)
+[14:03:53] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/973580931382/comercio-reajuste-oportunidade-aplicacao-erro.fifo: Response code 404 (Not Found)
+[14:03:53] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/973580931382/comercio-reajuste-oportunidade-temporario.fifo: Response code 404 (Not Found)
+[14:03:53] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/754529021164/comercio-alteracao-preco-aplicacao.fifo: Response code 404 (Not Found)
+[14:03:53] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/973580931382/comercio-reajuste-agregado-temporario.fifo: Response code 404 (Not Found)
+[14:03:53] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/973580931382/comercio-reajuste-agregado-aplicacao.fifo: Response code 404 (Not Found)
+[14:03:53] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/069216277836/comercio-reajuste-oportunidade-aplicacao.fifo: Response code 404 (Not Found)
+[14:03:53] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/069216277836/comercio-reajuste-agregado-temporario-erro.fifo: Response code 404 (Not Found)
+[14:03:53] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/973580931382/comercio-reajuste-oportunidade-temporario-erro.fifo: Response code 404 (Not Found)
+[14:03:53] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/973580931382/comercio-alteracao-preco-temporario.fifo: Response code 404 (Not Found)
+[14:03:53] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/069216277836/comercio-reajuste-oportunidade-temporario-erro.fifo: Response code 404 (Not Found)
+[14:03:53] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/973580931382/comercio-alteracao-preco-aplicacao.fifo: Response code 404 (Not Found)
+[14:03:53] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/973580931382/comercio-promocao-produto-importacao.fifo: Response code 404 (Not Found)
+[14:03:53] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/973580931382/comercio-alteracao-preco-temporario-erro.fifo: Response code 404 (Not Found)
+[14:03:53] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/069216277836/comercio-reajuste-oportunidade-aplicacao-erro.fifo: Response code 404 (Not Found)
+[14:03:53] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/069216277836/comercio-reajuste-agregado-aplicacao.fifo: Response code 404 (Not Found)
+[14:03:53] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/754529021164/comercio-promocao-produto-importacao.fifo: Response code 404 (Not Found)
+[14:03:53] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/973580931382/comercio-reajuste-agregado-temporario-erro.fifo: Response code 404 (Not Found)
+[14:03:53] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/069216277836/comercio-alteracao-preco-temporario-erro.fifo: Response code 404 (Not Found)
+[14:03:53] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/754529021164/comercio-alteracao-preco-temporario-erro.fifo: Response code 404 (Not Found)
+[14:03:53] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/973580931382/comercio-alteracao-preco-aplicacao-erro.fifo: Response code 404 (Not Found)
+[14:03:53] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/754529021164/comercio-alteracao-preco-aplicacao-erro.fifo: Response code 404 (Not Found)
+[14:03:53] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/754529021164/comercio-reajuste-agregado-aplicacao.fifo: Response code 404 (Not Found)
+[14:03:53] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/973580931382/comercio-reajuste-agregado-aplicacao-erro.fifo: Response code 404 (Not Found)
+[14:03:53] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/069216277836/comercio-promocao-produto-importacao-erro.fifo: Response code 404 (Not Found)
+[14:03:53] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/069216277836/comercio-alteracao-preco-aplicacao-erro.fifo: Response code 404 (Not Found)
+[14:03:53] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/069216277836/comercio-promocao-produto-importacao.fifo: Response code 404 (Not Found)
+[14:03:53] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/973580931382/comercio-promocao-produto-importacao-erro.fifo: Response code 404 (Not Found)
+[14:03:53] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/069216277836/comercio-alteracao-preco-aplicacao.fifo: Response code 404 (Not Found)
+[14:03:53] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/069216277836/comercio-alteracao-preco-temporario.fifo: Response code 404 (Not Found)
+[14:03:54] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/069216277836/comercio-reajuste-oportunidade-temporario.fifo: Response code 404 (Not Found)
+[14:03:54] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/973580931382/comercio-reajuste-oportunidade-aplicacao.fifo: Response code 404 (Not Found)
+[14:03:54] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/069216277836/comercio-reajuste-agregado-aplicacao-erro.fifo: Response code 404 (Not Found)
+[14:03:54] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/069216277836/comercio-reajuste-agregado-temporario.fifo: Response code 404 (Not Found)
+[14:04:42] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/973580931382/comercio-reajuste-oportunidade-aplicacao-erro.fifo: Response code 404 (Not Found)
+[14:04:42] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/973580931382/comercio-reajuste-oportunidade-aplicacao.fifo: Response code 404 (Not Found)
+[14:04:42] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/973580931382/comercio-reajuste-agregado-aplicacao-erro.fifo: Response code 404 (Not Found)
+[14:04:42] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/973580931382/comercio-reajuste-agregado-aplicacao.fifo: Response code 404 (Not Found)
+[14:04:42] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/973580931382/comercio-reajuste-agregado-temporario.fifo: Response code 404 (Not Found)
+[14:04:42] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/973580931382/comercio-reajuste-agregado-temporario-erro.fifo: Response code 404 (Not Found)
+[14:04:42] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/754529021164/comercio-reajuste-agregado-aplicacao.fifo: Response code 404 (Not Found)
+[14:04:42] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/754529021164/comercio-promocao-produto-importacao-erro.fifo: Response code 404 (Not Found)
+[14:04:42] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/973580931382/comercio-reajuste-oportunidade-temporario-erro.fifo: Response code 404 (Not Found)
+[14:04:42] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/754529021164/comercio-alteracao-preco-aplicacao-erro.fifo: Response code 404 (Not Found)
+[14:04:42] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/754529021164/comercio-promocao-produto-importacao.fifo: Response code 404 (Not Found)
+[14:04:42] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/754529021164/comercio-alteracao-preco-temporario.fifo: Response code 404 (Not Found)
+[14:04:42] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/754529021164/comercio-alteracao-preco-aplicacao.fifo: Response code 404 (Not Found)
+[14:04:42] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/754529021164/comercio-alteracao-preco-temporario-erro.fifo: Response code 404 (Not Found)
+[14:04:42] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/973580931382/comercio-reajuste-oportunidade-temporario.fifo: Response code 404 (Not Found)
+[14:04:42] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/754529021164/comercio-reajuste-oportunidade-aplicacao-erro.fifo: Response code 404 (Not Found)
+[14:04:42] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/754529021164/comercio-reajuste-oportunidade-temporario-erro.fifo: Response code 404 (Not Found)
+[14:04:42] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/754529021164/comercio-reajuste-agregado-temporario-erro.fifo: Response code 404 (Not Found)
+[14:04:42] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/754529021164/comercio-reajuste-oportunidade-aplicacao.fifo: Response code 404 (Not Found)
+[14:04:42] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/754529021164/comercio-reajuste-agregado-temporario.fifo: Response code 404 (Not Found)
+[14:04:42] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/754529021164/comercio-reajuste-agregado-aplicacao-erro.fifo: Response code 404 (Not Found)
+[14:04:42] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/754529021164/comercio-reajuste-oportunidade-temporario.fifo: Response code 404 (Not Found)
+[14:04:42] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/973580931382/comercio-promocao-produto-importacao-erro.fifo: Response code 404 (Not Found)
+[14:04:42] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/973580931382/comercio-alteracao-preco-temporario-erro.fifo: Response code 404 (Not Found)
+[14:04:42] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/973580931382/comercio-promocao-produto-importacao.fifo: Response code 404 (Not Found)
+[14:04:43] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/973580931382/comercio-alteracao-preco-temporario.fifo: Response code 404 (Not Found)
+[14:08:56] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/754529021164/comercio-reajuste-agregado-aplicacao-erro.fifo: Response code 404 (Not Found)
+[14:08:56] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/754529021164/comercio-reajuste-agregado-temporario-erro.fifo: Response code 404 (Not Found)
+[14:08:56] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/754529021164/comercio-reajuste-oportunidade-temporario.fifo: Response code 404 (Not Found)
+[14:08:56] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/754529021164/comercio-reajuste-oportunidade-aplicacao.fifo: Response code 404 (Not Found)
+[14:08:56] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/754529021164/comercio-reajuste-oportunidade-aplicacao-erro.fifo: Response code 404 (Not Found)
+[14:08:56] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/754529021164/comercio-reajuste-agregado-aplicacao.fifo: Response code 404 (Not Found)
+[14:08:56] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/754529021164/comercio-reajuste-agregado-temporario.fifo: Response code 404 (Not Found)
+[14:08:56] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/754529021164/comercio-promocao-produto-importacao.fifo: Response code 404 (Not Found)
+[14:08:56] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/754529021164/comercio-alteracao-preco-temporario-erro.fifo: Response code 404 (Not Found)
+[14:08:56] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/754529021164/comercio-reajuste-oportunidade-temporario-erro.fifo: Response code 404 (Not Found)
+[14:08:57] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/754529021164/comercio-promocao-produto-importacao-erro.fifo: Response code 404 (Not Found)
+[14:08:57] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/754529021164/comercio-alteracao-preco-temporario.fifo: Response code 404 (Not Found)
+[14:08:57] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/973580931382/comercio-reajuste-oportunidade-temporario-erro.fifo: Response code 404 (Not Found)
+[14:08:57] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/754529021164/comercio-alteracao-preco-aplicacao-erro.fifo: Response code 404 (Not Found)
+[14:08:57] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/973580931382/comercio-reajuste-oportunidade-aplicacao.fifo: Response code 404 (Not Found)
+[14:08:57] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/973580931382/comercio-reajuste-agregado-temporario-erro.fifo: Response code 404 (Not Found)
+[14:08:57] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/973580931382/comercio-reajuste-agregado-aplicacao-erro.fifo: Response code 404 (Not Found)
+[14:08:57] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/973580931382/comercio-reajuste-oportunidade-aplicacao-erro.fifo: Response code 404 (Not Found)
+[14:08:57] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/754529021164/comercio-alteracao-preco-aplicacao.fifo: Response code 404 (Not Found)
+[14:08:57] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/973580931382/comercio-reajuste-agregado-temporario.fifo: Response code 404 (Not Found)
+[14:08:57] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/973580931382/comercio-reajuste-agregado-aplicacao.fifo: Response code 404 (Not Found)
+[14:08:57] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/973580931382/comercio-promocao-produto-importacao.fifo: Response code 404 (Not Found)
+[14:08:57] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/973580931382/comercio-alteracao-preco-temporario-erro.fifo: Response code 404 (Not Found)
+[14:08:57] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/973580931382/comercio-promocao-produto-importacao-erro.fifo: Response code 404 (Not Found)
+[14:08:57] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/973580931382/comercio-alteracao-preco-aplicacao.fifo: Response code 404 (Not Found)
+[14:08:57] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/973580931382/comercio-reajuste-oportunidade-temporario.fifo: Response code 404 (Not Found)
+[14:08:57] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/973580931382/comercio-alteracao-preco-temporario.fifo: Response code 404 (Not Found)
+[14:08:57] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/069216277836/comercio-reajuste-oportunidade-temporario-erro.fifo: Response code 404 (Not Found)
+[14:08:57] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/973580931382/comercio-alteracao-preco-aplicacao-erro.fifo: Response code 404 (Not Found)
+[14:08:57] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/069216277836/comercio-reajuste-oportunidade-temporario.fifo: Response code 404 (Not Found)
+[14:08:57] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/069216277836/comercio-reajuste-oportunidade-aplicacao.fifo: Response code 404 (Not Found)
+[14:08:57] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/069216277836/comercio-reajuste-oportunidade-aplicacao-erro.fifo: Response code 404 (Not Found)
+[14:08:57] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/069216277836/comercio-reajuste-agregado-aplicacao-erro.fifo: Response code 404 (Not Found)
+[14:08:57] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/069216277836/comercio-reajuste-agregado-temporario-erro.fifo: Response code 404 (Not Found)
+[14:08:57] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/069216277836/comercio-alteracao-preco-temporario-erro.fifo: Response code 404 (Not Found)
+[14:08:57] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/069216277836/comercio-promocao-produto-importacao-erro.fifo: Response code 404 (Not Found)
+[14:08:57] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/069216277836/comercio-reajuste-agregado-aplicacao.fifo: Response code 404 (Not Found)
+[14:08:57] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/069216277836/comercio-promocao-produto-importacao.fifo: Response code 404 (Not Found)
+[14:08:57] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/069216277836/comercio-alteracao-preco-temporario.fifo: Response code 404 (Not Found)
+[14:08:57] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/069216277836/comercio-alteracao-preco-aplicacao-erro.fifo: Response code 404 (Not Found)
+[14:08:57] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/069216277836/comercio-alteracao-preco-aplicacao.fifo: Response code 404 (Not Found)
+[14:08:57] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/069216277836/comercio-reajuste-agregado-temporario.fifo: Response code 404 (Not Found)
+[14:09:10] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/comercio/pricing/performance.md
+[14:09:10] [Info] [DocumentManager] Processing change for /home/fabioscalzer/projetos/documentação/documentacao/comercio/pricing/performance.md
+[14:09:10] [Info] [DocumentManager] File /home/fabioscalzer/projetos/documentação/documentacao/comercio/pricing/performance.md saved.
+[14:09:38] [Info] さようなら！ Shutting down at Thu Sep 14 2023 14:09:38 GMT-0300 (Brasilia Standard Time)
+[14:09:38] [Info] Application uptime was: 5 hours, 30 minutes, and 35.35 seconds.
+[14:09:53] [Info] こんにちは！ Booting Zettlr at Thu Sep 14 2023 14:09:53 GMT-0300 (Brasilia Standard Time).
+[14:09:53] [Info] Registering custom protocol safe-file
+[14:09:53] [Warning] [Assets Provider] Found outdated filter links.lua; copying ...
+[14:09:53] [Warning] [Assets Provider] Found outdated filter tags.lua; copying ...
+[14:09:53] [Info] [Citeproc Provider] Loading CSL locale file at /usr/lib/zettlr/resources/app.asar/.webpack/main/assets/csl-locales/locales-en-US.xml ...
+[14:09:54] [Info] [Update Provider] Checking for application updates ...
+[14:09:54] [Info] [Updater] Checking https://zettlr.com/api/releases/latest for updates ...
+[14:09:54] [Info] [FSAL] Loaded all files and workspaces in 0.03 seconds
+[14:09:54] [Info] [Window Manager] Window Manager started.
+[14:09:54] [Info] [Document Manager] Restored 1 open windows.
+[14:09:54] [Info] [AppServiceContainer] Boot successful!
+[14:09:54] [Info] [Application] Added /usr/lib/zettlr/resources to PATH.
+[14:09:54] [Info] [Application] The bundled pandoc executable is now in PATH. If you do not want to use the bundled pandoc, uncheck the corresponding setting and reboot the app.
+[14:09:55] [Error] [Update Provider] UNABLE_TO_GET_ISSUER_CERT_LOCALLY: Could not check for updates. RequestError: unable to get local issuer certificate
+[14:10:05] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/754529021164/comercio-reajuste-oportunidade-temporario-erro.fifo: Response code 404 (Not Found)
+[14:10:05] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/754529021164/comercio-reajuste-oportunidade-temporario.fifo: Response code 404 (Not Found)
+[14:10:05] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/754529021164/comercio-reajuste-agregado-aplicacao.fifo: Response code 404 (Not Found)
+[14:10:05] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/754529021164/comercio-reajuste-oportunidade-aplicacao-erro.fifo: Response code 404 (Not Found)
+[14:10:05] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/754529021164/comercio-alteracao-preco-temporario-erro.fifo: Response code 404 (Not Found)
+[14:10:05] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/754529021164/comercio-reajuste-agregado-aplicacao-erro.fifo: Response code 404 (Not Found)
+[14:10:05] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/754529021164/comercio-reajuste-oportunidade-aplicacao.fifo: Response code 404 (Not Found)
+[14:10:05] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/754529021164/comercio-promocao-produto-importacao-erro.fifo: Response code 404 (Not Found)
+[14:10:05] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/754529021164/comercio-promocao-produto-importacao.fifo: Response code 404 (Not Found)
+[14:10:05] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/754529021164/comercio-alteracao-preco-temporario.fifo: Response code 404 (Not Found)
+[14:10:05] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/754529021164/comercio-reajuste-agregado-temporario.fifo: Response code 404 (Not Found)
+[14:10:05] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/754529021164/comercio-reajuste-agregado-temporario-erro.fifo: Response code 404 (Not Found)
+[14:10:06] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/754529021164/comercio-alteracao-preco-aplicacao-erro.fifo: Response code 404 (Not Found)
+[14:10:06] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/754529021164/comercio-alteracao-preco-aplicacao.fifo: Response code 404 (Not Found)
+[14:10:06] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/973580931382/comercio-reajuste-oportunidade-temporario-erro.fifo: Response code 404 (Not Found)
+[14:10:06] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/973580931382/comercio-reajuste-oportunidade-temporario.fifo: Response code 404 (Not Found)
+[14:10:06] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/973580931382/comercio-alteracao-preco-temporario-erro.fifo: Response code 404 (Not Found)
+[14:10:06] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/973580931382/comercio-reajuste-agregado-temporario.fifo: Response code 404 (Not Found)
+[14:10:06] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/973580931382/comercio-promocao-produto-importacao.fifo: Response code 404 (Not Found)
+[14:10:06] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/973580931382/comercio-reajuste-oportunidade-aplicacao-erro.fifo: Response code 404 (Not Found)
+[14:10:06] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/973580931382/comercio-reajuste-oportunidade-aplicacao.fifo: Response code 404 (Not Found)
+[14:10:06] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/973580931382/comercio-alteracao-preco-aplicacao-erro.fifo: Response code 404 (Not Found)
+[14:10:06] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/973580931382/comercio-promocao-produto-importacao-erro.fifo: Response code 404 (Not Found)
+[14:10:06] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/973580931382/comercio-alteracao-preco-aplicacao.fifo: Response code 404 (Not Found)
+[14:10:06] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/973580931382/comercio-alteracao-preco-temporario.fifo: Response code 404 (Not Found)
+[14:10:06] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/973580931382/comercio-reajuste-agregado-aplicacao.fifo: Response code 404 (Not Found)
+[14:10:06] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/973580931382/comercio-reajuste-agregado-aplicacao-erro.fifo: Response code 404 (Not Found)
+[14:10:06] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/973580931382/comercio-reajuste-agregado-temporario-erro.fifo: Response code 404 (Not Found)
+[14:10:07] [Info] [DocumentManager] Processing change for /home/fabioscalzer/projetos/documentação/documentacao/comercio/pricing/performance.md
+[14:10:07] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/comercio/pricing/performance.md
+[14:10:07] [Info] [DocumentManager] File /home/fabioscalzer/projetos/documentação/documentacao/comercio/pricing/performance.md saved.
+[14:10:07] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/069216277836/comercio-reajuste-oportunidade-temporario.fifo: Response code 404 (Not Found)
+[14:10:07] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/069216277836/comercio-reajuste-oportunidade-temporario-erro.fifo: Response code 404 (Not Found)
+[14:10:07] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/069216277836/comercio-reajuste-oportunidade-aplicacao.fifo: Response code 404 (Not Found)
+[14:10:07] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/069216277836/comercio-reajuste-agregado-aplicacao.fifo: Response code 404 (Not Found)
+[14:10:07] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/069216277836/comercio-reajuste-oportunidade-aplicacao-erro.fifo: Response code 404 (Not Found)
+[14:10:07] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/069216277836/comercio-reajuste-agregado-temporario.fifo: Response code 404 (Not Found)
+[14:10:07] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/069216277836/comercio-reajuste-agregado-temporario-erro.fifo: Response code 404 (Not Found)
+[14:10:07] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/069216277836/comercio-alteracao-preco-aplicacao-erro.fifo: Response code 404 (Not Found)
+[14:10:07] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/069216277836/comercio-reajuste-agregado-aplicacao-erro.fifo: Response code 404 (Not Found)
+[14:10:07] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/069216277836/comercio-alteracao-preco-temporario.fifo: Response code 404 (Not Found)
+[14:10:07] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/069216277836/comercio-promocao-produto-importacao-erro.fifo: Response code 404 (Not Found)
+[14:10:07] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/069216277836/comercio-alteracao-preco-temporario-erro.fifo: Response code 404 (Not Found)
+[14:10:07] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/069216277836/comercio-promocao-produto-importacao.fifo: Response code 404 (Not Found)
+[14:10:08] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/069216277836/comercio-alteracao-preco-aplicacao.fifo: Response code 404 (Not Found)
+[14:18:49] [Warning] [R] [Main Window (619fcd54-5f5e-48cf-b84a-d1e74893f878)] Skipping linter warning "Incorrect list-item indent: add 1 space": No position (index.js:2)
+[14:18:52] [Info] [DocumentManager] Processing change for /home/fabioscalzer/projetos/documentação/documentacao/comercio/pricing/performance.md
+[14:18:52] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/comercio/pricing/performance.md
+[14:18:52] [Info] [DocumentManager] File /home/fabioscalzer/projetos/documentação/documentacao/comercio/pricing/performance.md saved.
+[14:20:02] [Info] [DocumentManager] Processing change for /home/fabioscalzer/projetos/documentação/documentacao/comercio/pricing/performance.md
+[14:20:02] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/comercio/pricing/performance.md
+[14:20:02] [Info] [DocumentManager] File /home/fabioscalzer/projetos/documentação/documentacao/comercio/pricing/performance.md saved.
+[14:20:24] [Warning] [R] [Main Window (619fcd54-5f5e-48cf-b84a-d1e74893f878)] Skipping linter warning "Incorrect list-item indent: add 1 space": No position (index.js:2)
+[14:20:27] [Info] [DocumentManager] Processing change for /home/fabioscalzer/projetos/documentação/documentacao/comercio/pricing/performance.md
+[14:20:27] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/comercio/pricing/performance.md
+[14:20:27] [Info] [DocumentManager] File /home/fabioscalzer/projetos/documentação/documentacao/comercio/pricing/performance.md saved.
+[14:20:37] [Warning] [R] [Main Window (619fcd54-5f5e-48cf-b84a-d1e74893f878)] Skipping linter warning "Incorrect list-item indent: add 1 space": No position (index.js:2)
+[14:20:40] [Info] [DocumentManager] Processing change for /home/fabioscalzer/projetos/documentação/documentacao/comercio/pricing/performance.md
+[14:20:40] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/comercio/pricing/performance.md
+[14:20:40] [Info] [DocumentManager] File /home/fabioscalzer/projetos/documentação/documentacao/comercio/pricing/performance.md saved.
+[14:20:48] [Warning] [R] [Main Window (619fcd54-5f5e-48cf-b84a-d1e74893f878)] Skipping linter warning "Incorrect list-item indent: add 1 space": No position (index.js:2)
+[14:20:53] [Warning] [R] [Main Window (619fcd54-5f5e-48cf-b84a-d1e74893f878)] Skipping linter warning "Incorrect list-item indent: add 1 space": No position (index.js:2)
+[14:20:56] [Info] [DocumentManager] Processing change for /home/fabioscalzer/projetos/documentação/documentacao/comercio/pricing/performance.md
+[14:20:56] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/comercio/pricing/performance.md
+[14:20:56] [Info] [DocumentManager] File /home/fabioscalzer/projetos/documentação/documentacao/comercio/pricing/performance.md saved.
+[14:22:24] [Warning] [R] [Main Window (619fcd54-5f5e-48cf-b84a-d1e74893f878)] Skipping linter warning "Incorrect list-item indent: add 1 space": No position (index.js:2)
+[14:22:27] [Info] [DocumentManager] Processing change for /home/fabioscalzer/projetos/documentação/documentacao/comercio/pricing/performance.md
+[14:22:27] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/comercio/pricing/performance.md
+[14:22:27] [Info] [DocumentManager] File /home/fabioscalzer/projetos/documentação/documentacao/comercio/pricing/performance.md saved.
+[14:23:15] [Info] [DocumentManager] Processing change for /home/fabioscalzer/projetos/documentação/documentacao/comercio/pricing/performance.md
+[14:23:15] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/comercio/pricing/performance.md
+[14:23:15] [Info] [DocumentManager] File /home/fabioscalzer/projetos/documentação/documentacao/comercio/pricing/performance.md saved.
+[14:23:29] [Info] [DocumentManager] Processing change for /home/fabioscalzer/projetos/documentação/documentacao/comercio/pricing/performance.md
+[14:23:29] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/comercio/pricing/performance.md
+[14:23:29] [Info] [DocumentManager] File /home/fabioscalzer/projetos/documentação/documentacao/comercio/pricing/performance.md saved.
+[14:24:07] [Warning] [R] [Main Window (619fcd54-5f5e-48cf-b84a-d1e74893f878)] Skipping linter warning "Incorrect list-item indent: add 1 space": No position (index.js:2)
+[14:24:10] [Info] [DocumentManager] Processing change for /home/fabioscalzer/projetos/documentação/documentacao/comercio/pricing/performance.md
+[14:24:10] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/comercio/pricing/performance.md
+[14:24:10] [Info] [DocumentManager] File /home/fabioscalzer/projetos/documentação/documentacao/comercio/pricing/performance.md saved.
+[15:37:15] [Warning] [R] [Main Window (619fcd54-5f5e-48cf-b84a-d1e74893f878)] Skipping linter warning "Incorrect list-item indent: add 1 space": No position (index.js:2)
+[15:37:18] [Info] [DocumentManager] Processing change for /home/fabioscalzer/projetos/documentação/documentacao/comercio/pricing/performance.md
+[15:37:18] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/comercio/pricing/performance.md
+[15:37:18] [Info] [DocumentManager] File /home/fabioscalzer/projetos/documentação/documentacao/comercio/pricing/performance.md saved.
+[15:37:36] [Info] [DocumentManager] Processing change for /home/fabioscalzer/projetos/documentação/documentacao/comercio/pricing/performance.md
+[15:37:36] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/comercio/pricing/performance.md
+[15:37:36] [Info] [DocumentManager] File /home/fabioscalzer/projetos/documentação/documentacao/comercio/pricing/performance.md saved.
+[15:38:00] [Info] [DocumentManager] Processing change for /home/fabioscalzer/projetos/documentação/documentacao/comercio/pricing/performance.md
+[15:38:00] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/comercio/pricing/performance.md
+[15:38:00] [Info] [DocumentManager] File /home/fabioscalzer/projetos/documentação/documentacao/comercio/pricing/performance.md saved.
+[15:38:08] [Info] [DocumentManager] Processing change for /home/fabioscalzer/projetos/documentação/documentacao/comercio/pricing/performance.md
+[15:38:08] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/comercio/pricing/performance.md
+[15:38:09] [Info] [DocumentManager] File /home/fabioscalzer/projetos/documentação/documentacao/comercio/pricing/performance.md saved.
+[15:38:23] [Info] [DocumentManager] Processing change for /home/fabioscalzer/projetos/documentação/documentacao/comercio/pricing/performance.md
+[15:38:23] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/comercio/pricing/performance.md
+[15:38:23] [Info] [DocumentManager] File /home/fabioscalzer/projetos/documentação/documentacao/comercio/pricing/performance.md saved.
+[15:38:40] [Info] [DocumentManager] Processing change for /home/fabioscalzer/projetos/documentação/documentacao/comercio/pricing/performance.md
+[15:38:40] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/comercio/pricing/performance.md
+[15:38:40] [Info] [DocumentManager] File /home/fabioscalzer/projetos/documentação/documentacao/comercio/pricing/performance.md saved.
+[15:38:49] [Info] [DocumentManager] Processing change for /home/fabioscalzer/projetos/documentação/documentacao/comercio/pricing/performance.md
+[15:38:49] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/comercio/pricing/performance.md
+[15:38:49] [Info] [DocumentManager] File /home/fabioscalzer/projetos/documentação/documentacao/comercio/pricing/performance.md saved.
+[15:39:25] [Info] [DocumentManager] Processing change for /home/fabioscalzer/projetos/documentação/documentacao/comercio/pricing/performance.md
+[15:39:25] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/comercio/pricing/performance.md
+[15:39:25] [Info] [DocumentManager] File /home/fabioscalzer/projetos/documentação/documentacao/comercio/pricing/performance.md saved.
+[15:39:56] [Info] [DocumentManager] Processing change for /home/fabioscalzer/projetos/documentação/documentacao/comercio/pricing/performance.md
+[15:39:56] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/comercio/pricing/performance.md
+[15:39:56] [Info] [DocumentManager] File /home/fabioscalzer/projetos/documentação/documentacao/comercio/pricing/performance.md saved.
+[15:42:40] [Info] [DocumentManager] Processing change for /home/fabioscalzer/projetos/documentação/documentacao/comercio/pricing/performance.md
+[15:42:40] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/comercio/pricing/performance.md
+[15:42:40] [Info] [DocumentManager] File /home/fabioscalzer/projetos/documentação/documentacao/comercio/pricing/performance.md saved.
+[15:51:11] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/754529021164/comercio-alteracao-preco-aplicacao-erro.fifo: Response code 404 (Not Found)
+[15:51:11] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/754529021164/comercio-alteracao-preco-aplicacao.fifo: Response code 404 (Not Found)
+[15:51:11] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/973580931382/comercio-reajuste-agregado-aplicacao-erro.fifo: Response code 404 (Not Found)
+[15:51:11] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/754529021164/comercio-promocao-produto-importacao.fifo: Response code 404 (Not Found)
+[15:51:11] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/754529021164/comercio-reajuste-agregado-aplicacao.fifo: Response code 404 (Not Found)
+[15:51:11] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/754529021164/comercio-alteracao-preco-temporario-erro.fifo: Response code 404 (Not Found)
+[15:51:11] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/754529021164/comercio-reajuste-oportunidade-temporario.fifo: Response code 404 (Not Found)
+[15:51:11] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/973580931382/comercio-reajuste-oportunidade-aplicacao.fifo: Response code 404 (Not Found)
+[15:51:11] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/754529021164/comercio-reajuste-agregado-temporario.fifo: Response code 404 (Not Found)
+[15:51:11] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/973580931382/comercio-reajuste-oportunidade-aplicacao-erro.fifo: Response code 404 (Not Found)
+[15:51:11] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/754529021164/comercio-reajuste-oportunidade-aplicacao.fifo: Response code 404 (Not Found)
+[15:51:11] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/973580931382/comercio-reajuste-agregado-temporario.fifo: Response code 404 (Not Found)
+[15:51:11] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/973580931382/comercio-reajuste-oportunidade-temporario.fifo: Response code 404 (Not Found)
+[15:51:11] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/754529021164/comercio-reajuste-oportunidade-temporario-erro.fifo: Response code 404 (Not Found)
+[15:51:11] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/754529021164/comercio-promocao-produto-importacao-erro.fifo: Response code 404 (Not Found)
+[15:51:11] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/754529021164/comercio-reajuste-agregado-aplicacao-erro.fifo: Response code 404 (Not Found)
+[15:51:11] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/754529021164/comercio-alteracao-preco-temporario.fifo: Response code 404 (Not Found)
+[15:51:11] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/754529021164/comercio-reajuste-agregado-temporario-erro.fifo: Response code 404 (Not Found)
+[15:51:11] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/973580931382/comercio-reajuste-agregado-temporario-erro.fifo: Response code 404 (Not Found)
+[15:51:12] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/973580931382/comercio-reajuste-oportunidade-temporario-erro.fifo: Response code 404 (Not Found)
+[15:51:12] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/754529021164/comercio-reajuste-oportunidade-aplicacao-erro.fifo: Response code 404 (Not Found)
+[15:51:12] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/973580931382/comercio-alteracao-preco-aplicacao.fifo: Response code 404 (Not Found)
+[15:51:12] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/973580931382/comercio-promocao-produto-importacao-erro.fifo: Response code 404 (Not Found)
+[15:51:12] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/973580931382/comercio-reajuste-agregado-temporario.fifo: Response code 404 (Not Found)
+[15:51:12] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/973580931382/comercio-reajuste-agregado-aplicacao-erro.fifo: Response code 404 (Not Found)
+[15:51:12] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/069216277836/comercio-reajuste-oportunidade-temporario-erro.fifo: Response code 404 (Not Found)
+[15:51:12] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/973580931382/comercio-alteracao-preco-temporario.fifo: Response code 404 (Not Found)
+[15:51:12] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/973580931382/comercio-reajuste-agregado-aplicacao.fifo: Response code 404 (Not Found)
+[15:51:12] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/973580931382/comercio-alteracao-preco-aplicacao-erro.fifo: Response code 404 (Not Found)
+[15:51:12] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/973580931382/comercio-alteracao-preco-temporario-erro.fifo: Response code 404 (Not Found)
+[15:51:12] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/973580931382/comercio-promocao-produto-importacao.fifo: Response code 404 (Not Found)
+[15:51:13] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/069216277836/comercio-reajuste-oportunidade-temporario.fifo: Response code 404 (Not Found)
+[15:51:13] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/069216277836/comercio-alteracao-preco-temporario.fifo: Response code 404 (Not Found)
+[15:51:13] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/069216277836/comercio-reajuste-oportunidade-aplicacao.fifo: Response code 404 (Not Found)
+[15:51:13] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/069216277836/comercio-reajuste-agregado-aplicacao.fifo: Response code 404 (Not Found)
+[15:51:13] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/069216277836/comercio-reajuste-agregado-temporario.fifo: Response code 404 (Not Found)
+[15:51:13] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/069216277836/comercio-promocao-produto-importacao-erro.fifo: Response code 404 (Not Found)
+[15:51:13] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/069216277836/comercio-reajuste-oportunidade-aplicacao-erro.fifo: Response code 404 (Not Found)
+[15:51:13] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/069216277836/comercio-alteracao-preco-temporario-erro.fifo: Response code 404 (Not Found)
+[15:51:13] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/069216277836/comercio-reajuste-agregado-temporario-erro.fifo: Response code 404 (Not Found)
+[15:51:13] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/069216277836/comercio-promocao-produto-importacao.fifo: Response code 404 (Not Found)
+[15:51:13] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/069216277836/comercio-reajuste-agregado-aplicacao-erro.fifo: Response code 404 (Not Found)
+[15:51:13] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/069216277836/comercio-alteracao-preco-aplicacao.fifo: Response code 404 (Not Found)
+[15:51:13] [Error] [Application] Could not fetch link preview for URL https://sa-east-1.queue.amazonaws.com/069216277836/comercio-alteracao-preco-aplicacao-erro.fifo: Response code 404 (Not Found)
+[15:51:49] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md
+[15:51:49] [Info] [DocumentManager] Processing change for /home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md
+[15:51:49] [Info] [DocumentManager] File /home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md saved.
+[15:52:01] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md
+[15:52:01] [Info] [DocumentManager] Processing change for /home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md
+[15:52:01] [Info] [DocumentManager] File /home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md saved.
+[16:23:17] [Info] さようなら！ Shutting down at Thu Sep 14 2023 16:23:17 GMT-0300 (Brasilia Standard Time)
+[16:23:17] [Info] Application uptime was: 2 hours, 13 minutes, and 24.493 seconds.
+[16:23:17] [Info] [FSAL Cache] Cleaned up cache: Removed 0 remnants.

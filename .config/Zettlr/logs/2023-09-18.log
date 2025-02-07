@@ -1,0 +1,273 @@
+[08:47:35] [Info] こんにちは！ Booting Zettlr at Mon Sep 18 2023 08:47:35 GMT-0300 (Brasilia Standard Time).
+[08:47:35] [Info] Registering custom protocol safe-file
+[08:47:35] [Warning] [Assets Provider] Found outdated filter links.lua; copying ...
+[08:47:35] [Warning] [Assets Provider] Found outdated filter tags.lua; copying ...
+[08:47:35] [Info] [Citeproc Provider] Loading CSL locale file at /usr/lib/zettlr/resources/app.asar/.webpack/main/assets/csl-locales/locales-en-US.xml ...
+[08:47:35] [Info] [Update Provider] Checking for application updates ...
+[08:47:35] [Info] [Updater] Checking https://zettlr.com/api/releases/latest for updates ...
+[08:47:35] [Info] [FSAL] Loaded all files and workspaces in 0.06 seconds
+[08:47:35] [Info] [Window Manager] Window Manager started.
+[08:47:35] [Info] [Document Manager] Restored 1 open windows.
+[08:47:35] [Info] [AppServiceContainer] Boot successful!
+[08:47:35] [Info] [Application] Added /usr/lib/zettlr/resources to PATH.
+[08:47:35] [Info] [Application] The bundled pandoc executable is now in PATH. If you do not want to use the bundled pandoc, uncheck the corresponding setting and reboot the app.
+[08:47:36] [Error] [Update Provider] UNABLE_TO_GET_ISSUER_CERT_LOCALLY: Could not check for updates. RequestError: unable to get local issuer certificate
+[08:50:05] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md
+[08:50:05] [Info] [DocumentManager] Processing change for /home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md
+[08:50:05] [Info] [DocumentManager] File /home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md saved.
+[08:50:32] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md
+[08:50:32] [Info] [DocumentManager] Processing change for /home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md
+[08:50:32] [Info] [DocumentManager] File /home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md saved.
+[10:14:34] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md
+[10:14:34] [Info] [DocumentManager] Processing change for /home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md
+[10:14:34] [Info] [DocumentManager] File /home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md saved.
+[10:15:58] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md
+[10:15:58] [Info] [DocumentManager] Processing change for /home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md
+[10:15:58] [Info] [DocumentManager] File /home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md saved.
+[10:16:13] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md
+[10:16:13] [Info] [DocumentManager] Processing change for /home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md
+[10:16:13] [Info] [DocumentManager] File /home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md saved.
+[10:17:10] [Error] [Application] Could not fetch link preview for URL https://bitbucket.org/mgvidros/diagramas-arq-referencia;: Response code 404 (Not Found)
+[10:17:11] [Error] [Application] Could not fetch link preview for URL https://autoglass.com.br): getaddrinfo ENOTFOUND autoglass.com.br)
+[10:27:27] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md
+[10:27:27] [Info] [DocumentManager] Processing change for /home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md
+[10:27:28] [Info] [DocumentManager] File /home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md saved.
+[10:27:42] [Info] [DocumentManager] Processing change for /home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md
+[10:27:42] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md
+[10:27:42] [Info] [DocumentManager] File /home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md saved.
+[13:15:54] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md
+[13:15:54] [Info] [DocumentManager] Processing change for /home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md
+[13:15:54] [Info] [DocumentManager] File /home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md saved.
+[13:16:04] [Warning] [R] [Main Window (619fcd54-5f5e-48cf-b84a-d1e74893f878)] addRange(): The given range isn't in document. (index.js:2)
+[13:16:16] [Error] [R] [Main Window (619fcd54-5f5e-48cf-b84a-d1e74893f878)] RangeError: Invalid line number 9 in 1-line document (index.js:2)
+[13:16:16] [Error] [Application] Could not fetch link preview for URL https://pkc-4v5zz.sa-east-1.aws.confluent.cloud:9092",: Invalid URL
+[13:16:19] [Error] [Application] Could not fetch link preview for URL https://autoglass.comercio.pricing.teste: getaddrinfo ENOTFOUND autoglass.comercio.pricing.teste
+[13:16:32] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md
+[13:16:32] [Info] [DocumentManager] Processing change for /home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md
+[13:16:32] [Info] [DocumentManager] File /home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md saved.
+[13:16:49] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md
+[13:16:49] [Info] [DocumentManager] Processing change for /home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md
+[13:16:49] [Info] [DocumentManager] File /home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md saved.
+[13:55:48] [Error] [Application] Could not fetch link preview for URL https://autoglass.comercio.mip.integracao.reajuste-preco: getaddrinfo ENOTFOUND autoglass.comercio.mip.integracao.reajuste-preco
+[13:55:48] [Error] [Application] Could not fetch link preview for URL https://autoglass.comercio.mip.integracao.solicitacao-reajuste-preco: getaddrinfo ENOTFOUND autoglass.comercio.mip.integracao.solicitacao-reajuste-preco
+[13:55:48] [Error] [Application] Could not fetch link preview for URL https://autoglass.comercio.mip.integracao.solicitacao-reajuste-preco: getaddrinfo ENOTFOUND autoglass.comercio.mip.integracao.solicitacao-reajuste-preco
+[13:55:48] [Error] [Application] Could not fetch link preview for URL https://autoglass.comercio.mip.integracao.reajuste-preco: getaddrinfo ENOTFOUND autoglass.comercio.mip.integracao.reajuste-preco
+[13:55:48] [Error] [Application] Could not fetch link preview for URL https://autoglass.comercio.mip.integracao.reajuste-preco: getaddrinfo ENOTFOUND autoglass.comercio.mip.integracao.reajuste-preco
+[13:55:48] [Error] [Application] Could not fetch link preview for URL https://autoglass.comercio.mip.integracao.solicitacao-reajuste-preco: getaddrinfo ENOTFOUND autoglass.comercio.mip.integracao.solicitacao-reajuste-preco
+[13:56:00] [Error] [Application] Could not fetch link preview for URL https://autoglass.comercio.mip.integracao.solicitacao-reajuste-preco: getaddrinfo ENOTFOUND autoglass.comercio.mip.integracao.solicitacao-reajuste-preco
+[13:56:00] [Error] [Application] Could not fetch link preview for URL https://autoglass.comercio.mip.integracao.reajuste-preco: getaddrinfo ENOTFOUND autoglass.comercio.mip.integracao.reajuste-preco
+[13:56:00] [Error] [Application] Could not fetch link preview for URL https://pkc-ymrq7.us-east-2.aws.confluent.cloud:9092: socket hang up
+[13:56:03] [Error] [Application] Could not fetch link preview for URL https://pkc-4v5zz.sa-east-1.aws.confluent.cloud:9092: socket hang up
+[13:56:18] [Error] [Application] Could not fetch link preview for URL https://pkc-n00kk.us-east-1.aws.confluent.cloud:9092: socket hang up
+[13:56:22] [Error] [Application] Could not fetch link preview for URL https://pkc-n00kk.us-east-1.aws.confluent.cloud:9092: socket hang up
+[13:56:43] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/comercio/pricing/mip.md
+[13:56:43] [Info] [DocumentManager] Processing change for /home/fabioscalzer/projetos/documentação/documentacao/comercio/pricing/mip.md
+[13:56:43] [Info] [DocumentManager] File /home/fabioscalzer/projetos/documentação/documentacao/comercio/pricing/mip.md saved.
+[13:56:43] [Error] [Application] Could not fetch link preview for URL https://autoglass.comercio.mip.integracao.solicitacao-reajuste-preco: getaddrinfo ENOTFOUND autoglass.comercio.mip.integracao.solicitacao-reajuste-preco
+[13:56:43] [Error] [Application] Could not fetch link preview for URL https://autoglass.comercio.mip.integracao.reajuste-preco: getaddrinfo ENOTFOUND autoglass.comercio.mip.integracao.reajuste-preco
+[13:56:52] [Error] [Application] Could not fetch link preview for URL https://autoglass.comercio.mip.integracao.reajuste-preco: getaddrinfo ENOTFOUND autoglass.comercio.mip.integracao.reajuste-preco
+[13:56:52] [Error] [Application] Could not fetch link preview for URL https://autoglass.comercio.mip.integracao.solicitacao-reajuste-preco: getaddrinfo ENOTFOUND autoglass.comercio.mip.integracao.solicitacao-reajuste-preco
+[13:57:00] [Error] [Application] Could not fetch link preview for URL https://pkc-n00kk.us-east-1.aws.confluent.cloud:9092: socket hang up
+[13:57:09] [Error] [Application] Could not fetch link preview for URL https://pkc-n00kk.us-east-1.aws.confluent.cloud:9092: socket hang up
+[13:57:09] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/comercio/pricing/mip.md
+[13:57:09] [Info] [DocumentManager] Processing change for /home/fabioscalzer/projetos/documentação/documentacao/comercio/pricing/mip.md
+[13:57:09] [Info] [DocumentManager] File /home/fabioscalzer/projetos/documentação/documentacao/comercio/pricing/mip.md saved.
+[13:57:10] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/comercio/pricing/mip.md
+[13:57:10] [Info] [DocumentManager] Processing change for /home/fabioscalzer/projetos/documentação/documentacao/comercio/pricing/mip.md
+[13:57:10] [Info] [DocumentManager] File /home/fabioscalzer/projetos/documentação/documentacao/comercio/pricing/mip.md saved.
+[14:02:25] [Error] [Application] Could not fetch link preview for URL https://mip-dev.cluster-cu62elblagyw.sa-east-1.rds.amazonaws.com: connect ETIMEDOUT 172.24.137.181:443
+[14:04:28] [Error] [Application] Could not fetch link preview for URL https://autoglass.comercio.mip.integracao.solicitacao-reajuste-preco: getaddrinfo ENOTFOUND autoglass.comercio.mip.integracao.solicitacao-reajuste-preco
+[14:04:28] [Error] [Application] Could not fetch link preview for URL https://autoglass.comercio.mip.integracao.reajuste-preco: getaddrinfo ENOTFOUND autoglass.comercio.mip.integracao.reajuste-preco
+[14:04:29] [Error] [Application] Could not fetch link preview for URL https://autoglass.comercio.mip.integracao.solicitacao-reajuste-preco: getaddrinfo ENOTFOUND autoglass.comercio.mip.integracao.solicitacao-reajuste-preco
+[14:04:32] [Error] [Application] Could not fetch link preview for URL https://autoglass.comercio.mip.integracao.solicitacao-reajuste-preco: getaddrinfo ENOTFOUND autoglass.comercio.mip.integracao.solicitacao-reajuste-preco
+[14:04:33] [Error] [Application] Could not fetch link preview for URL https://autoglass.comercio.mip.integracao.reajuste-preco: getaddrinfo ENOTFOUND autoglass.comercio.mip.integracao.reajuste-preco
+[14:04:35] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/comercio/pricing/mip.md
+[14:04:35] [Info] [DocumentManager] Processing change for /home/fabioscalzer/projetos/documentação/documentacao/comercio/pricing/mip.md
+[14:04:35] [Info] [DocumentManager] File /home/fabioscalzer/projetos/documentação/documentacao/comercio/pricing/mip.md saved.
+[14:04:36] [Error] [Application] Could not fetch link preview for URL https://autoglass.comercio.mip.integracao.reajuste-preco: getaddrinfo ENOTFOUND autoglass.comercio.mip.integracao.reajuste-preco
+[14:04:45] [Error] [Application] Could not fetch link preview for URL https://pkc-n00kk.us-east-1.aws.confluent.cloud:9092: socket hang up
+[14:04:46] [Error] [Application] Could not fetch link preview for URL https://autoglass.comercio.mip.integracao.reajuste-preco: getaddrinfo ENOTFOUND autoglass.comercio.mip.integracao.reajuste-preco
+[14:04:46] [Error] [Application] Could not fetch link preview for URL https://autoglass.comercio.mip.integracao.solicitacao-reajuste-preco: getaddrinfo ENOTFOUND autoglass.comercio.mip.integracao.solicitacao-reajuste-preco
+[14:04:46] [Error] [Application] Could not fetch link preview for URL https://autoglass.comercio.mip.integracao.reajuste-preco: getaddrinfo ENOTFOUND autoglass.comercio.mip.integracao.reajuste-preco
+[14:04:46] [Error] [Application] Could not fetch link preview for URL https://autoglass.comercio.mip.integracao.solicitacao-reajuste-preco: getaddrinfo ENOTFOUND autoglass.comercio.mip.integracao.solicitacao-reajuste-preco
+[14:04:55] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/comercio/pricing/mip.md
+[14:04:55] [Info] [DocumentManager] Processing change for /home/fabioscalzer/projetos/documentação/documentacao/comercio/pricing/mip.md
+[14:04:55] [Info] [DocumentManager] File /home/fabioscalzer/projetos/documentação/documentacao/comercio/pricing/mip.md saved.
+[14:05:03] [Error] [Application] Could not fetch link preview for URL https://pkc-n00kk.us-east-1.aws.confluent.cloud:9092: socket hang up
+[14:05:10] [Error] [Application] Could not fetch link preview for URL https://pkc-ymrq7.us-east-2.aws.confluent.cloud:9092: socket hang up
+[15:01:05] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/comercio/pricing/mip.md
+[15:01:05] [Info] [DocumentManager] Processing change for /home/fabioscalzer/projetos/documentação/documentacao/comercio/pricing/mip.md
+[15:01:05] [Info] [DocumentManager] File /home/fabioscalzer/projetos/documentação/documentacao/comercio/pricing/mip.md saved.
+[15:01:05] [Error] [Application] Could not fetch link preview for URL https://autoglass.comercio.mip.integracao.reajuste-preco: getaddrinfo ENOTFOUND autoglass.comercio.mip.integracao.reajuste-preco
+[15:01:05] [Error] [Application] Could not fetch link preview for URL https://autoglass.comercio.mip.integracao.solicitacao-reajuste-preco: getaddrinfo ENOTFOUND autoglass.comercio.mip.integracao.solicitacao-reajuste-preco
+[15:01:22] [Error] [Application] Could not fetch link preview for URL https://autoglass.comercio.mip.integracao.reajuste-preco: getaddrinfo ENOTFOUND autoglass.comercio.mip.integracao.reajuste-preco
+[15:01:22] [Error] [Application] Could not fetch link preview for URL https://pkc-ymrq7.us-east-2.aws.confluent.cloud:9092: socket hang up
+[15:01:22] [Error] [Application] Could not fetch link preview for URL https://autoglass.comercio.mip.integracao.solicitacao-reajuste-preco: getaddrinfo ENOTFOUND autoglass.comercio.mip.integracao.solicitacao-reajuste-preco
+[15:01:24] [Error] [Application] Could not fetch link preview for URL https://autoglass.comercio.mip.integracao.reajuste-preco: getaddrinfo ENOTFOUND autoglass.comercio.mip.integracao.reajuste-preco
+[15:01:24] [Error] [Application] Could not fetch link preview for URL https://autoglass.comercio.mip.integracao.solicitacao-reajuste-preco: getaddrinfo ENOTFOUND autoglass.comercio.mip.integracao.solicitacao-reajuste-preco
+[15:01:31] [Error] [Application] Could not fetch link preview for URL https://autoglass.comercio.mip.integracao.solicitacao-reajuste-preco: getaddrinfo ENOTFOUND autoglass.comercio.mip.integracao.solicitacao-reajuste-preco
+[15:01:31] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/comercio/pricing/mip.md
+[15:01:31] [Info] [DocumentManager] Processing change for /home/fabioscalzer/projetos/documentação/documentacao/comercio/pricing/mip.md
+[15:01:31] [Info] [DocumentManager] File /home/fabioscalzer/projetos/documentação/documentacao/comercio/pricing/mip.md saved.
+[15:01:34] [Error] [Application] Could not fetch link preview for URL https://autoglass.comercio.mip.integracao.solicitacao-reajuste-preco: getaddrinfo ENOTFOUND autoglass.comercio.mip.integracao.solicitacao-reajuste-preco
+[15:01:39] [Error] [Application] Could not fetch link preview for URL https://pkc-ymrq7.us-east-2.aws.confluent.cloud:9092: socket hang up
+[15:01:42] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/comercio/pricing/mip.md
+[15:01:42] [Info] [DocumentManager] Processing change for /home/fabioscalzer/projetos/documentação/documentacao/comercio/pricing/mip.md
+[15:01:42] [Info] [DocumentManager] File /home/fabioscalzer/projetos/documentação/documentacao/comercio/pricing/mip.md saved.
+[15:01:43] [Error] [Application] Could not fetch link preview for URL https://pkc-ymrq7.us-east-2.aws.confluent.cloud:9092: socket hang up
+[15:01:58] [Error] [Application] Could not fetch link preview for URL https://pkc-ymrq7.us-east-2.aws.confluent.cloud:9092: socket hang up
+[15:04:32] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/comercio/pricing/mip.md
+[15:04:32] [Info] [DocumentManager] Processing change for /home/fabioscalzer/projetos/documentação/documentacao/comercio/pricing/mip.md
+[15:04:32] [Info] [DocumentManager] File /home/fabioscalzer/projetos/documentação/documentacao/comercio/pricing/mip.md saved.
+[15:07:36] [Info] [DocumentManager] Processing change for /home/fabioscalzer/projetos/documentação/documentacao/comercio/pricing/mip.md
+[15:07:36] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/comercio/pricing/mip.md
+[15:07:36] [Info] [DocumentManager] File /home/fabioscalzer/projetos/documentação/documentacao/comercio/pricing/mip.md saved.
+[15:07:50] [Error] [Application] Could not fetch link preview for URL https://pkc-4v5zz.sa-east-1.aws.confluent.cloud:9092: socket hang up
+[15:09:47] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/comercio/pricing/mip.md
+[15:09:47] [Info] [DocumentManager] Processing change for /home/fabioscalzer/projetos/documentação/documentacao/comercio/pricing/mip.md
+[15:09:47] [Info] [DocumentManager] File /home/fabioscalzer/projetos/documentação/documentacao/comercio/pricing/mip.md saved.
+[15:10:11] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/comercio/pricing/mip.md
+[15:10:11] [Info] [DocumentManager] Processing change for /home/fabioscalzer/projetos/documentação/documentacao/comercio/pricing/mip.md
+[15:10:11] [Info] [DocumentManager] File /home/fabioscalzer/projetos/documentação/documentacao/comercio/pricing/mip.md saved.
+[15:10:35] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/comercio/pricing/mip.md
+[15:10:35] [Info] [DocumentManager] Processing change for /home/fabioscalzer/projetos/documentação/documentacao/comercio/pricing/mip.md
+[15:10:35] [Info] [DocumentManager] File /home/fabioscalzer/projetos/documentação/documentacao/comercio/pricing/mip.md saved.
+[15:10:48] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/comercio/pricing/mip.md
+[15:10:48] [Info] [DocumentManager] Processing change for /home/fabioscalzer/projetos/documentação/documentacao/comercio/pricing/mip.md
+[15:10:48] [Info] [DocumentManager] File /home/fabioscalzer/projetos/documentação/documentacao/comercio/pricing/mip.md saved.
+[15:11:06] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/comercio/pricing/mip.md
+[15:11:06] [Info] [DocumentManager] Processing change for /home/fabioscalzer/projetos/documentação/documentacao/comercio/pricing/mip.md
+[15:11:06] [Info] [DocumentManager] File /home/fabioscalzer/projetos/documentação/documentacao/comercio/pricing/mip.md saved.
+[15:11:14] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/comercio/pricing/mip.md
+[15:11:14] [Info] [DocumentManager] Processing change for /home/fabioscalzer/projetos/documentação/documentacao/comercio/pricing/mip.md
+[15:11:14] [Info] [DocumentManager] File /home/fabioscalzer/projetos/documentação/documentacao/comercio/pricing/mip.md saved.
+[15:11:26] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/comercio/pricing/mip.md
+[15:11:26] [Info] [DocumentManager] Processing change for /home/fabioscalzer/projetos/documentação/documentacao/comercio/pricing/mip.md
+[15:11:26] [Info] [DocumentManager] File /home/fabioscalzer/projetos/documentação/documentacao/comercio/pricing/mip.md saved.
+[15:13:32] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md
+[15:13:32] [Info] [DocumentManager] Processing change for /home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md
+[15:13:32] [Info] [DocumentManager] File /home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md saved.
+[15:14:02] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md
+[15:14:02] [Info] [DocumentManager] Processing change for /home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md
+[15:14:02] [Info] [DocumentManager] File /home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md saved.
+[15:14:10] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md
+[15:14:10] [Info] [DocumentManager] Processing change for /home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md
+[15:14:10] [Info] [DocumentManager] File /home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md saved.
+[16:20:18] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md
+[16:20:18] [Info] [DocumentManager] Processing change for /home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md
+[16:20:18] [Info] [DocumentManager] File /home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md saved.
+[16:39:50] [Error] [Application] Could not fetch link preview for URL https://seller.autoglass.com.br/inscricao.: Response code 404 (Not Found)
+[16:39:53] [Error] [Application] Could not fetch link preview for URL https://seller.autoglass.com.br/inscricao.: Response code 404 (Not Found)
+[16:39:53] [Error] [Application] Could not fetch link preview for URL https://autoglass.produtos.importacao: getaddrinfo ENOTFOUND autoglass.produtos.importacao
+[16:40:42] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/comercio/seller/seller.md
+[16:40:42] [Info] [DocumentManager] Processing change for /home/fabioscalzer/projetos/documentação/documentacao/comercio/seller/seller.md
+[16:40:42] [Info] [DocumentManager] File /home/fabioscalzer/projetos/documentação/documentacao/comercio/seller/seller.md saved.
+[16:41:17] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/comercio/seller/seller.md
+[16:41:17] [Info] [DocumentManager] Processing change for /home/fabioscalzer/projetos/documentação/documentacao/comercio/seller/seller.md
+[16:41:18] [Info] [DocumentManager] File /home/fabioscalzer/projetos/documentação/documentacao/comercio/seller/seller.md saved.
+[16:41:24] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/comercio/seller/seller.md
+[16:41:24] [Info] [DocumentManager] Processing change for /home/fabioscalzer/projetos/documentação/documentacao/comercio/seller/seller.md
+[16:41:24] [Info] [DocumentManager] File /home/fabioscalzer/projetos/documentação/documentacao/comercio/seller/seller.md saved.
+[16:41:47] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/comercio/seller/seller.md
+[16:41:47] [Info] [DocumentManager] Processing change for /home/fabioscalzer/projetos/documentação/documentacao/comercio/seller/seller.md
+[16:41:47] [Info] [DocumentManager] File /home/fabioscalzer/projetos/documentação/documentacao/comercio/seller/seller.md saved.
+[16:41:57] [Error] [Application] Could not fetch link preview for URL https://seller.autoglass.com.br/inscricao.: Response code 404 (Not Found)
+[16:41:59] [Error] [Application] Could not fetch link preview for URL https://autoglass.produtos.importacao: getaddrinfo ENOTFOUND autoglass.produtos.importacao
+[16:42:01] [Error] [Application] Could not fetch link preview for URL https://seller.autoglass.com.br/inscricao.: Response code 404 (Not Found)
+[16:42:04] [Error] [Application] Could not fetch link preview for URL https://autoglass.produtos.importacao: getaddrinfo ENOTFOUND autoglass.produtos.importacao
+[16:42:28] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/comercio/seller/seller.md
+[16:42:28] [Info] [DocumentManager] Processing change for /home/fabioscalzer/projetos/documentação/documentacao/comercio/seller/seller.md
+[16:42:28] [Info] [DocumentManager] File /home/fabioscalzer/projetos/documentação/documentacao/comercio/seller/seller.md saved.
+[16:42:45] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/comercio/seller/seller.md
+[16:42:45] [Info] [DocumentManager] Processing change for /home/fabioscalzer/projetos/documentação/documentacao/comercio/seller/seller.md
+[16:42:45] [Info] [DocumentManager] File /home/fabioscalzer/projetos/documentação/documentacao/comercio/seller/seller.md saved.
+[16:42:56] [Error] [Application] Could not fetch link preview for URL https://pkc-4v5zz.sa-east-1.aws.confluent.cloud:9092: socket hang up
+[16:44:41] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/comercio/pricing/mip.md
+[16:44:41] [Info] [DocumentManager] Processing change for /home/fabioscalzer/projetos/documentação/documentacao/comercio/pricing/mip.md
+[16:44:41] [Info] [DocumentManager] File /home/fabioscalzer/projetos/documentação/documentacao/comercio/pricing/mip.md saved.
+[16:44:50] [Error] [Application] Could not fetch link preview for URL https://pkc-ymrq7.us-east-2.aws.confluent.cloud:9092: socket hang up
+[16:44:50] [Error] [Application] Could not fetch link preview for URL https://pkc-4v5zz.sa-east-1.aws.confluent.cloud:9092: socket hang up
+[16:44:50] [Error] [Application] Could not fetch link preview for URL https://pkc-ymrq7.us-east-2.aws.confluent.cloud:9092: socket hang up
+[16:44:54] [Error] [Application] Could not fetch link preview for URL https://pkc-ymrq7.us-east-2.aws.confluent.cloud:9092: socket hang up
+[16:44:56] [Error] [Application] Could not fetch link preview for URL https://pkc-ymrq7.us-east-2.aws.confluent.cloud:9092: socket hang up
+[16:44:59] [Error] [Application] Could not fetch link preview for URL https://pkc-ymrq7.us-east-2.aws.confluent.cloud:9092: socket hang up
+[16:45:06] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/comercio/pricing/mip.md
+[16:45:06] [Info] [DocumentManager] Processing change for /home/fabioscalzer/projetos/documentação/documentacao/comercio/pricing/mip.md
+[16:45:06] [Info] [DocumentManager] File /home/fabioscalzer/projetos/documentação/documentacao/comercio/pricing/mip.md saved.
+[16:45:17] [Error] [Application] Could not fetch link preview for URL https://pkc-4v5zz.sa-east-1.aws.confluent.cloud:443: Response code 404 (Not Found)
+[16:45:19] [Error] [Application] Could not fetch link preview for URL https://pkc-ymrq7.us-east-2.aws.confluent.cloud:9092: socket hang up
+[16:45:20] [Error] [Application] Could not fetch link preview for URL https://pkc-ymrq7.us-east-2.aws.confluent.cloud:9092: socket hang up
+[16:45:20] [Error] [Application] Could not fetch link preview for URL https://pkc-4v5zz.sa-east-1.aws.confluent.cloud:9092: socket hang up
+[16:45:21] [Error] [Application] Could not fetch link preview for URL https://pkc-ymrq7.us-east-2.aws.confluent.cloud:9092: socket hang up
+[16:45:22] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/comercio/pricing/mip.md
+[16:45:22] [Info] [DocumentManager] Processing change for /home/fabioscalzer/projetos/documentação/documentacao/comercio/pricing/mip.md
+[16:45:22] [Info] [DocumentManager] File /home/fabioscalzer/projetos/documentação/documentacao/comercio/pricing/mip.md saved.
+[16:45:22] [Error] [Application] Could not fetch link preview for URL https://pkc-4v5zz.sa-east-1.aws.confluent.cloud:443: Response code 404 (Not Found)
+[16:45:25] [Error] [Application] Could not fetch link preview for URL https://pkc-4v5zz.sa-east-1.aws.confluent.cloud:443: Response code 404 (Not Found)
+[16:45:30] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/comercio/pricing/mip.md
+[16:45:30] [Info] [DocumentManager] Processing change for /home/fabioscalzer/projetos/documentação/documentacao/comercio/pricing/mip.md
+[16:45:30] [Info] [DocumentManager] File /home/fabioscalzer/projetos/documentação/documentacao/comercio/pricing/mip.md saved.
+[16:45:31] [Error] [Application] Could not fetch link preview for URL https://pkc-4v5zz.sa-east-1.aws.confluent.cloud:443: Response code 404 (Not Found)
+[16:45:36] [Info] [DocumentManager] Processing change for /home/fabioscalzer/projetos/documentação/documentacao/comercio/pricing/mip.md
+[16:45:36] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/comercio/pricing/mip.md
+[16:45:36] [Info] [DocumentManager] File /home/fabioscalzer/projetos/documentação/documentacao/comercio/pricing/mip.md saved.
+[16:45:36] [Error] [Application] Could not fetch link preview for URL https://pkc-ymrq7.us-east-2.aws.confluent.cloud:9092: socket hang up
+[16:45:37] [Error] [Application] Could not fetch link preview for URL https://pkc-ymrq7.us-east-2.aws.confluent.cloud:9092: socket hang up
+[16:45:49] [Error] [Application] Could not fetch link preview for URL https://pkc-4v5zz.sa-east-1.aws.confluent.cloud:9092: socket hang up
+[16:45:53] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/comercio/seller/seller.md
+[16:45:53] [Info] [DocumentManager] Processing change for /home/fabioscalzer/projetos/documentação/documentacao/comercio/seller/seller.md
+[16:45:53] [Info] [DocumentManager] File /home/fabioscalzer/projetos/documentação/documentacao/comercio/seller/seller.md saved.
+[16:46:06] [Error] [R] [Main Window (619fcd54-5f5e-48cf-b84a-d1e74893f878)] RangeError: Invalid position 7629 in document of length 7626 (index.js:2)
+[16:46:07] [Error] [R] [Main Window (619fcd54-5f5e-48cf-b84a-d1e74893f878)] RangeError: Invalid position 7629 in document of length 7626 (index.js:2)
+[16:46:25] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/comercio/seller/seller.md
+[16:46:25] [Info] [DocumentManager] Processing change for /home/fabioscalzer/projetos/documentação/documentacao/comercio/seller/seller.md
+[16:46:25] [Info] [DocumentManager] File /home/fabioscalzer/projetos/documentação/documentacao/comercio/seller/seller.md saved.
+[16:46:43] [Error] [Application] Could not fetch link preview for URL https://autoglass.comercio.mip.integracao.solicitacao-reajuste-preco: getaddrinfo ENOTFOUND autoglass.comercio.mip.integracao.solicitacao-reajuste-preco
+[16:46:46] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/comercio/seller/seller.md
+[16:46:46] [Info] [DocumentManager] Processing change for /home/fabioscalzer/projetos/documentação/documentacao/comercio/seller/seller.md
+[16:46:46] [Info] [DocumentManager] File /home/fabioscalzer/projetos/documentação/documentacao/comercio/seller/seller.md saved.
+[16:46:55] [Error] [Application] Could not fetch link preview for URL https://autoglass.comercio.mip.integracao.reajuste-preco: getaddrinfo ENOTFOUND autoglass.comercio.mip.integracao.reajuste-preco
+[16:47:04] [Error] [Application] Could not fetch link preview for URL https://autoglass.comercio.mip.integracao.reajuste-preco: getaddrinfo ENOTFOUND autoglass.comercio.mip.integracao.reajuste-preco
+[16:47:04] [Error] [Application] Could not fetch link preview for URL https://autoglass.comercio.mip.integracao.solicitacao-reajuste-preco: getaddrinfo ENOTFOUND autoglass.comercio.mip.integracao.solicitacao-reajuste-preco
+[16:47:16] [Error] [Application] Could not fetch link preview for URL https://autoglass.comercio.mip.integracao.reajuste-preco: getaddrinfo ENOTFOUND autoglass.comercio.mip.integracao.reajuste-preco
+[16:47:16] [Error] [Application] Could not fetch link preview for URL https://autoglass.comercio.mip.integracao.solicitacao-reajuste-preco: getaddrinfo ENOTFOUND autoglass.comercio.mip.integracao.solicitacao-reajuste-preco
+[16:47:20] [Error] [Application] Could not fetch link preview for URL https://pkc-4v5zz.sa-east-1.aws.confluent.cloud:9092: socket hang up
+[16:47:24] [Info] [DocumentManager] Processing change for /home/fabioscalzer/projetos/documentação/documentacao/comercio/seller/seller.md
+[16:47:24] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/comercio/seller/seller.md
+[16:47:24] [Info] [DocumentManager] File /home/fabioscalzer/projetos/documentação/documentacao/comercio/seller/seller.md saved.
+[16:47:32] [Error] [Application] Could not fetch link preview for URL https://pkc-4v5zz.sa-east-1.aws.confluent.cloud:9092: socket hang up
+[16:51:10] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/comercio/seller/seller.md
+[16:51:10] [Info] [DocumentManager] Processing change for /home/fabioscalzer/projetos/documentação/documentacao/comercio/seller/seller.md
+[16:51:10] [Info] [DocumentManager] File /home/fabioscalzer/projetos/documentação/documentacao/comercio/seller/seller.md saved.
+[16:51:15] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/comercio/seller/seller.md
+[16:51:15] [Info] [DocumentManager] Processing change for /home/fabioscalzer/projetos/documentação/documentacao/comercio/seller/seller.md
+[16:51:15] [Info] [DocumentManager] File /home/fabioscalzer/projetos/documentação/documentacao/comercio/seller/seller.md saved.
+[16:51:22] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/comercio/seller/seller.md
+[16:51:22] [Info] [DocumentManager] Processing change for /home/fabioscalzer/projetos/documentação/documentacao/comercio/seller/seller.md
+[16:51:22] [Info] [DocumentManager] File /home/fabioscalzer/projetos/documentação/documentacao/comercio/seller/seller.md saved.
+[16:51:25] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/comercio/seller/seller.md
+[16:51:25] [Info] [DocumentManager] Processing change for /home/fabioscalzer/projetos/documentação/documentacao/comercio/seller/seller.md
+[16:51:25] [Info] [DocumentManager] File /home/fabioscalzer/projetos/documentação/documentacao/comercio/seller/seller.md saved.
+[16:53:17] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/comercio/seller/seller.md
+[16:53:17] [Info] [DocumentManager] Processing change for /home/fabioscalzer/projetos/documentação/documentacao/comercio/seller/seller.md
+[16:53:17] [Info] [DocumentManager] File /home/fabioscalzer/projetos/documentação/documentacao/comercio/seller/seller.md saved.
+[16:55:06] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/comercio/seller/seller.md
+[16:55:06] [Info] [DocumentManager] Processing change for /home/fabioscalzer/projetos/documentação/documentacao/comercio/seller/seller.md
+[16:55:06] [Info] [DocumentManager] File /home/fabioscalzer/projetos/documentação/documentacao/comercio/seller/seller.md saved.
+[16:55:14] [Error] [Application] Could not fetch link preview for URL https://autoglass.comercio.mip.integracao.reajuste-preco: getaddrinfo ENOTFOUND autoglass.comercio.mip.integracao.reajuste-preco
+[16:55:14] [Error] [Application] Could not fetch link preview for URL https://autoglass.comercio.mip.integracao.solicitacao-reajuste-preco: getaddrinfo ENOTFOUND autoglass.comercio.mip.integracao.solicitacao-reajuste-preco
+[16:55:14] [Error] [Application] Could not fetch link preview for URL https://autoglass.comercio.mip.integracao.solicitacao-reajuste-preco: getaddrinfo ENOTFOUND autoglass.comercio.mip.integracao.solicitacao-reajuste-preco
+[16:55:14] [Error] [Application] Could not fetch link preview for URL https://autoglass.comercio.mip.integracao.reajuste-preco: getaddrinfo ENOTFOUND autoglass.comercio.mip.integracao.reajuste-preco
+[16:55:18] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/comercio/seller/seller.md
+[16:55:18] [Info] [DocumentManager] Processing change for /home/fabioscalzer/projetos/documentação/documentacao/comercio/seller/seller.md
+[16:55:18] [Info] [DocumentManager] File /home/fabioscalzer/projetos/documentação/documentacao/comercio/seller/seller.md saved.
+[16:55:29] [Error] [Application] Could not fetch link preview for URL https://pkc-4v5zz.sa-east-1.aws.confluent.cloud:9092: socket hang up
+[16:55:29] [Error] [Application] Could not fetch link preview for URL https://pkc-4v5zz.sa-east-1.aws.confluent.cloud:9092: socket hang up
+[16:55:32] [Error] [Application] Could not fetch link preview for URL https://pkc-4v5zz.sa-east-1.aws.confluent.cloud:9092: socket hang up
+[16:55:32] [Error] [Application] Could not fetch link preview for URL https://pkc-4v5zz.sa-east-1.aws.confluent.cloud:9092: socket hang up
+[16:56:46] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md
+[16:56:46] [Info] [DocumentManager] Processing change for /home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md
+[16:56:46] [Info] [DocumentManager] File /home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md saved.
+[18:10:34] [Info] さようなら！ Shutting down at Mon Sep 18 2023 18:10:34 GMT-0300 (Brasilia Standard Time)
+[18:10:34] [Info] Application uptime was: 9 hours, 23 minutes, and 0.131 seconds.
+[18:10:34] [Info] [FSAL Cache] Cleaned up cache: Removed 0 remnants.

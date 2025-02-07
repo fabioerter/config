@@ -1,0 +1,45 @@
+[08:53:42] [Info] こんにちは！ Booting Zettlr at Fri Sep 15 2023 08:53:42 GMT-0300 (Brasilia Standard Time).
+[08:53:42] [Info] Registering custom protocol safe-file
+[08:53:43] [Warning] [Assets Provider] Found outdated filter links.lua; copying ...
+[08:53:43] [Warning] [Assets Provider] Found outdated filter tags.lua; copying ...
+[08:53:43] [Info] [Citeproc Provider] Loading CSL locale file at /usr/lib/zettlr/resources/app.asar/.webpack/main/assets/csl-locales/locales-en-US.xml ...
+[08:53:43] [Info] [Update Provider] Checking for application updates ...
+[08:53:43] [Info] [Updater] Checking https://zettlr.com/api/releases/latest for updates ...
+[08:53:43] [Info] [FSAL] Loaded all files and workspaces in 0.06 seconds
+[08:53:43] [Info] [Window Manager] Window Manager started.
+[08:53:43] [Info] [Document Manager] Restored 1 open windows.
+[08:53:43] [Info] [AppServiceContainer] Boot successful!
+[08:53:43] [Info] [Application] Added /usr/lib/zettlr/resources to PATH.
+[08:53:43] [Info] [Application] The bundled pandoc executable is now in PATH. If you do not want to use the bundled pandoc, uncheck the corresponding setting and reboot the app.
+[10:17:12] [Info] こんにちは！ Booting Zettlr at Fri Sep 15 2023 10:17:12 GMT-0300 (Brasilia Standard Time).
+[10:17:12] [Info] Registering custom protocol safe-file
+[10:17:12] [Warning] [Assets Provider] Found outdated filter links.lua; copying ...
+[10:17:12] [Warning] [Assets Provider] Found outdated filter tags.lua; copying ...
+[10:17:12] [Info] [Citeproc Provider] Loading CSL locale file at /usr/lib/zettlr/resources/app.asar/.webpack/main/assets/csl-locales/locales-en-US.xml ...
+[10:17:12] [Info] [Update Provider] Checking for application updates ...
+[10:17:12] [Info] [Updater] Checking https://zettlr.com/api/releases/latest for updates ...
+[10:17:12] [Info] [FSAL] Loaded all files and workspaces in 0.04 seconds
+[10:17:12] [Info] [Window Manager] Window Manager started.
+[10:17:12] [Info] [Document Manager] Restored 1 open windows.
+[10:17:12] [Info] [AppServiceContainer] Boot successful!
+[10:17:12] [Info] [Application] Added /usr/lib/zettlr/resources to PATH.
+[10:17:12] [Info] [Application] The bundled pandoc executable is now in PATH. If you do not want to use the bundled pandoc, uncheck the corresponding setting and reboot the app.
+[10:17:14] [Info] [Update Provider] No new update available. Current version is v3.0.0.
+[15:24:53] [Info] [DocumentManager] Processing change for /home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md
+[15:24:53] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md
+[15:24:53] [Info] [DocumentManager] File /home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md saved.
+[15:25:53] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md
+[15:25:53] [Info] [DocumentManager] Processing change for /home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md
+[15:25:53] [Info] [DocumentManager] File /home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md saved.
+[15:26:06] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md
+[15:26:06] [Info] [DocumentManager] Processing change for /home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md
+[15:26:06] [Info] [DocumentManager] File /home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md saved.
+[15:26:22] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md
+[15:26:22] [Info] [DocumentManager] Processing change for /home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md
+[15:26:22] [Info] [DocumentManager] File /home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md saved.
+[15:26:44] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md
+[15:26:44] [Info] [DocumentManager] Processing change for /home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md
+[15:26:44] [Info] [DocumentManager] File /home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md saved.
+[19:03:01] [Info] さようなら！ Shutting down at Fri Sep 15 2023 19:03:01 GMT-0300 (Brasilia Standard Time)
+[19:03:01] [Info] Application uptime was: 8 hours, 45 minutes, and 50.389 seconds.
+[19:03:01] [Info] [FSAL Cache] Cleaned up cache: Removed 0 remnants.

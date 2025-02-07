@@ -1,0 +1,115 @@
+[08:50:50] [Info] こんにちは！ Booting Zettlr at Tue Sep 19 2023 08:50:50 GMT-0300 (Brasilia Standard Time).
+[08:50:50] [Info] Registering custom protocol safe-file
+[08:50:50] [Warning] [Assets Provider] Found outdated filter links.lua; copying ...
+[08:50:50] [Warning] [Assets Provider] Found outdated filter tags.lua; copying ...
+[08:50:50] [Info] [Citeproc Provider] Loading CSL locale file at /usr/lib/zettlr/resources/app.asar/.webpack/main/assets/csl-locales/locales-en-US.xml ...
+[08:50:50] [Info] [Update Provider] Checking for application updates ...
+[08:50:50] [Info] [Updater] Checking https://zettlr.com/api/releases/latest for updates ...
+[08:50:50] [Info] [FSAL] Loaded all files and workspaces in 0.06 seconds
+[08:50:50] [Info] [Window Manager] Window Manager started.
+[08:50:50] [Info] [Document Manager] Restored 1 open windows.
+[08:50:50] [Info] [AppServiceContainer] Boot successful!
+[08:50:50] [Info] [Application] Added /usr/lib/zettlr/resources to PATH.
+[08:50:50] [Info] [Application] The bundled pandoc executable is now in PATH. If you do not want to use the bundled pandoc, uncheck the corresponding setting and reboot the app.
+[08:50:52] [Info] [Update Provider] New update available! Please update to v3.0.1 soon!
+[08:50:52] [Error] [Update Provider] SHA_CHECKSUM_ERR: Could not retrieve SHA256 checksums.
+[08:50:52] [Info] Update available: v3.0.1
+[09:25:55] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md
+[09:25:55] [Info] [DocumentManager] Processing change for /home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md
+[09:25:55] [Info] [DocumentManager] File /home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md saved.
+[09:26:43] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md
+[09:26:43] [Info] [DocumentManager] Processing change for /home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md
+[09:26:43] [Info] [DocumentManager] File /home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md saved.
+[09:52:26] [Error] [Application] Could not fetch link preview for URL https://seller.autoglass.com.br/inscricao.: Response code 404 (Not Found)
+[10:01:04] [Error] [Application] Could not fetch link preview for URL https://seller.autoglass.com.br/inscricao.: Response code 404 (Not Found)
+[10:01:08] [Error] [Application] Could not fetch link preview for URL https://autoglass.produtos.importacao: getaddrinfo ENOTFOUND autoglass.produtos.importacao
+[10:01:08] [Error] [Application] Could not fetch link preview for URL https://seller.autoglass.com.br/inscricao.: Response code 404 (Not Found)
+[10:01:08] [Error] [Application] Could not fetch link preview for URL https://autoglass.comercio.mip.integracao.solicitacao-reajuste-preco: getaddrinfo ENOTFOUND autoglass.comercio.mip.integracao.solicitacao-reajuste-preco
+[10:01:08] [Error] [Application] Could not fetch link preview for URL https://autoglass.comercio.mip.integracao.reajuste-preco: getaddrinfo ENOTFOUND autoglass.comercio.mip.integracao.reajuste-preco
+[10:01:09] [Error] [Application] Could not fetch link preview for URL https://autoglass.comercio.mip.integracao.solicitacao-reajuste-preco: getaddrinfo ENOTFOUND autoglass.comercio.mip.integracao.solicitacao-reajuste-preco
+[10:01:09] [Error] [Application] Could not fetch link preview for URL https://autoglass.comercio.mip.integracao.reajuste-preco: getaddrinfo ENOTFOUND autoglass.comercio.mip.integracao.reajuste-preco
+[10:01:10] [Error] [Application] Could not fetch link preview for URL https://autoglass.produtos.importacao: getaddrinfo ENOTFOUND autoglass.produtos.importacao
+[10:01:10] [Error] [Application] Could not fetch link preview for URL https://seller.autoglass.com.br/inscricao.: Response code 404 (Not Found)
+[10:01:13] [Error] [Application] Could not fetch link preview for URL https://autoglass.produtos.importacao: getaddrinfo ENOTFOUND autoglass.produtos.importacao
+[10:01:14] [Error] [Application] Could not fetch link preview for URL https://autoglass.comercio.mip.integracao.solicitacao-reajuste-preco: getaddrinfo ENOTFOUND autoglass.comercio.mip.integracao.solicitacao-reajuste-preco
+[10:01:14] [Error] [Application] Could not fetch link preview for URL https://autoglass.comercio.mip.integracao.reajuste-preco: getaddrinfo ENOTFOUND autoglass.comercio.mip.integracao.reajuste-preco
+[10:01:14] [Error] [Application] Could not fetch link preview for URL https://autoglass.comercio.mip.integracao.reajuste-preco: getaddrinfo ENOTFOUND autoglass.comercio.mip.integracao.reajuste-preco
+[10:01:14] [Error] [Application] Could not fetch link preview for URL https://autoglass.comercio.mip.integracao.solicitacao-reajuste-preco: getaddrinfo ENOTFOUND autoglass.comercio.mip.integracao.solicitacao-reajuste-preco
+[10:01:24] [Error] [Application] Could not fetch link preview for URL https://pkc-4v5zz.sa-east-1.aws.confluent.cloud:9092: socket hang up
+[10:01:24] [Error] [Application] Could not fetch link preview for URL https://pkc-4v5zz.sa-east-1.aws.confluent.cloud:9092: socket hang up
+[10:01:30] [Error] [Application] Could not fetch link preview for URL https://pkc-4v5zz.sa-east-1.aws.confluent.cloud:9092: socket hang up
+[10:01:30] [Error] [Application] Could not fetch link preview for URL https://pkc-4v5zz.sa-east-1.aws.confluent.cloud:9092: socket hang up
+[11:07:04] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md
+[11:07:04] [Info] [DocumentManager] Processing change for /home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md
+[11:07:04] [Info] [DocumentManager] File /home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md saved.
+[11:07:10] [Info] [Update Provider] Checking for application updates ...
+[11:07:10] [Info] [Updater] Checking https://zettlr.com/api/releases/latest for updates ...
+[11:07:10] [Info] [Update Provider] New update available! Please update to v3.0.1 soon!
+[11:07:10] [Error] [Update Provider] SHA_CHECKSUM_ERR: Could not retrieve SHA256 checksums.
+[11:07:55] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md
+[11:07:55] [Info] [DocumentManager] Processing change for /home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md
+[11:07:55] [Info] [DocumentManager] File /home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md saved.
+[11:29:06] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md
+[11:29:06] [Info] [DocumentManager] Processing change for /home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md
+[11:29:06] [Info] [DocumentManager] File /home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md saved.
+[14:05:32] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md
+[14:05:32] [Info] [DocumentManager] Processing change for /home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md
+[14:05:32] [Info] [DocumentManager] File /home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md saved.
+[14:05:47] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md
+[14:05:47] [Info] [DocumentManager] Processing change for /home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md
+[14:05:47] [Info] [DocumentManager] File /home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md saved.
+[14:07:39] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md
+[14:07:39] [Info] [DocumentManager] Processing change for /home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md
+[14:07:39] [Info] [DocumentManager] File /home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md saved.
+[14:08:04] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md
+[14:08:04] [Info] [DocumentManager] Processing change for /home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md
+[14:08:04] [Info] [DocumentManager] File /home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md saved.
+[14:13:28] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md
+[14:13:28] [Info] [DocumentManager] Processing change for /home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md
+[14:13:28] [Info] [DocumentManager] File /home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md saved.
+[14:43:39] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md
+[14:43:39] [Info] [DocumentManager] Processing change for /home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md
+[14:43:39] [Info] [DocumentManager] File /home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md saved.
+[14:44:02] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md
+[14:44:02] [Info] [DocumentManager] Processing change for /home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md
+[14:44:02] [Info] [DocumentManager] File /home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md saved.
+[15:41:22] [Error] [Application] Could not fetch link preview for URL https://autoglass.comercio.mip.integracao.reajuste-preco: getaddrinfo ENOTFOUND autoglass.comercio.mip.integracao.reajuste-preco
+[15:44:45] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/comercio/seller/seller.md
+[15:44:45] [Info] [DocumentManager] Processing change for /home/fabioscalzer/projetos/documentação/documentacao/comercio/seller/seller.md
+[15:44:45] [Info] [DocumentManager] File /home/fabioscalzer/projetos/documentação/documentacao/comercio/seller/seller.md saved.
+[15:44:52] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/comercio/seller/seller.md
+[15:44:52] [Info] [DocumentManager] Processing change for /home/fabioscalzer/projetos/documentação/documentacao/comercio/seller/seller.md
+[15:44:52] [Info] [DocumentManager] File /home/fabioscalzer/projetos/documentação/documentacao/comercio/seller/seller.md saved.
+[15:44:57] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/comercio/seller/seller.md
+[15:44:57] [Info] [DocumentManager] Processing change for /home/fabioscalzer/projetos/documentação/documentacao/comercio/seller/seller.md
+[15:44:57] [Info] [DocumentManager] File /home/fabioscalzer/projetos/documentação/documentacao/comercio/seller/seller.md saved.
+[15:46:02] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md
+[15:46:02] [Info] [DocumentManager] Processing change for /home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md
+[15:46:02] [Info] [DocumentManager] File /home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md saved.
+[15:46:09] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md
+[15:46:09] [Info] [DocumentManager] Processing change for /home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md
+[15:46:09] [Info] [DocumentManager] File /home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md saved.
+[15:46:23] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md
+[15:46:23] [Info] [DocumentManager] Processing change for /home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md
+[15:46:23] [Info] [DocumentManager] File /home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md saved.
+[15:46:32] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md
+[15:46:32] [Info] [DocumentManager] Processing change for /home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md
+[15:46:32] [Info] [DocumentManager] File /home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md saved.
+[15:46:49] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md
+[15:46:49] [Info] [DocumentManager] Processing change for /home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md
+[15:46:49] [Info] [DocumentManager] File /home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md saved.
+[15:47:06] [Info] [DocumentManager] Processing change for /home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md
+[15:47:06] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md
+[15:47:06] [Info] [DocumentManager] File /home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md saved.
+[17:00:26] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md
+[17:00:26] [Info] [DocumentManager] Processing change for /home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md
+[17:00:26] [Info] [DocumentManager] File /home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md saved.
+[17:00:45] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md
+[17:00:45] [Info] [DocumentManager] Processing change for /home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md
+[17:00:45] [Info] [DocumentManager] File /home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md saved.
+[17:01:08] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md
+[17:01:08] [Info] [DocumentManager] Processing change for /home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md
+[17:01:08] [Info] [DocumentManager] File /home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md saved.
+[18:26:37] [Info] さようなら！ Shutting down at Tue Sep 19 2023 18:26:37 GMT-0300 (Brasilia Standard Time)
+[18:26:37] [Info] Application uptime was: 9 hours, 35 minutes, and 48.485 seconds.
+[18:26:37] [Info] [FSAL Cache] Cleaned up cache: Removed 0 remnants.

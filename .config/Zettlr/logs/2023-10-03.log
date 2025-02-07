@@ -1,0 +1,295 @@
+[08:57:55] [Info] こんにちは！ Booting Zettlr at Tue Oct 03 2023 08:57:55 GMT-0300 (Brasilia Standard Time).
+[08:57:55] [Info] Registering custom protocol safe-file
+[08:57:55] [Warning] [Assets Provider] Found outdated filter links.lua; copying ...
+[08:57:55] [Warning] [Assets Provider] Found outdated filter tags.lua; copying ...
+[08:57:55] [Info] [Citeproc Provider] Loading CSL locale file at /usr/lib/zettlr/resources/app.asar/.webpack/main/assets/csl-locales/locales-en-US.xml ...
+[08:57:55] [Info] [Update Provider] Checking for application updates ...
+[08:57:55] [Info] [Updater] Checking https://zettlr.com/api/releases/latest for updates ...
+[08:57:55] [Info] [FSAL] Loaded all files and workspaces in 0.06 seconds
+[08:57:55] [Info] [Window Manager] Window Manager started.
+[08:57:55] [Info] [Document Manager] Restored 1 open windows.
+[08:57:55] [Info] [AppServiceContainer] Boot successful!
+[08:57:55] [Info] [Application] Added /usr/lib/zettlr/resources to PATH.
+[08:57:55] [Info] [Application] The bundled pandoc executable is now in PATH. If you do not want to use the bundled pandoc, uncheck the corresponding setting and reboot the app.
+[08:57:56] [Error] [Update Provider] UNABLE_TO_GET_ISSUER_CERT_LOCALLY: Could not check for updates. RequestError: unable to get local issuer certificate
+[08:57:59] [Error] [Application] Error running LanguageTool: unable to get local issuer certificate | Native Error: RequestError; unable to get local issuer certificate Stack Trace: RequestError: unable to get local issuer certificate -->     at ClientRequest.<anonymous> (/usr/lib/zettlr/resources/app.asar/.webpack/main/index.js:2:835421) -->     at Object.onceWrapper (node:events:628:26) -->     at ClientRequest.emit (node:events:525:35) -->     at e.emit (/usr/lib/zettlr/resources/app.asar/.webpack/main/index.js:2:11466) -->     at TLSSocket.socketErrorListener (node:_http_client:502:9) -->     at TLSSocket.emit (node:events:513:28) -->     at emitErrorNT (node:internal/streams/destroy:151:8) -->     at emitErrorCloseNT (node:internal/streams/destroy:116:3) -->     at process.processTicksAndRejections (node:internal/process/task_queues:82:21) -->     at TLSSocket.onConnectSecure (node:_tls_wrap:1540:34) -->     at TLSSocket.emit (node:events:513:28) -->     at TLSSocket._finishInit (node:_tls_wrap:959:8) -->     at ssl.onhandshakedone (node:_tls_wrap:743:12)
+[08:57:59] [Error] [Application] Error running LanguageTool: unable to get local issuer certificate | Native Error: RequestError; unable to get local issuer certificate Stack Trace: RequestError: unable to get local issuer certificate -->     at ClientRequest.<anonymous> (/usr/lib/zettlr/resources/app.asar/.webpack/main/index.js:2:835421) -->     at Object.onceWrapper (node:events:628:26) -->     at ClientRequest.emit (node:events:525:35) -->     at e.emit (/usr/lib/zettlr/resources/app.asar/.webpack/main/index.js:2:11466) -->     at TLSSocket.socketErrorListener (node:_http_client:502:9) -->     at TLSSocket.emit (node:events:513:28) -->     at emitErrorNT (node:internal/streams/destroy:151:8) -->     at emitErrorCloseNT (node:internal/streams/destroy:116:3) -->     at process.processTicksAndRejections (node:internal/process/task_queues:82:21) -->     at TLSSocket.onConnectSecure (node:_tls_wrap:1540:34) -->     at TLSSocket.emit (node:events:513:28) -->     at TLSSocket._finishInit (node:_tls_wrap:959:8) -->     at ssl.onhandshakedone (node:_tls_wrap:743:12)
+[08:57:59] [Error] [Application] Error running LanguageTool: unable to get local issuer certificate | Native Error: RequestError; unable to get local issuer certificate Stack Trace: RequestError: unable to get local issuer certificate -->     at ClientRequest.<anonymous> (/usr/lib/zettlr/resources/app.asar/.webpack/main/index.js:2:835421) -->     at Object.onceWrapper (node:events:628:26) -->     at ClientRequest.emit (node:events:525:35) -->     at e.emit (/usr/lib/zettlr/resources/app.asar/.webpack/main/index.js:2:11466) -->     at TLSSocket.socketErrorListener (node:_http_client:502:9) -->     at TLSSocket.emit (node:events:513:28) -->     at emitErrorNT (node:internal/streams/destroy:151:8) -->     at emitErrorCloseNT (node:internal/streams/destroy:116:3) -->     at process.processTicksAndRejections (node:internal/process/task_queues:82:21) -->     at TLSSocket.onConnectSecure (node:_tls_wrap:1540:34) -->     at TLSSocket.emit (node:events:513:28) -->     at TLSSocket._finishInit (node:_tls_wrap:959:8) -->     at ssl.onhandshakedone (node:_tls_wrap:743:12)
+[08:57:59] [Error] [Application] Error running LanguageTool: unable to get local issuer certificate | Native Error: RequestError; unable to get local issuer certificate Stack Trace: RequestError: unable to get local issuer certificate -->     at ClientRequest.<anonymous> (/usr/lib/zettlr/resources/app.asar/.webpack/main/index.js:2:835421) -->     at Object.onceWrapper (node:events:628:26) -->     at ClientRequest.emit (node:events:525:35) -->     at e.emit (/usr/lib/zettlr/resources/app.asar/.webpack/main/index.js:2:11466) -->     at TLSSocket.socketErrorListener (node:_http_client:502:9) -->     at TLSSocket.emit (node:events:513:28) -->     at emitErrorNT (node:internal/streams/destroy:151:8) -->     at emitErrorCloseNT (node:internal/streams/destroy:116:3) -->     at process.processTicksAndRejections (node:internal/process/task_queues:82:21) -->     at TLSSocket.onConnectSecure (node:_tls_wrap:1540:34) -->     at TLSSocket.emit (node:events:513:28) -->     at TLSSocket._finishInit (node:_tls_wrap:959:8) -->     at ssl.onhandshakedone (node:_tls_wrap:743:12)
+[08:57:59] [Error] [Application] Error running LanguageTool: unable to get local issuer certificate | Native Error: RequestError; unable to get local issuer certificate Stack Trace: RequestError: unable to get local issuer certificate -->     at ClientRequest.<anonymous> (/usr/lib/zettlr/resources/app.asar/.webpack/main/index.js:2:835421) -->     at Object.onceWrapper (node:events:628:26) -->     at ClientRequest.emit (node:events:525:35) -->     at e.emit (/usr/lib/zettlr/resources/app.asar/.webpack/main/index.js:2:11466) -->     at TLSSocket.socketErrorListener (node:_http_client:502:9) -->     at TLSSocket.emit (node:events:513:28) -->     at emitErrorNT (node:internal/streams/destroy:151:8) -->     at emitErrorCloseNT (node:internal/streams/destroy:116:3) -->     at process.processTicksAndRejections (node:internal/process/task_queues:82:21) -->     at TLSSocket.onConnectSecure (node:_tls_wrap:1540:34) -->     at TLSSocket.emit (node:events:513:28) -->     at TLSSocket._finishInit (node:_tls_wrap:959:8) -->     at ssl.onhandshakedone (node:_tls_wrap:743:12)
+[08:58:00] [Error] [Application] Could not fetch link preview for URL https://autoglass.com.br): getaddrinfo ENOTFOUND autoglass.com.br)
+[08:59:48] [Error] [Application] Error running LanguageTool: unable to get local issuer certificate | Native Error: RequestError; unable to get local issuer certificate Stack Trace: RequestError: unable to get local issuer certificate -->     at ClientRequest.<anonymous> (/usr/lib/zettlr/resources/app.asar/.webpack/main/index.js:2:835421) -->     at Object.onceWrapper (node:events:628:26) -->     at ClientRequest.emit (node:events:525:35) -->     at e.emit (/usr/lib/zettlr/resources/app.asar/.webpack/main/index.js:2:11466) -->     at TLSSocket.socketErrorListener (node:_http_client:502:9) -->     at TLSSocket.emit (node:events:513:28) -->     at emitErrorNT (node:internal/streams/destroy:151:8) -->     at emitErrorCloseNT (node:internal/streams/destroy:116:3) -->     at process.processTicksAndRejections (node:internal/process/task_queues:82:21) -->     at TLSSocket.onConnectSecure (node:_tls_wrap:1540:34) -->     at TLSSocket.emit (node:events:513:28) -->     at TLSSocket._finishInit (node:_tls_wrap:959:8) -->     at ssl.onhandshakedone (node:_tls_wrap:743:12)
+[08:59:50] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md
+[08:59:50] [Info] [DocumentManager] Processing change for /home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md
+[08:59:50] [Info] [DocumentManager] File /home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md saved.
+[09:46:02] [Error] [Application] Could not fetch link preview for URL https://autoglass.comercio.mip.integracao.reajuste-preco: getaddrinfo ENOTFOUND autoglass.comercio.mip.integracao.reajuste-preco
+[09:46:06] [Error] [Application] Could not fetch link preview for URL https://autoglass.comercio.mip.integracao.solicitacao-reajuste-preco: getaddrinfo ENOTFOUND autoglass.comercio.mip.integracao.solicitacao-reajuste-preco
+[09:46:06] [Error] [Application] Could not fetch link preview for URL https://autoglass.comercio.mip.integracao.reajuste-preco: getaddrinfo ENOTFOUND autoglass.comercio.mip.integracao.reajuste-preco
+[09:46:07] [Error] [Application] Could not fetch link preview for URL https://autoglass.comercio.mip.integracao.solicitacao-reajuste-preco: getaddrinfo ENOTFOUND autoglass.comercio.mip.integracao.solicitacao-reajuste-preco
+[09:46:07] [Error] [Application] Could not fetch link preview for URL https://autoglass.comercio.mip.integracao.solicitacao-reajuste-preco: getaddrinfo ENOTFOUND autoglass.comercio.mip.integracao.solicitacao-reajuste-preco
+[09:46:07] [Error] [Application] Could not fetch link preview for URL https://autoglass.comercio.mip.integracao.reajuste-preco: getaddrinfo ENOTFOUND autoglass.comercio.mip.integracao.reajuste-preco
+[09:46:07] [Error] [Application] Could not fetch link preview for URL https://autoglass.comercio.mip.integracao.reajuste-preco: getaddrinfo ENOTFOUND autoglass.comercio.mip.integracao.reajuste-preco
+[09:46:08] [Error] [Application] Could not fetch link preview for URL https://autoglass.comercio.mip.integracao.solicitacao-reajuste-preco: getaddrinfo ENOTFOUND autoglass.comercio.mip.integracao.solicitacao-reajuste-preco
+[09:46:08] [Error] [Application] Could not fetch link preview for URL https://autoglass.comercio.mip.integracao.reajuste-preco: getaddrinfo ENOTFOUND autoglass.comercio.mip.integracao.reajuste-preco
+[09:46:08] [Error] [Application] Could not fetch link preview for URL https://autoglass.comercio.mip.integracao.solicitacao-reajuste-preco: getaddrinfo ENOTFOUND autoglass.comercio.mip.integracao.solicitacao-reajuste-preco
+[09:46:11] [Error] [Application] Could not fetch link preview for URL https://bitbucket.org/mgvidros/diagramas-arq-referencia;: Response code 404 (Not Found)
+[09:46:14] [Error] [Application] Could not fetch link preview for URL https://autoglass.comercio.vendas.venda: getaddrinfo ENOTFOUND autoglass.comercio.vendas.venda
+[09:46:23] [Error] [Application] Could not fetch link preview for URL https://pkc-4v5zz.sa-east-1.aws.confluent.cloud:9092: socket hang up
+[09:46:23] [Error] [Application] Could not fetch link preview for URL https://pkc-4v5zz.sa-east-1.aws.confluent.cloud:9092: socket hang up
+[09:46:23] [Error] [Application] Could not fetch link preview for URL https://pkc-4v5zz.sa-east-1.aws.confluent.cloud:9092: socket hang up
+[09:46:23] [Error] [Application] Could not fetch link preview for URL https://pkc-4v5zz.sa-east-1.aws.confluent.cloud:9092: socket hang up
+[09:46:24] [Error] [Application] Could not fetch link preview for URL https://pkc-n00kk.us-east-1.aws.confluent.cloud:9092: socket hang up
+[09:46:32] [Error] [Application] Could not fetch link preview for URL https://pkc-4v5zz.sa-east-1.aws.confluent.cloud:9092: socket hang up
+[09:46:33] [Error] [Application] Could not fetch link preview for URL https://pkc-n00kk.us-east-1.aws.confluent.cloud:9092: socket hang up
+[09:46:46] [Info] [Application] A second instance has been opened.
+[09:46:50] [Error] [Application] Error running LanguageTool: unable to get local issuer certificate | Native Error: RequestError; unable to get local issuer certificate Stack Trace: RequestError: unable to get local issuer certificate -->     at ClientRequest.<anonymous> (/usr/lib/zettlr/resources/app.asar/.webpack/main/index.js:2:835421) -->     at Object.onceWrapper (node:events:628:26) -->     at ClientRequest.emit (node:events:525:35) -->     at e.emit (/usr/lib/zettlr/resources/app.asar/.webpack/main/index.js:2:11466) -->     at TLSSocket.socketErrorListener (node:_http_client:502:9) -->     at TLSSocket.emit (node:events:513:28) -->     at emitErrorNT (node:internal/streams/destroy:151:8) -->     at emitErrorCloseNT (node:internal/streams/destroy:116:3) -->     at process.processTicksAndRejections (node:internal/process/task_queues:82:21) -->     at TLSSocket.onConnectSecure (node:_tls_wrap:1540:34) -->     at TLSSocket.emit (node:events:513:28) -->     at TLSSocket._finishInit (node:_tls_wrap:959:8) -->     at ssl.onhandshakedone (node:_tls_wrap:743:12)
+[09:46:50] [Error] [Application] Error running LanguageTool: unable to get local issuer certificate | Native Error: RequestError; unable to get local issuer certificate Stack Trace: RequestError: unable to get local issuer certificate -->     at ClientRequest.<anonymous> (/usr/lib/zettlr/resources/app.asar/.webpack/main/index.js:2:835421) -->     at Object.onceWrapper (node:events:628:26) -->     at ClientRequest.emit (node:events:525:35) -->     at e.emit (/usr/lib/zettlr/resources/app.asar/.webpack/main/index.js:2:11466) -->     at TLSSocket.socketErrorListener (node:_http_client:502:9) -->     at TLSSocket.emit (node:events:513:28) -->     at emitErrorNT (node:internal/streams/destroy:151:8) -->     at emitErrorCloseNT (node:internal/streams/destroy:116:3) -->     at process.processTicksAndRejections (node:internal/process/task_queues:82:21) -->     at TLSSocket.onConnectSecure (node:_tls_wrap:1540:34) -->     at TLSSocket.emit (node:events:513:28) -->     at TLSSocket._finishInit (node:_tls_wrap:959:8) -->     at ssl.onhandshakedone (node:_tls_wrap:743:12)
+[09:46:50] [Error] [Application] Error running LanguageTool: unable to get local issuer certificate | Native Error: RequestError; unable to get local issuer certificate Stack Trace: RequestError: unable to get local issuer certificate -->     at ClientRequest.<anonymous> (/usr/lib/zettlr/resources/app.asar/.webpack/main/index.js:2:835421) -->     at Object.onceWrapper (node:events:628:26) -->     at ClientRequest.emit (node:events:525:35) -->     at e.emit (/usr/lib/zettlr/resources/app.asar/.webpack/main/index.js:2:11466) -->     at TLSSocket.socketErrorListener (node:_http_client:502:9) -->     at TLSSocket.emit (node:events:513:28) -->     at emitErrorNT (node:internal/streams/destroy:151:8) -->     at emitErrorCloseNT (node:internal/streams/destroy:116:3) -->     at process.processTicksAndRejections (node:internal/process/task_queues:82:21) -->     at TLSSocket.onConnectSecure (node:_tls_wrap:1540:34) -->     at TLSSocket.emit (node:events:513:28) -->     at TLSSocket._finishInit (node:_tls_wrap:959:8) -->     at ssl.onhandshakedone (node:_tls_wrap:743:12)
+[09:46:50] [Error] [Application] Error running LanguageTool: unable to get local issuer certificate | Native Error: RequestError; unable to get local issuer certificate Stack Trace: RequestError: unable to get local issuer certificate -->     at ClientRequest.<anonymous> (/usr/lib/zettlr/resources/app.asar/.webpack/main/index.js:2:835421) -->     at Object.onceWrapper (node:events:628:26) -->     at ClientRequest.emit (node:events:525:35) -->     at e.emit (/usr/lib/zettlr/resources/app.asar/.webpack/main/index.js:2:11466) -->     at TLSSocket.socketErrorListener (node:_http_client:502:9) -->     at TLSSocket.emit (node:events:513:28) -->     at emitErrorNT (node:internal/streams/destroy:151:8) -->     at emitErrorCloseNT (node:internal/streams/destroy:116:3) -->     at process.processTicksAndRejections (node:internal/process/task_queues:82:21) -->     at TLSSocket.onConnectSecure (node:_tls_wrap:1540:34) -->     at TLSSocket.emit (node:events:513:28) -->     at TLSSocket._finishInit (node:_tls_wrap:959:8) -->     at ssl.onhandshakedone (node:_tls_wrap:743:12)
+[09:46:50] [Error] [Application] Could not fetch link preview for URL https://autoglass.com.br): getaddrinfo ENOTFOUND autoglass.com.br)
+[09:47:02] [Error] [Application] Could not fetch link preview for URL https://autoglass.comercio.mip.integracao.solicitacao-reajuste-preco: getaddrinfo ENOTFOUND autoglass.comercio.mip.integracao.solicitacao-reajuste-preco
+[09:47:02] [Error] [Application] Could not fetch link preview for URL https://autoglass.comercio.mip.integracao.reajuste-preco: getaddrinfo ENOTFOUND autoglass.comercio.mip.integracao.reajuste-preco
+[09:47:02] [Error] [Application] Could not fetch link preview for URL https://autoglass.comercio.mip.integracao.solicitacao-reajuste-preco: getaddrinfo ENOTFOUND autoglass.comercio.mip.integracao.solicitacao-reajuste-preco
+[09:47:03] [Error] [Application] Could not fetch link preview for URL https://autoglass.comercio.mip.integracao.reajuste-preco: getaddrinfo ENOTFOUND autoglass.comercio.mip.integracao.reajuste-preco
+[09:47:03] [Error] [Application] Could not fetch link preview for URL https://autoglass.comercio.mip.integracao.reajuste-preco: getaddrinfo ENOTFOUND autoglass.comercio.mip.integracao.reajuste-preco
+[09:47:04] [Error] [Application] Could not fetch link preview for URL https://autoglass.comercio.mip.integracao.solicitacao-reajuste-preco: getaddrinfo ENOTFOUND autoglass.comercio.mip.integracao.solicitacao-reajuste-preco
+[09:47:04] [Error] [Application] Could not fetch link preview for URL https://autoglass.comercio.mip.integracao.reajuste-preco: getaddrinfo ENOTFOUND autoglass.comercio.mip.integracao.reajuste-preco
+[09:47:04] [Error] [Application] Could not fetch link preview for URL https://autoglass.comercio.mip.integracao.solicitacao-reajuste-preco: getaddrinfo ENOTFOUND autoglass.comercio.mip.integracao.solicitacao-reajuste-preco
+[09:47:04] [Error] [Application] Could not fetch link preview for URL https://autoglass.comercio.mip.integracao.solicitacao-reajuste-preco: getaddrinfo ENOTFOUND autoglass.comercio.mip.integracao.solicitacao-reajuste-preco
+[09:47:04] [Error] [Application] Could not fetch link preview for URL https://autoglass.comercio.mip.integracao.reajuste-preco: getaddrinfo ENOTFOUND autoglass.comercio.mip.integracao.reajuste-preco
+[09:47:20] [Error] [Application] Could not fetch link preview for URL https://pkc-4v5zz.sa-east-1.aws.confluent.cloud:9092: socket hang up
+[09:47:21] [Error] [Application] Could not fetch link preview for URL https://pkc-4v5zz.sa-east-1.aws.confluent.cloud:9092: socket hang up
+[09:47:22] [Error] [Application] Could not fetch link preview for URL https://pkc-4v5zz.sa-east-1.aws.confluent.cloud:9092: socket hang up
+[09:47:22] [Error] [Application] Could not fetch link preview for URL https://pkc-4v5zz.sa-east-1.aws.confluent.cloud:9092: socket hang up
+[09:47:25] [Error] [Application] Could not fetch link preview for URL https://pkc-n00kk.us-east-1.aws.confluent.cloud:9092: socket hang up
+[09:47:37] [Error] [Application] Could not fetch link preview for URL https://autoglass.comercio.mip.integracao.reajuste-preco: getaddrinfo ENOTFOUND autoglass.comercio.mip.integracao.reajuste-preco
+[09:47:37] [Error] [Application] Could not fetch link preview for URL https://autoglass.comercio.mip.integracao.solicitacao-reajuste-preco: getaddrinfo ENOTFOUND autoglass.comercio.mip.integracao.solicitacao-reajuste-preco
+[09:47:37] [Error] [Application] Could not fetch link preview for URL https://autoglass.comercio.mip.integracao.solicitacao-reajuste-preco: getaddrinfo ENOTFOUND autoglass.comercio.mip.integracao.solicitacao-reajuste-preco
+[09:47:37] [Error] [Application] Could not fetch link preview for URL https://autoglass.comercio.mip.integracao.reajuste-preco: getaddrinfo ENOTFOUND autoglass.comercio.mip.integracao.reajuste-preco
+[09:47:37] [Error] [Application] Could not fetch link preview for URL https://autoglass.comercio.mip.integracao.solicitacao-reajuste-preco: getaddrinfo ENOTFOUND autoglass.comercio.mip.integracao.solicitacao-reajuste-preco
+[09:47:37] [Error] [Application] Could not fetch link preview for URL https://autoglass.comercio.mip.integracao.solicitacao-reajuste-preco: getaddrinfo ENOTFOUND autoglass.comercio.mip.integracao.solicitacao-reajuste-preco
+[09:47:38] [Error] [Application] Could not fetch link preview for URL https://autoglass.comercio.mip.integracao.reajuste-preco: getaddrinfo ENOTFOUND autoglass.comercio.mip.integracao.reajuste-preco
+[09:47:39] [Error] [Application] Could not fetch link preview for URL https://autoglass.comercio.mip.integracao.reajuste-preco: getaddrinfo ENOTFOUND autoglass.comercio.mip.integracao.reajuste-preco
+[09:47:54] [Error] [Application] Could not fetch link preview for URL https://pkc-4v5zz.sa-east-1.aws.confluent.cloud:9092: socket hang up
+[09:47:56] [Error] [Application] Could not fetch link preview for URL https://pkc-4v5zz.sa-east-1.aws.confluent.cloud:9092: socket hang up
+[09:47:56] [Error] [Application] Could not fetch link preview for URL https://pkc-4v5zz.sa-east-1.aws.confluent.cloud:9092: socket hang up
+[09:47:58] [Error] [Application] Could not fetch link preview for URL https://pkc-n00kk.us-east-1.aws.confluent.cloud:9092: socket hang up
+[09:48:01] [Error] [Application] Could not fetch link preview for URL https://autoglass.comercio.seller.produtos: getaddrinfo ENOTFOUND autoglass.comercio.seller.produtos
+[09:48:01] [Error] [Application] Could not fetch link preview for URL https://autoglass.comercio.seller.produtos.importacao: getaddrinfo ENOTFOUND autoglass.comercio.seller.produtos.importacao
+[09:48:01] [Error] [Application] Could not fetch link preview for URL https://autoglass.comercio.seller.produtos: getaddrinfo ENOTFOUND autoglass.comercio.seller.produtos
+[09:48:01] [Error] [Application] Could not fetch link preview for URL https://autoglass.comercio.seller.produtos.importacao: getaddrinfo ENOTFOUND autoglass.comercio.seller.produtos.importacao
+[09:48:11] [Warning] [R] [Main Window (619fcd54-5f5e-48cf-b84a-d1e74893f878)] Measure loop restarted more than 5 times (index.js:2)
+[09:48:13] [Error] [Application] Could not fetch link preview for URL https://autoglass.comercio.vendas.venda: getaddrinfo ENOTFOUND autoglass.comercio.vendas.venda
+[09:48:20] [Error] [Application] Could not fetch link preview for URL https://autoglass.comercio.vendas.venda: getaddrinfo ENOTFOUND autoglass.comercio.vendas.venda
+[09:48:22] [Error] [Application] Could not fetch link preview for URL https://pkc-4v5zz.sa-east-1.aws.confluent.cloud:9092: socket hang up
+[09:48:23] [Error] [Application] Could not fetch link preview for URL https://pkc-4v5zz.sa-east-1.aws.confluent.cloud:9092: socket hang up
+[09:48:23] [Error] [Application] Could not fetch link preview for URL https://pkc-4v5zz.sa-east-1.aws.confluent.cloud:9092: socket hang up
+[09:48:38] [Error] [Application] Could not fetch link preview for URL https://pkc-n00kk.us-east-1.aws.confluent.cloud:9092: socket hang up
+[09:48:44] [Error] [Application] Could not fetch link preview for URL https://pkc-n00kk.us-east-1.aws.confluent.cloud:9092: socket hang up
+[09:48:54] [Error] [Application] Could not fetch link preview for URL https://pkc-4v5zz.sa-east-1.aws.confluent.cloud:9092: socket hang up
+[09:48:59] [Error] [Application] Could not fetch link preview for URL https://pkc-4v5zz.sa-east-1.aws.confluent.cloud:9092: socket hang up
+[09:52:38] [Error] [Application] Could not fetch link preview for URL https://mip-dev.cluster-cu62elblagyw.sa-east-1.rds.amazonaws.com: connect ETIMEDOUT 172.24.137.181:443
+[09:52:38] [Error] [Application] Could not fetch link preview for URL https://mip-dev.cluster-cu62elblagyw.sa-east-1.rds.amazonaws.com: connect ETIMEDOUT 172.24.137.181:443
+[09:53:35] [Error] [Application] Could not fetch link preview for URL https://mip-dev.cluster-cu62elblagyw.sa-east-1.rds.amazonaws.com: connect ETIMEDOUT 172.24.137.181:443
+[09:54:11] [Error] [Application] Could not fetch link preview for URL https://mip-dev.cluster-cu62elblagyw.sa-east-1.rds.amazonaws.com: connect ETIMEDOUT 172.24.137.181:443
+[09:57:58] [Error] [Application] Could not fetch link preview for URL https://autoglass.comercio.vendas.venda: getaddrinfo ENOTFOUND autoglass.comercio.vendas.venda
+[09:57:58] [Error] [Application] Error running LanguageTool: unable to get local issuer certificate | Native Error: RequestError; unable to get local issuer certificate Stack Trace: RequestError: unable to get local issuer certificate -->     at ClientRequest.<anonymous> (/usr/lib/zettlr/resources/app.asar/.webpack/main/index.js:2:835421) -->     at Object.onceWrapper (node:events:628:26) -->     at ClientRequest.emit (node:events:525:35) -->     at e.emit (/usr/lib/zettlr/resources/app.asar/.webpack/main/index.js:2:11466) -->     at TLSSocket.socketErrorListener (node:_http_client:502:9) -->     at TLSSocket.emit (node:events:513:28) -->     at emitErrorNT (node:internal/streams/destroy:151:8) -->     at emitErrorCloseNT (node:internal/streams/destroy:116:3) -->     at process.processTicksAndRejections (node:internal/process/task_queues:82:21) -->     at TLSSocket.onConnectSecure (node:_tls_wrap:1540:34) -->     at TLSSocket.emit (node:events:513:28) -->     at TLSSocket._finishInit (node:_tls_wrap:959:8) -->     at ssl.onhandshakedone (node:_tls_wrap:743:12)
+[09:57:59] [Error] [Application] Could not fetch link preview for URL https://autoglass.comercio.vendas.venda: getaddrinfo ENOTFOUND autoglass.comercio.vendas.venda
+[09:58:01] [Error] [Application] Error running LanguageTool: unable to get local issuer certificate | Native Error: RequestError; unable to get local issuer certificate Stack Trace: RequestError: unable to get local issuer certificate -->     at ClientRequest.<anonymous> (/usr/lib/zettlr/resources/app.asar/.webpack/main/index.js:2:835421) -->     at Object.onceWrapper (node:events:628:26) -->     at ClientRequest.emit (node:events:525:35) -->     at e.emit (/usr/lib/zettlr/resources/app.asar/.webpack/main/index.js:2:11466) -->     at TLSSocket.socketErrorListener (node:_http_client:502:9) -->     at TLSSocket.emit (node:events:513:28) -->     at emitErrorNT (node:internal/streams/destroy:151:8) -->     at emitErrorCloseNT (node:internal/streams/destroy:116:3) -->     at process.processTicksAndRejections (node:internal/process/task_queues:82:21) -->     at TLSSocket.onConnectSecure (node:_tls_wrap:1540:34) -->     at TLSSocket.emit (node:events:513:28) -->     at TLSSocket._finishInit (node:_tls_wrap:959:8) -->     at ssl.onhandshakedone (node:_tls_wrap:743:12)
+[09:58:05] [Error] [Application] Error running LanguageTool: unable to get local issuer certificate | Native Error: RequestError; unable to get local issuer certificate Stack Trace: RequestError: unable to get local issuer certificate -->     at ClientRequest.<anonymous> (/usr/lib/zettlr/resources/app.asar/.webpack/main/index.js:2:835421) -->     at Object.onceWrapper (node:events:628:26) -->     at ClientRequest.emit (node:events:525:35) -->     at e.emit (/usr/lib/zettlr/resources/app.asar/.webpack/main/index.js:2:11466) -->     at TLSSocket.socketErrorListener (node:_http_client:502:9) -->     at TLSSocket.emit (node:events:513:28) -->     at emitErrorNT (node:internal/streams/destroy:151:8) -->     at emitErrorCloseNT (node:internal/streams/destroy:116:3) -->     at process.processTicksAndRejections (node:internal/process/task_queues:82:21) -->     at TLSSocket.onConnectSecure (node:_tls_wrap:1540:34) -->     at TLSSocket.emit (node:events:513:28) -->     at TLSSocket._finishInit (node:_tls_wrap:959:8) -->     at ssl.onhandshakedone (node:_tls_wrap:743:12)
+[09:58:08] [Info] [DocumentManager] Processing change for /home/fabioscalzer/projetos/documentação/documentacao/comercio/tracking/tracking.md
+[09:58:08] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/comercio/tracking/tracking.md
+[09:58:08] [Info] [DocumentManager] File /home/fabioscalzer/projetos/documentação/documentacao/comercio/tracking/tracking.md saved.
+[09:58:16] [Error] [Application] Could not fetch link preview for URL https://pkc-4v5zz.sa-east-1.aws.confluent.cloud:9092: socket hang up
+[09:58:17] [Error] [Application] Could not fetch link preview for URL https://pkc-4v5zz.sa-east-1.aws.confluent.cloud:9092: socket hang up
+[09:58:28] [Error] [Application] Error running LanguageTool: unable to get local issuer certificate | Native Error: RequestError; unable to get local issuer certificate Stack Trace: RequestError: unable to get local issuer certificate -->     at ClientRequest.<anonymous> (/usr/lib/zettlr/resources/app.asar/.webpack/main/index.js:2:835421) -->     at Object.onceWrapper (node:events:628:26) -->     at ClientRequest.emit (node:events:525:35) -->     at e.emit (/usr/lib/zettlr/resources/app.asar/.webpack/main/index.js:2:11466) -->     at TLSSocket.socketErrorListener (node:_http_client:502:9) -->     at TLSSocket.emit (node:events:513:28) -->     at emitErrorNT (node:internal/streams/destroy:151:8) -->     at emitErrorCloseNT (node:internal/streams/destroy:116:3) -->     at process.processTicksAndRejections (node:internal/process/task_queues:82:21) -->     at TLSSocket.onConnectSecure (node:_tls_wrap:1540:34) -->     at TLSSocket.emit (node:events:513:28) -->     at TLSSocket._finishInit (node:_tls_wrap:959:8) -->     at ssl.onhandshakedone (node:_tls_wrap:743:12)
+[09:58:29] [Error] [Application] Could not fetch link preview for URL https://autoglass.comercio.vendas.venda: getaddrinfo ENOTFOUND autoglass.comercio.vendas.venda
+[09:58:30] [Info] [DocumentManager] Processing change for /home/fabioscalzer/projetos/documentação/documentacao/comercio/tracking/tracking.md
+[09:58:30] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/comercio/tracking/tracking.md
+[09:58:30] [Info] [DocumentManager] File /home/fabioscalzer/projetos/documentação/documentacao/comercio/tracking/tracking.md saved.
+[09:58:48] [Error] [Application] Could not fetch link preview for URL https://pkc-4v5zz.sa-east-1.aws.confluent.cloud:9092: socket hang up
+[13:46:15] [Info] [WATCHDOG] Emitting event: addDir:/home/fabioscalzer/projetos/documentação/documentacao/logseq
+[13:46:15] [Info] [WATCHDOG] Emitting event: addDir:/home/fabioscalzer/projetos/documentação/documentacao/journals
+[13:46:15] [Info] [WATCHDOG] Emitting event: add:/home/fabioscalzer/projetos/documentação/documentacao/logseq/config.edn
+[13:46:15] [Info] [WATCHDOG] Emitting event: addDir:/home/fabioscalzer/projetos/documentação/documentacao/pages
+[13:46:15] [Warning] [R] [Main Window (619fcd54-5f5e-48cf-b84a-d1e74893f878)] FSAL event had an outdated timestamp (6, current: 6) -- skipping (add:/home/fabioscalzer/projetos/documentação/documentacao/journals) (index.js:2)
+[13:46:16] [Warning] [R] [Main Window (619fcd54-5f5e-48cf-b84a-d1e74893f878)] FSAL event had an outdated timestamp (8, current: 8) -- skipping (add:/home/fabioscalzer/projetos/documentação/documentacao/pages) (index.js:2)
+[13:46:16] [Info] [WATCHDOG] Emitting event: add:/home/fabioscalzer/projetos/documentação/documentacao/pages/contents.md
+[13:46:16] [Info] [WATCHDOG] Emitting event: add:/home/fabioscalzer/projetos/documentação/documentacao/logseq/custom.css
+[13:46:16] [Warning] [R] [Main Window (619fcd54-5f5e-48cf-b84a-d1e74893f878)] FSAL event had an outdated timestamp (10, current: 10) -- skipping (add:/home/fabioscalzer/projetos/documentação/documentacao/logseq/custom.css) (index.js:2)
+[13:46:16] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/pages/contents.md
+[13:46:27] [Info] [WATCHDOG] Emitting event: add:/home/fabioscalzer/projetos/documentação/documentacao/journals/2023_10_03.md
+[13:47:05] [Error] [Application] Error running LanguageTool: unable to get local issuer certificate | Native Error: RequestError; unable to get local issuer certificate Stack Trace: RequestError: unable to get local issuer certificate -->     at ClientRequest.<anonymous> (/usr/lib/zettlr/resources/app.asar/.webpack/main/index.js:2:835421) -->     at Object.onceWrapper (node:events:628:26) -->     at ClientRequest.emit (node:events:525:35) -->     at e.emit (/usr/lib/zettlr/resources/app.asar/.webpack/main/index.js:2:11466) -->     at TLSSocket.socketErrorListener (node:_http_client:502:9) -->     at TLSSocket.emit (node:events:513:28) -->     at emitErrorNT (node:internal/streams/destroy:151:8) -->     at emitErrorCloseNT (node:internal/streams/destroy:116:3) -->     at process.processTicksAndRejections (node:internal/process/task_queues:82:21) -->     at TLSSocket.onConnectSecure (node:_tls_wrap:1540:34) -->     at TLSSocket.emit (node:events:513:28) -->     at TLSSocket._finishInit (node:_tls_wrap:959:8) -->     at ssl.onhandshakedone (node:_tls_wrap:743:12)
+[13:47:20] [Error] [Application] Error running LanguageTool: unable to get local issuer certificate | Native Error: RequestError; unable to get local issuer certificate Stack Trace: RequestError: unable to get local issuer certificate -->     at ClientRequest.<anonymous> (/usr/lib/zettlr/resources/app.asar/.webpack/main/index.js:2:835421) -->     at Object.onceWrapper (node:events:628:26) -->     at ClientRequest.emit (node:events:525:35) -->     at e.emit (/usr/lib/zettlr/resources/app.asar/.webpack/main/index.js:2:11466) -->     at TLSSocket.socketErrorListener (node:_http_client:502:9) -->     at TLSSocket.emit (node:events:513:28) -->     at emitErrorNT (node:internal/streams/destroy:151:8) -->     at emitErrorCloseNT (node:internal/streams/destroy:116:3) -->     at process.processTicksAndRejections (node:internal/process/task_queues:82:21) -->     at TLSSocket.onConnectSecure (node:_tls_wrap:1540:34) -->     at TLSSocket.emit (node:events:513:28) -->     at TLSSocket._finishInit (node:_tls_wrap:959:8) -->     at ssl.onhandshakedone (node:_tls_wrap:743:12)
+[13:48:09] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/journals/2023_10_03.md
+[13:48:10] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/journals/2023_10_03.md
+[13:48:14] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/journals/2023_10_03.md
+[13:50:01] [Info] [WATCHDOG] Emitting event: add:/home/fabioscalzer/projetos/documentação/documentacao/Senhas.kdbx.tmp
+[13:50:01] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/Senhas.kdbx.tmp
+[13:50:01] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/Senhas.kdbx
+[13:50:01] [Info] [WATCHDOG] Emitting event: unlink:/home/fabioscalzer/projetos/documentação/documentacao/Senhas.kdbx.tmp
+[13:51:06] [Info] [WATCHDOG] Emitting event: add:/home/fabioscalzer/projetos/documentação/documentacao/Senhas.kdbx.tmp
+[13:51:06] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/Senhas.kdbx.tmp
+[13:51:06] [Info] [WATCHDOG] Emitting event: change:/home/fabioscalzer/projetos/documentação/documentacao/Senhas.kdbx
+[13:51:06] [Info] [WATCHDOG] Emitting event: unlink:/home/fabioscalzer/projetos/documentação/documentacao/Senhas.kdbx.tmp
+[13:53:12] [Info] [WATCHDOG] Emitting event: unlinkDir:/home/fabioscalzer/projetos/documentação/documentacao/node_modules/dictionary-pt
+[13:53:12] [Info] [WATCHDOG] Emitting event: unlinkDir:/home/fabioscalzer/projetos/documentação/documentacao/node_modules
+[13:53:12] [Info] [WATCHDOG] Emitting event: unlinkDir:/home/fabioscalzer/projetos/documentação/documentacao/comercio/integracaoVenda/assets
+[13:53:12] [Info] [WATCHDOG] Emitting event: unlinkDir:/home/fabioscalzer/projetos/documentação/documentacao/comercio/coletaInteligente
+[13:53:12] [Info] [WATCHDOG] Emitting event: unlinkDir:/home/fabioscalzer/projetos/documentação/documentacao/comercio/gva
+[13:53:12] [Info] [WATCHDOG] Emitting event: unlinkDir:/home/fabioscalzer/projetos/documentação/documentacao/comercio/integracaoVenda
+[13:53:12] [Info] [WATCHDOG] Emitting event: unlinkDir:/home/fabioscalzer/projetos/documentação/documentacao/comercio/picking/assets
+[13:53:12] [Info] [WATCHDOG] Emitting event: unlinkDir:/home/fabioscalzer/projetos/documentação/documentacao/comercio/picking
+[13:53:12] [Info] [WATCHDOG] Emitting event: unlinkDir:/home/fabioscalzer/projetos/documentação/documentacao/comercio/planner
+[13:53:12] [Info] [WATCHDOG] Emitting event: unlinkDir:/home/fabioscalzer/projetos/documentação/documentacao/comercio/pricing
+[13:53:12] [Info] [WATCHDOG] Ignore event: unlinkDir:/home/fabioscalzer/projetos/documentação/documentacao/comercio/scoreFraude
+[13:53:12] [Info] [WATCHDOG] Emitting event: unlinkDir:/home/fabioscalzer/projetos/documentação/documentacao/comercio/seller/Img
+[13:53:12] [Info] [WATCHDOG] Emitting event: unlinkDir:/home/fabioscalzer/projetos/documentação/documentacao/comercio/seller
+[13:53:12] [Info] [WATCHDOG] Emitting event: unlinkDir:/home/fabioscalzer/projetos/documentação/documentacao/comercio/timeLog
+[13:53:12] [Info] [WATCHDOG] Emitting event: unlinkDir:/home/fabioscalzer/projetos/documentação/documentacao/comercio/tracking/assets
+[13:53:12] [Info] [WATCHDOG] Emitting event: unlinkDir:/home/fabioscalzer/projetos/documentação/documentacao/comercio/tracking
+[13:53:12] [Info] [WATCHDOG] Emitting event: unlinkDir:/home/fabioscalzer/projetos/documentação/documentacao/estudosPropostas/EntityFramework/assets
+[13:53:12] [Info] [WATCHDOG] Emitting event: unlinkDir:/home/fabioscalzer/projetos/documentação/documentacao/estudosPropostas/EntityFramework
+[13:53:12] [Info] [WATCHDOG] Emitting event: unlinkDir:/home/fabioscalzer/projetos/documentação/documentacao/estudosPropostas/checkListPRD
+[13:53:12] [Info] [WATCHDOG] Emitting event: unlinkDir:/home/fabioscalzer/projetos/documentação/documentacao/estudosPropostas/docker
+[13:53:12] [Info] [WATCHDOG] Emitting event: unlinkDir:/home/fabioscalzer/projetos/documentação/documentacao/estudosPropostas/gerenciamentoDeFrota
+[13:53:12] [Info] [WATCHDOG] Emitting event: unlinkDir:/home/fabioscalzer/projetos/documentação/documentacao/estudosPropostas/ideiaLinkVeiculo/ideiaLinkVeiculo
+[13:53:12] [Info] [WATCHDOG] Emitting event: unlinkDir:/home/fabioscalzer/projetos/documentação/documentacao/estudosPropostas/ideiaLinkVeiculo
+[13:53:12] [Info] [WATCHDOG] Emitting event: unlinkDir:/home/fabioscalzer/projetos/documentação/documentacao/estudosPropostas/microServicos
+[13:53:12] [Info] [WATCHDOG] Emitting event: unlinkDir:/home/fabioscalzer/projetos/documentação/documentacao/comercio
+[13:53:12] [Info] [WATCHDOG] Emitting event: unlinkDir:/home/fabioscalzer/projetos/documentação/documentacao/estudosPropostas
+[13:53:12] [Info] [WATCHDOG] Emitting event: unlinkDir:/home/fabioscalzer/projetos/documentação/documentacao/journals
+[13:53:12] [Info] [WATCHDOG] Emitting event: unlink:/home/fabioscalzer/projetos/documentação/documentacao/node_modules/dictionary-pt/index.dic
+[13:53:12] [Info] [FSAL] Received removal event for path /home/fabioscalzer/projetos/documentação/documentacao/node_modules/dictionary-pt/index.dic, but it was not loaded.
+[13:53:12] [Info] [WATCHDOG] Emitting event: unlink:/home/fabioscalzer/projetos/documentação/documentacao/node_modules/dictionary-pt/license
+[13:53:12] [Info] [WATCHDOG] Emitting event: unlink:/home/fabioscalzer/projetos/documentação/documentacao/node_modules/dictionary-pt/package.json
+[13:53:12] [Info] [WATCHDOG] Emitting event: unlink:/home/fabioscalzer/projetos/documentação/documentacao/node_modules/dictionary-pt/index.js
+[13:53:12] [Info] [WATCHDOG] Emitting event: unlink:/home/fabioscalzer/projetos/documentação/documentacao/node_modules/dictionary-pt/index.d.ts
+[13:53:12] [Info] [WATCHDOG] Emitting event: unlink:/home/fabioscalzer/projetos/documentação/documentacao/node_modules/dictionary-pt/readme.md
+[13:53:12] [Info] [WATCHDOG] Emitting event: unlink:/home/fabioscalzer/projetos/documentação/documentacao/node_modules/dictionary-pt/index.aff
+[13:53:12] [Info] [WATCHDOG] Emitting event: unlink:/home/fabioscalzer/projetos/documentação/documentacao/package-lock.json
+[13:53:12] [Info] [WATCHDOG] Emitting event: unlink:/home/fabioscalzer/projetos/documentação/documentacao/comercio/integracaoVenda/assets/Localiza&co - Integração - Compra de peças (1).pdf:PG$Secure
+[13:53:12] [Info] [WATCHDOG] Emitting event: unlink:/home/fabioscalzer/projetos/documentação/documentacao/comercio/integracaoVenda/assets/Localiza&co - Integração - Compra de peças (1).pdf
+[13:53:12] [Info] [WATCHDOG] Emitting event: unlink:/home/fabioscalzer/projetos/documentação/documentacao/comercio/integracaoVenda/assets/Localiza&co - Integração - Compra de peças (1).pdf:Zone.Identifier
+[13:53:12] [Info] [WATCHDOG] Emitting event: unlink:/home/fabioscalzer/projetos/documentação/documentacao/comercio/integracaoVenda/assets/Localiza_Arquetura_Referencia.drawio
+[13:53:12] [Info] [WATCHDOG] Emitting event: unlink:/home/fabioscalzer/projetos/documentação/documentacao/comercio/integracaoVenda/assets/Localiza_Arquetura_Referencia.drawio:PG$Secure
+[13:53:12] [Info] [WATCHDOG] Emitting event: unlink:/home/fabioscalzer/projetos/documentação/documentacao/comercio/integracaoVenda/assets/Localiza_Arquetura_Referencia.drawio:Zone.Identifier
+[13:53:12] [Info] [WATCHDOG] Emitting event: unlink:/home/fabioscalzer/projetos/documentação/documentacao/comercio/integracaoVenda/integracaoVenda.md
+[13:53:12] [Info] [WATCHDOG] Emitting event: unlink:/home/fabioscalzer/projetos/documentação/documentacao/comercio/coletaInteligente/coletaInteligente.html
+[13:53:12] [Info] [WATCHDOG] Emitting event: unlink:/home/fabioscalzer/projetos/documentação/documentacao/comercio/coletaInteligente/coletaInteligente.md
+[13:53:12] [Info] [WATCHDOG] Emitting event: unlink:/home/fabioscalzer/projetos/documentação/documentacao/comercio/coletaInteligente/coletaInteligente.pdf
+[13:53:12] [Info] [WATCHDOG] Emitting event: unlink:/home/fabioscalzer/projetos/documentação/documentacao/comercio/gva/gva.md
+[13:53:12] [Info] [WATCHDOG] Emitting event: unlink:/home/fabioscalzer/projetos/documentação/documentacao/comercio/picking/82165835a2adfb102d698b4766c234dc.png
+[13:53:12] [Info] [WATCHDOG] Emitting event: unlink:/home/fabioscalzer/projetos/documentação/documentacao/comercio/picking/geradordedemanda.md
+[13:53:12] [Info] [WATCHDOG] Emitting event: unlink:/home/fabioscalzer/projetos/documentação/documentacao/comercio/picking/picking.md
+[13:53:12] [Info] [WATCHDOG] Emitting event: unlink:/home/fabioscalzer/projetos/documentação/documentacao/comercio/picking/assets/09d5d6621ab267a9caac01f309f81b9fbfce769910fec0b57459599d2429f429.png
+[13:53:12] [Info] [WATCHDOG] Emitting event: unlink:/home/fabioscalzer/projetos/documentação/documentacao/comercio/picking/assets/119f83d9b3a829f06ad70b55e3a5abc49adc96c6cb59feb75bf0c15b54983433.png
+[13:53:12] [Info] [WATCHDOG] Emitting event: unlink:/home/fabioscalzer/projetos/documentação/documentacao/comercio/picking/assets/20230227_132735_image.png
+[13:53:12] [Info] [WATCHDOG] Emitting event: unlink:/home/fabioscalzer/projetos/documentação/documentacao/comercio/picking/assets/8c2da2ebb8feaa04d0cf7108931404ec145857a12e04b7fe98f9c919a44d8376.png
+[13:53:12] [Info] [WATCHDOG] Emitting event: unlink:/home/fabioscalzer/projetos/documentação/documentacao/comercio/picking/assets/WMS-1.png
+[13:53:12] [Info] [WATCHDOG] Emitting event: unlink:/home/fabioscalzer/projetos/documentação/documentacao/comercio/planner/integracaoPlannerAPI.md
+[13:53:12] [Info] [WATCHDOG] Emitting event: unlink:/home/fabioscalzer/projetos/documentação/documentacao/comercio/pricing/arquitetura-mip.md
+[13:53:12] [Info] [WATCHDOG] Emitting event: unlink:/home/fabioscalzer/projetos/documentação/documentacao/comercio/pricing/mip.md
+[13:53:12] [Info] [WATCHDOG] Emitting event: unlink:/home/fabioscalzer/projetos/documentação/documentacao/comercio/pricing/performance.md
+[13:53:12] [Info] [WATCHDOG] Emitting event: unlink:/home/fabioscalzer/projetos/documentação/documentacao/comercio/pricing/pricing.md
+[13:53:12] [Info] [WATCHDOG] Emitting event: unlink:/home/fabioscalzer/projetos/documentação/documentacao/comercio/pricing/processo-pricing.drawio
+[13:53:12] [Info] [WATCHDOG] Emitting event: unlink:/home/fabioscalzer/projetos/documentação/documentacao/comercio/pricing/processo-pricing.png
+[13:53:12] [Info] [WATCHDOG] Emitting event: unlink:/home/fabioscalzer/projetos/documentação/documentacao/comercio/pricing/processo-pricing.svg
+[13:53:12] [Info] [WATCHDOG] Ignore event: unlink:/home/fabioscalzer/projetos/documentação/documentacao/comercio/scoreFraude/scoreFraude.md
+[13:53:12] [Info] [WATCHDOG] Emitting event: unlink:/home/fabioscalzer/projetos/documentação/documentacao/comercio/seller/seller.md
+[13:53:12] [Info] [WATCHDOG] Emitting event: unlink:/home/fabioscalzer/projetos/documentação/documentacao/comercio/seller/Img/2023-02-16-Window.png
+[13:53:12] [Info] [WATCHDOG] Emitting event: unlink:/home/fabioscalzer/projetos/documentação/documentacao/comercio/timeLog/timeLog.md
+[13:53:12] [Info] [WATCHDOG] Emitting event: unlink:/home/fabioscalzer/projetos/documentação/documentacao/comercio/tracking/quartz.png
+[13:53:12] [Info] [WATCHDOG] Emitting event: unlink:/home/fabioscalzer/projetos/documentação/documentacao/comercio/tracking/tracking.md
+[13:53:12] [Info] [WATCHDOG] Emitting event: unlink:/home/fabioscalzer/projetos/documentação/documentacao/comercio/tracking/assets/5d5b1e0d3ad227d6ba5fe5f72256d487.png
+[13:53:12] [Info] [WATCHDOG] Emitting event: unlink:/home/fabioscalzer/projetos/documentação/documentacao/package.json
+[13:53:12] [Info] [WATCHDOG] Emitting event: unlink:/home/fabioscalzer/projetos/documentação/documentacao/journals/2023_10_03.md
+[13:53:12] [Info] [WATCHDOG] Emitting event: unlink:/home/fabioscalzer/projetos/documentação/documentacao/estudosPropostas/docker/docker.md
+[13:53:12] [Info] [WATCHDOG] Emitting event: unlink:/home/fabioscalzer/projetos/documentação/documentacao/estudosPropostas/criacaoDeTopciosKafka.md
+[13:53:12] [Info] [WATCHDOG] Emitting event (.ztr-directory): change:/home/fabioscalzer/projetos/documentação/documentacao/estudosPropostas/EntityFramework
+[13:53:12] [Info] [WATCHDOG] Emitting event: unlink:/home/fabioscalzer/projetos/documentação/documentacao/estudosPropostas/EntityFramework/PropostaEntity.md
+[13:53:12] [Info] [WATCHDOG] Emitting event: unlink:/home/fabioscalzer/projetos/documentação/documentacao/estudosPropostas/checkListPRD/checkListPRD.md
+[13:53:12] [Info] [WATCHDOG] Emitting event: unlink:/home/fabioscalzer/projetos/documentação/documentacao/estudosPropostas/gerenciamentoDeFrota/gerenciamentoDeFrota.md
+[13:53:12] [Info] [WATCHDOG] Emitting event: unlink:/home/fabioscalzer/projetos/documentação/documentacao/estudosPropostas/microServicos/microServicos.md
+[13:53:12] [Info] [DocumentManager] Processing unlink for /home/fabioscalzer/projetos/documentação/documentacao/comercio/pricing/performance.md
+[13:53:12] [Info] [DocumentManager] Processing unlink for /home/fabioscalzer/projetos/documentação/documentacao/comercio/pricing/mip.md
+[13:53:12] [Info] [DocumentManager] Processing unlink for /home/fabioscalzer/projetos/documentação/documentacao/comercio/tracking/tracking.md
+[13:53:12] [Info] [DocumentManager] Processing unlink for /home/fabioscalzer/projetos/documentação/documentacao/comercio/scoreFraude/scoreFraude.md
+[13:53:12] [Info] [DocumentManager] Processing unlink for /home/fabioscalzer/projetos/documentação/documentacao/comercio/seller/seller.md
+[13:53:12] [Info] [WATCHDOG] Emitting event: unlinkDir:/home/fabioscalzer/projetos/documentação/documentacao/servico/maxPrice
+[13:53:12] [Info] [WATCHDOG] Emitting event: unlinkDir:/home/fabioscalzer/projetos/documentação/documentacao/servico/scoreFraude
+[13:53:12] [Info] [WATCHDOG] Emitting event: unlinkDir:/home/fabioscalzer/projetos/documentação/documentacao/corporativo/checkout
+[13:53:12] [Info] [WATCHDOG] Emitting event: unlinkDir:/home/fabioscalzer/projetos/documentação/documentacao/corporativo/dependencyCheckSonar
+[13:53:12] [Info] [WATCHDOG] Emitting event: unlinkDir:/home/fabioscalzer/projetos/documentação/documentacao/corporativo/encurtador/assets
+[13:53:12] [Info] [WATCHDOG] Emitting event: unlinkDir:/home/fabioscalzer/projetos/documentação/documentacao/corporativo/encurtador
+[13:53:12] [Info] [WATCHDOG] Emitting event: unlinkDir:/home/fabioscalzer/projetos/documentação/documentacao/corporativo/ferramentasExternas
+[13:53:12] [Info] [WATCHDOG] Emitting event: unlinkDir:/home/fabioscalzer/projetos/documentação/documentacao/corporativo/fluxoDeInovacao
+[13:53:12] [Info] [WATCHDOG] Emitting event: unlinkDir:/home/fabioscalzer/projetos/documentação/documentacao/corporativo/mobile
+[13:53:12] [Info] [WATCHDOG] Emitting event: unlinkDir:/home/fabioscalzer/projetos/documentação/documentacao/corporativo/seguranca
+[13:53:12] [Info] [WATCHDOG] Emitting event: unlinkDir:/home/fabioscalzer/projetos/documentação/documentacao/corporativo/tarefas
+[13:53:12] [Info] [WATCHDOG] Emitting event: unlinkDir:/home/fabioscalzer/projetos/documentação/documentacao/corporativo/verify
+[13:53:12] [Info] [WATCHDOG] Emitting event: unlinkDir:/home/fabioscalzer/projetos/documentação/documentacao/dict/dictionary-pt
+[13:53:12] [Info] [WATCHDOG] Emitting event (.git): change:/home/fabioscalzer/projetos/documentação/documentacao
+[13:53:12] [Info] [WATCHDOG] Emitting event: unlinkDir:/home/fabioscalzer/projetos/documentação/documentacao/assets
+[13:53:12] [Info] [WATCHDOG] Emitting event: unlinkDir:/home/fabioscalzer/projetos/documentação/documentacao/corporativo
+[13:53:12] [Info] [WATCHDOG] Emitting event: unlinkDir:/home/fabioscalzer/projetos/documentação/documentacao/dict
+[13:53:12] [Info] [WATCHDOG] Emitting event: unlinkDir:/home/fabioscalzer/projetos/documentação/documentacao/servico
+[13:53:12] [Info] [WATCHDOG] Emitting event: unlinkDir:/home/fabioscalzer/projetos/documentação/documentacao/logseq
+[13:53:12] [Info] [WATCHDOG] Emitting event: unlinkDir:/home/fabioscalzer/projetos/documentação/documentacao/pages
+[13:53:12] [Info] [WATCHDOG] Emitting event: unlinkDir:/home/fabioscalzer/projetos/documentação/documentacao
+[13:53:12] [Info] [DocumentManager] Processing unlinkDir for /home/fabioscalzer/projetos/documentação/documentacao
+[13:53:12] [Warning] [DocumentManager] Received unexpected event unlinkDir for /home/fabioscalzer/projetos/documentação/documentacao.
+[13:53:12] [Info] [WATCHDOG] Emitting event: unlink:/home/fabioscalzer/projetos/documentação/documentacao/assets/65cceb548551b801c99fa9b7f103c443.png
+[13:53:12] [Info] [WATCHDOG] Emitting event: unlink:/home/fabioscalzer/projetos/documentação/documentacao/assets/c978631b4514a2d9068f4b759a90e1f4.png
+[13:53:12] [Info] [WATCHDOG] Emitting event: unlink:/home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md
+[13:53:12] [Info] [WATCHDOG] Emitting event: unlink:/home/fabioscalzer/projetos/documentação/documentacao/logseq/config.edn
+[13:53:12] [Info] [WATCHDOG] Emitting event: unlink:/home/fabioscalzer/projetos/documentação/documentacao/logseq/custom.css
+[13:53:12] [Info] [WATCHDOG] Emitting event: unlink:/home/fabioscalzer/projetos/documentação/documentacao/servico/maxPrice/maxPrice.md
+[13:53:12] [Info] [WATCHDOG] Emitting event: unlink:/home/fabioscalzer/projetos/documentação/documentacao/servico/scoreFraude/scoreFraude.md
+[13:53:12] [Info] [WATCHDOG] Emitting event: unlink:/home/fabioscalzer/projetos/documentação/documentacao/corporativo/mobile/reuniaoMobile.md
+[13:53:12] [Info] [WATCHDOG] Emitting event: unlink:/home/fabioscalzer/projetos/documentação/documentacao/corporativo/mobile/documentacaoMobile.md
+[13:53:12] [Info] [WATCHDOG] Emitting event: unlink:/home/fabioscalzer/projetos/documentação/documentacao/corporativo/mobile/mobile.md
+[13:53:12] [Info] [WATCHDOG] Emitting event: unlink:/home/fabioscalzer/projetos/documentação/documentacao/corporativo/checkout/checkout.md
+[13:53:12] [Info] [WATCHDOG] Emitting event: unlink:/home/fabioscalzer/projetos/documentação/documentacao/corporativo/dependencyCheckSonar/DependencyCheckSonar.md
+[13:53:12] [Info] [WATCHDOG] Emitting event: unlink:/home/fabioscalzer/projetos/documentação/documentacao/corporativo/encurtador/encurtador.md
+[13:53:12] [Info] [WATCHDOG] Emitting event: unlink:/home/fabioscalzer/projetos/documentação/documentacao/corporativo/encurtador/assets/20230302_111933_image.png
+[13:53:12] [Info] [WATCHDOG] Emitting event: unlink:/home/fabioscalzer/projetos/documentação/documentacao/corporativo/ferramentasExternas/ferramentasExternas.md
+[13:53:12] [Info] [WATCHDOG] Emitting event: unlink:/home/fabioscalzer/projetos/documentação/documentacao/corporativo/fluxoDeInovacao/definiçoesPicking
+[13:53:12] [Info] [WATCHDOG] Emitting event: unlink:/home/fabioscalzer/projetos/documentação/documentacao/corporativo/fluxoDeInovacao/fluxoDeInovação.md
+[13:53:12] [Info] [WATCHDOG] Emitting event: unlink:/home/fabioscalzer/projetos/documentação/documentacao/corporativo/seguranca/erroDeRede.md
+[13:53:12] [Info] [WATCHDOG] Emitting event: unlink:/home/fabioscalzer/projetos/documentação/documentacao/corporativo/tarefas/dependency-check.md
+[13:53:12] [Info] [WATCHDOG] Emitting event: unlink:/home/fabioscalzer/projetos/documentação/documentacao/corporativo/tarefas/dotnet6Excel.md
+[13:53:12] [Info] [WATCHDOG] Emitting event: unlink:/home/fabioscalzer/projetos/documentação/documentacao/corporativo/tarefas/vp-automatizacao.md
+[13:53:12] [Info] [WATCHDOG] Emitting event: unlink:/home/fabioscalzer/projetos/documentação/documentacao/corporativo/verify/ArqReferenciaVerifyv2.drawio
+[13:53:12] [Info] [WATCHDOG] Emitting event: unlink:/home/fabioscalzer/projetos/documentação/documentacao/corporativo/verify/verify.md
+[13:53:12] [Info] [WATCHDOG] Emitting event: unlink:/home/fabioscalzer/projetos/documentação/documentacao/Senhas.kdbx
+[13:53:12] [Info] [WATCHDOG] Emitting event: unlink:/home/fabioscalzer/projetos/documentação/documentacao/pages/contents.md
+[13:53:12] [Info] [WATCHDOG] Emitting event: unlink:/home/fabioscalzer/projetos/documentação/documentacao/dict/dictionary-pt/index.dic
+[13:53:12] [Info] [WATCHDOG] Emitting event: unlink:/home/fabioscalzer/projetos/documentação/documentacao/dict/dictionary-pt/index.aff
+[13:53:12] [Info] [WATCHDOG] Emitting event: unlink:/home/fabioscalzer/projetos/documentação/documentacao/dict/dictionary-pt/index.d.ts
+[13:53:12] [Info] [WATCHDOG] Emitting event: unlink:/home/fabioscalzer/projetos/documentação/documentacao/dict/dictionary-pt/index.js
+[13:53:12] [Info] [WATCHDOG] Emitting event: unlink:/home/fabioscalzer/projetos/documentação/documentacao/dict/dictionary-pt/license
+[13:53:12] [Info] [WATCHDOG] Emitting event: unlink:/home/fabioscalzer/projetos/documentação/documentacao/dict/dictionary-pt/package.json
+[13:53:12] [Info] [WATCHDOG] Emitting event: unlink:/home/fabioscalzer/projetos/documentação/documentacao/dict/dictionary-pt/readme.md
+[13:53:12] [Info] [DocumentManager] Processing unlink for /home/fabioscalzer/projetos/documentação/documentacao/servico/scoreFraude/scoreFraude.md
+[17:53:57] [Info] [Application] A second instance has been opened.
+[17:53:58] [Error] [Application] Could not return descriptor for /home/fabioscalzer/projetos/documentação/documentacao: Neither file nor directory.
+[17:53:58] [Error] [R] [Main Window (619fcd54-5f5e-48cf-b84a-d1e74893f878)] The descriptor for path /home/fabioscalzer/projetos/documentação/documentacao was empty! (index.js:2)
+[17:53:58] [Error] [Application] Could not return descriptor for /home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md: Neither file nor directory.
+[17:53:58] [Error] [R] [Main Window (619fcd54-5f5e-48cf-b84a-d1e74893f878)] The descriptor for path /home/fabioscalzer/projetos/documentação/documentacao/Tarefas.md was empty! (index.js:2)
+[17:53:58] [Error] [Application] Could not return descriptor for /home/fabioscalzer/projetos/documentação/documentacao/logseq: Neither file nor directory.
+[17:53:58] [Error] [R] [Main Window (619fcd54-5f5e-48cf-b84a-d1e74893f878)] The descriptor for path /home/fabioscalzer/projetos/documentação/documentacao/logseq was empty! (index.js:2)
+[17:53:58] [Error] [Application] Could not return descriptor for /home/fabioscalzer/projetos/documentação/documentacao/logseq/config.edn: Neither file nor directory.
+[17:53:58] [Error] [R] [Main Window (619fcd54-5f5e-48cf-b84a-d1e74893f878)] The descriptor for path /home/fabioscalzer/projetos/documentação/documentacao/logseq/config.edn was empty! (index.js:2)
+[17:53:58] [Error] [Application] Could not return descriptor for /home/fabioscalzer/projetos/documentação/documentacao/pages: Neither file nor directory.
+[17:53:58] [Error] [R] [Main Window (619fcd54-5f5e-48cf-b84a-d1e74893f878)] The descriptor for path /home/fabioscalzer/projetos/documentação/documentacao/pages was empty! (index.js:2)
+[17:53:58] [Error] [Application] Could not return descriptor for /home/fabioscalzer/projetos/documentação/documentacao/pages/contents.md: Neither file nor directory.
+[17:53:58] [Error] [R] [Main Window (619fcd54-5f5e-48cf-b84a-d1e74893f878)] The descriptor for path /home/fabioscalzer/projetos/documentação/documentacao/pages/contents.md was empty! (index.js:2)
+[17:53:58] [Error] [Application] Could not return descriptor for /home/fabioscalzer/projetos/documentação/documentacao/logseq/custom.css: Neither file nor directory.
+[17:53:58] [Error] [R] [Main Window (619fcd54-5f5e-48cf-b84a-d1e74893f878)] The descriptor for path /home/fabioscalzer/projetos/documentação/documentacao/logseq/custom.css was empty! (index.js:2)
+[17:53:58] [Error] [Application] Could not return descriptor for /home/fabioscalzer/projetos/documentação/documentacao/pages/contents.md: Neither file nor directory.
+[17:53:58] [Error] [R] [Main Window (619fcd54-5f5e-48cf-b84a-d1e74893f878)] The descriptor for path /home/fabioscalzer/projetos/documentação/documentacao/pages/contents.md was empty! (index.js:2)
+[17:53:58] [Error] [Application] Could not return descriptor for /home/fabioscalzer/projetos/documentação/documentacao/Senhas.kdbx: Neither file nor directory.
+[17:53:58] [Error] [R] [Main Window (619fcd54-5f5e-48cf-b84a-d1e74893f878)] The descriptor for path /home/fabioscalzer/projetos/documentação/documentacao/Senhas.kdbx was empty! (index.js:2)
+[17:53:58] [Error] [Application] Could not return descriptor for /home/fabioscalzer/projetos/documentação/documentacao/Senhas.kdbx: Neither file nor directory.
+[17:53:58] [Error] [R] [Main Window (619fcd54-5f5e-48cf-b84a-d1e74893f878)] The descriptor for path /home/fabioscalzer/projetos/documentação/documentacao/Senhas.kdbx was empty! (index.js:2)

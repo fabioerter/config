@@ -1,0 +1,15 @@
+lastupdatecheck: 0
+recentrepos:
+- /home/fabioscalzer
+- /home/fabioscalzer/projetos/spotiglass-api
+- /home/fabioscalzer/projetos/infra/proxy-reverso-interno
+- /home/fabioscalzer/projetos/jenkins/jenkins-criar-jobs
+- /home/fabioscalzer/utils
+- /home/fabioscalzer/projetos/templates/template-dotnet-core
+startuppopupversion: 5
+customcommandshistory:
+- qqa
+- q
+- git fetch --prune
+hidecommandlog: false
+ignorewhitespaceindiffview: false

@@ -1,0 +1,372 @@
+{
+ "version": "3.0.0",
+ "openPaths": [
+  "/home/fabioscalzer/projetos/documentação/documentacao",
+  "/home/fabioscalzer/.logseq/settings/logseq-git.json"
+ ],
+ "openDirectory": "/home/fabioscalzer/projetos/documentação/documentacao/comercio/tracking",
+ "dialogPaths": {
+  "askFileDialog": "/home/fabioscalzer/projetos/documentação/documentacao/node_modules/dictionary-pt",
+  "askDirDialog": "/home/fabioscalzer/projetos/documentação/documentacao",
+  "askLangFileDialog": ""
+ },
+ "window": {
+  "nativeAppearance": false,
+  "vibrancy": false,
+  "sidebarVisible": true,
+  "currentSidebarTab": "toc",
+  "recentGlobalSearches": [
+   "docker",
+   "tracking",
+   "mip",
+   "#Herik",
+   "Performance Pricing",
+   "performance",
+   "kafka",
+   "#wms",
+   "#comercio"
+  ]
+ },
+ "attachmentExtensions": [
+  ".pdf",
+  ".odt",
+  ".odp",
+  ".ods",
+  ".doc",
+  ".docx",
+  ".xls",
+  ".xlsx",
+  ".ppt",
+  ".pptx",
+  ".do",
+  ".r",
+  ".py",
+  ".sav",
+  ".zsav",
+  ".csv",
+  ".tsv",
+  ".png",
+  ".jpg",
+  ".jpeg",
+  ".gif",
+  ".tiff"
+ ],
+ "darkMode": true,
+ "alwaysReloadFiles": true,
+ "autoDarkMode": "off",
+ "autoDarkModeStart": "21:00",
+ "autoDarkModeEnd": "06:00",
+ "fileMeta": true,
+ "fileMetaTime": "modtime",
+ "sorting": "natural",
+ "sortFoldersFirst": true,
+ "sortingTime": "modtime",
+ "muteLines": true,
+ "fileManagerMode": "combined",
+ "fileNameDisplay": "title+heading",
+ "newFileNamePattern": "%id.md",
+ "newFileDontPrompt": false,
+ "export": {
+  "dir": "cwd",
+  "stripTags": false,
+  "stripLinks": "full",
+  "cslLibrary": "",
+  "cslStyle": "",
+  "useBundledPandoc": true,
+  "exportQmdWithQuarto": false,
+  "singleFileLastExporter": "Markdown.yaml",
+  "customCommands": []
+ },
+ "zkn": {
+  "idRE": "(\\d{14})",
+  "idGen": "%Y%M%D%h%m%s",
+  "linkFilenameOnly": false,
+  "linkWithFilename": "always",
+  "autoCreateLinkedFiles": false,
+  "autoSearch": true,
+  "customDirectory": ""
+ },
+ "editor": {
+  "autoSave": "delayed",
+  "autocompleteAcceptSpace": false,
+  "autoCloseBrackets": true,
+  "showLinkPreviews": true,
+  "defaultSaveImagePath": "./documentacao/assets",
+  "citeStyle": "regular",
+  "enableTableHelper": true,
+  "indentUnit": 4,
+  "indentWithTabs": false,
+  "fontSize": 18,
+  "countChars": false,
+  "inputMode": "default",
+  "boldFormatting": "**",
+  "italicFormatting": "_",
+  "readabilityAlgorithm": "dale-chall",
+  "showStatusbar": true,
+  "lint": {
+   "markdown": true,
+   "languageTool": {
+    "active": true,
+    "level": "default",
+    "motherTongue": "pt-BR",
+    "provider": "official",
+    "customServer": "",
+    "username": "",
+    "apiKey": ""
+   }
+  },
+  "autoCorrect": {
+   "active": true,
+   "magicQuotes": {
+    "primary": "“…”",
+    "secondary": "‘…’"
+   },
+   "replacements": [
+    {
+     "key": "-->",
+     "value": "→"
+    },
+    {
+     "key": "–>",
+     "value": "→"
+    },
+    {
+     "key": "<--",
+     "value": "←"
+    },
+    {
+     "key": "<->",
+     "value": "↔"
+    },
+    {
+     "key": "<-->",
+     "value": "↔"
+    },
+    {
+     "key": "==>",
+     "value": "⇒"
+    },
+    {
+     "key": "<==",
+     "value": "⇐"
+    },
+    {
+     "key": "<=>",
+     "value": "⇔"
+    },
+    {
+     "key": "<==>",
+     "value": "⇔"
+    },
+    {
+     "key": "!=",
+     "value": "≠"
+    },
+    {
+     "key": "<>",
+     "value": "≠"
+    },
+    {
+     "key": "+-",
+     "value": "±"
+    },
+    {
+     "key": ":time:",
+     "value": "×"
+    },
+    {
+     "key": ":division:",
+     "value": "÷"
+    },
+    {
+     "key": "<=",
+     "value": "≤"
+    },
+    {
+     "key": ">=",
+     "value": "≥"
+    },
+    {
+     "key": "1/2",
+     "value": "½"
+    },
+    {
+     "key": "1/3",
+     "value": "⅓"
+    },
+    {
+     "key": "2/3",
+     "value": "⅔"
+    },
+    {
+     "key": "1/4",
+     "value": "¼"
+    },
+    {
+     "key": "3/4",
+     "value": "¾"
+    },
+    {
+     "key": "1/8",
+     "value": "⅛"
+    },
+    {
+     "key": "3/8",
+     "value": "⅜"
+    },
+    {
+     "key": "5/8",
+     "value": "⅝"
+    },
+    {
+     "key": "7/8",
+     "value": "⅞"
+    },
+    {
+     "key": "mm2",
+     "value": "mm²"
+    },
+    {
+     "key": "cm2",
+     "value": "cm²"
+    },
+    {
+     "key": "m2",
+     "value": "m²"
+    },
+    {
+     "key": "km2",
+     "value": "km²"
+    },
+    {
+     "key": "mm3",
+     "value": "mm³"
+    },
+    {
+     "key": "cm3",
+     "value": "cm³"
+    },
+    {
+     "key": "ccm",
+     "value": "cm³"
+    },
+    {
+     "key": "m3",
+     "value": "m³"
+    },
+    {
+     "key": "km3",
+     "value": "km³"
+    },
+    {
+     "key": ":sup2:",
+     "value": "²"
+    },
+    {
+     "key": ":sup3:",
+     "value": "³"
+    },
+    {
+     "key": ":deg:",
+     "value": "°"
+    },
+    {
+     "key": ":eur",
+     "value": "€"
+    },
+    {
+     "key": ":gbp",
+     "value": "£"
+    },
+    {
+     "key": ":yen",
+     "value": "¥"
+    },
+    {
+     "key": ":cent",
+     "value": "¢"
+    },
+    {
+     "key": ":inr:",
+     "value": "₹"
+    },
+    {
+     "key": "(c)",
+     "value": "©"
+    },
+    {
+     "key": "(tm)",
+     "value": "™"
+    },
+    {
+     "key": "(r)",
+     "value": "®"
+    },
+    {
+     "key": "...",
+     "value": "…"
+    },
+    {
+     "key": "--",
+     "value": "–"
+    },
+    {
+     "key": "---",
+     "value": "—"
+    }
+   ],
+   "matchWholeWords": false
+  }
+ },
+ "display": {
+  "theme": "berlin",
+  "useSystemAccentColor": false,
+  "hideToolbarInDistractionFree": false,
+  "markdownFileExtensions": false,
+  "imageWidth": 100,
+  "imageHeight": 50,
+  "renderCitations": true,
+  "renderIframes": true,
+  "renderImages": true,
+  "renderLinks": true,
+  "renderMath": true,
+  "renderTasks": true,
+  "renderHTags": false,
+  "renderEmphasis": false
+ },
+ "selectedDicts": [],
+ "appLang": "en-US",
+ "debug": false,
+ "watchdog": {
+  "activatePolling": false,
+  "stabilityThreshold": 1000
+ },
+ "system": {
+  "deleteOnFail": false,
+  "leaveAppRunning": true,
+  "avoidNewTabs": false,
+  "iframeWhitelist": [
+   "www.youtube.com",
+   "player.vimeo.com"
+  ],
+  "checkForUpdates": true,
+  "zoomBehavior": "gui"
+ },
+ "checkForBeta": false,
+ "displayToolbarButtons": {
+  "showOpenPreferencesButton": true,
+  "showNewFileButton": true,
+  "showPreviousFileButton": true,
+  "showNextFileButton": true,
+  "showToggleReadabilityButton": true,
+  "showMarkdownCommentButton": true,
+  "showMarkdownLinkButton": true,
+  "showMarkdownImageButton": true,
+  "showMarkdownMakeTaskListButton": true,
+  "showInsertTableButton": true,
+  "showInsertFootnoteButton": true,
+  "showDocumentInfoText": true,
+  "showPomodoroButton": false
+ },
+ "uuid": "c0f31bfc-013d-4b77-96c6-5a0aeb0086ed"
+}
