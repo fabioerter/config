@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =4
+let g:netrw_dirhist_4='/home/fabio-scalzer'
+let g:netrw_dirhist_3='/home/fabio-scalzer/vim/src/tee'
+let g:netrw_dirhist_2='/home/fabio-scalzer/vim/src'
+let g:netrw_dirhist_1='/home/fabio-scalzer'

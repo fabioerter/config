@@ -18,12 +18,7 @@ return {
         opts = {
             servers = {
                 -- Ensure mason installs the server
-                omnisharp = {
-                        cmd = { "/home/fabio-scalzer/.local/share/nvim/mason/bin/omnisharp" },
-                        enable_roslyn_analyzers = true,
-                        organize_imports_on_format = true,
-                        enable_import_completion = true,
-                },
+                omnisharp = {},
             },
             -- configure omnisharp to fix the semantic tokens bug (really annoying)
             setup = {

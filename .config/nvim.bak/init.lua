@@ -1,5 +1,2 @@
 -- bootstrap lazy.nvim, LazyVim and your plugins
 require("config.lazy")
-require("dap")
-require("easy-dotnet")
-require("coverage").setup()

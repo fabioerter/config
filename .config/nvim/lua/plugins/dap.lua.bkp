@@ -1,0 +1,78 @@
+local function ls_dir(path)
+        local files = {}
+        for file in io.popen('ls "' .. path .. '"'):lines() do
+                table.insert(files, file)
+        end
+        return files
+end
+
+local function get_root_dir()
+        local root_dir = vim.fn.getcwd()
+        local project_name = vim.fn.fnamemodify(root_dir, ":t")
+        return root_dir .. "/" .. project_name
+end
+
+return {
+        {
+                "mfussenegger/nvim-dap",
+                dependencies = {
+                        "rcarriga/nvim-dap-ui",
+                        "theHamsta/nvim-dap-virtual-text",   -- Exibe variáveis inline
+                        "nvim-telescope/telescope-dap.nvim", -- Integra com o Telescope (opcional)
+                },
+                config = function()
+                        local dap = require("dap")
+                        local dapui = require("dapui")
+
+                        -- Configurar UI
+                        dapui.setup()
+
+                        -- Abre o UI automaticamente quando iniciar o debug
+                        dap.listeners.after.event_initialized["dapui_config"] = function()
+                                dapui.open()
+                        end
+
+                        -- Fecha a UI quando o debug termina
+                        dap.listeners.before.event_terminated["dapui_config"] = function()
+                                dapui.close()
+                        end
+                        dap.listeners.before.event_exited["dapui_config"] = function()
+                                dapui.close()
+                        end
+
+                        -- Configuração do depurador para .NET (usando Netcoredbg)
+                        dap.adapters.coreclr = {
+                                type = "executable",
+                                command = "/home/fabio-scalzer/.local/share/nvim/mason/bin/netcoredbg", -- Ajuste o caminho se necessário
+                                args = { "--interpreter=vscode" }
+                        }
+
+                        dap.configurations.cs = {
+                                {
+                                        type = "coreclr",
+                                        name = "Launch .NET",
+                                        request = "launch",
+                                        program = function()
+                                                -- return vim.fn.getcwd() .. "/bin/Debug/net8.0/FlareHotspotServer.dll"
+                                                local files = ls_dir(get_root_dir() .. "/bin/Debug/")
+
+                                                if #files == 1 then
+                                                        local dotnet_dir = get_root_dir() .. "/bin/Debug/" .. files[1]
+                                                        files = ls_dir(dotnet_dir)
+                                                        for _, file in ipairs(files) do
+                                                                if file:match(".*%.dll") then
+                                                                        return dotnet_dir .. "/" .. file
+                                                                end
+                                                        end
+                                                end
+                                                -- return vim.fn.input("Path to dll", vim.fn.getcwd() .. "/bin/Debug/", "file")
+                                                return vim.fn.input({
+                                                        prompt = "Path to dll",
+                                                        default = get_root_dir() .. "/bin/Debug/",
+                                                })
+                                        end,
+                                },
+                        }
+                end,
+        },
+}

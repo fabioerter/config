@@ -3,5 +3,3 @@
 -- Add any additional options here
 vim.opt.shiftwidth = 8 -- Size of an indent
 vim.opt.tabstop = 8
-vim.opt.clipboard = ""
-vim.opt.wrap = true
